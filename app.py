@@ -1,9 +1,14 @@
 import re
-from flask import Flask, render_template, request
+from flask import Flask, send_from_directory, request, redirect, url_for, render_template
 import google.generativeai as genai
 import os
 
 app = Flask(__name__)
+
+app.config['REGISTER_FOLDER'] = 'static/res/register'
+app.config['HOME_FOLDER'] = 'static/res/home'
+app.config['MAP_FOLDER'] = 'static/res/map'
+app.config['BOOKSLOT_FOLDER'] = 'static/res/bookslot'
 
 API_KEY = "AIzaSyCA4__JMC_ZIQ9xQegIj5LOMLhSSrn3pMw"
 
@@ -36,8 +41,8 @@ def generate_itinerary(prompt):
     return model.generate_content([prompt])
 
 
-@app.route('/', methods=['GET', 'POST'])
-def home():
+@app.route('/planTrips', methods=['GET', 'POST'])
+def planTrips():
     itinerary_content = None  # Define itinerary_content with a default value
     if request.method == 'POST':
         source = request.form.get('source')
@@ -50,10 +55,13 @@ def home():
         prompt_itinerary = f"""
         Plan an optimal road trip from {source} to {destination} on a {battery_range}-range {vehicle_type}. I will be departing {source} at {start_time}.
 
-        Please suggest the fastest route given current and forecasted traffic conditions, with necessary supercharging/charging stops along the way given my vehicle's rated driving efficiency. Optimize stops for {preferences_text}. Provide estimated arrival time at each supercharging location accounting for wait times, along with charge time, city location, address and approximate cost based on current rates.
+        Please suggest the fastest route given current and forecasted traffic conditions, with necessary supercharging/charging stops along the way given my vehicle's rated driving efficiency. Optimize stops for {preferences_text}. Provide estimated arrival time at each supercharging location accounting for wait times, along with charge time, city location, address, and approximate cost based on current rates. 
+
+        Additionally, list all available EV charging stations along the route. For each charging stop, recommend the top places to hang out and visit nearby to make efficient use of charging time. This may include cafes, restaurants, parks, or any interesting landmarks within walking distance.
 
         Include an overview of the complete trip time, total miles driven, energy consumption estimate, total charging costs, and recommended tire pressure setting for maximum efficiency.
         """
+
 
         # Ensure generate_itinerary actually returns a value or text to avoid another potential error
         response = generate_itinerary(prompt_itinerary)
@@ -63,7 +71,54 @@ def home():
         itinerary_content = format_response(itinerary_content)
 
     # Ensure itinerary_content is passed to the template, whether None or containing a value
-    return render_template('index.html', itinerary=itinerary_content)
+    # return render_template('trips.html', itinerary=itinerary_content)
+    return render_template('trips.html', itinerary=itinerary_content)
+
+@app.route('/data')
+def serve_data():
+    return send_from_directory(app.static_folder, 'json/evCharger.json')
+
+@app.route('/mumbai')
+def mumbai():
+    return app.send_static_file('json/mumbai.json')
+
+
+@app.route('/pune')
+def serve_pune_data():
+    return send_from_directory(app.static_folder, 'json/pune.json')
+
+@app.route('/bookSlot', methods=['GET', 'POST'])
+def book_slot():
+    if request.method == 'POST':
+        # Handle the form submission here
+        return redirect(url_for('book_slot'))
+    return send_from_directory(app.config['BOOKSLOT_FOLDER'], 'bookSlot.html')
+
+@app.route('/map')
+def map_view():
+    return send_from_directory(app.config['MAP_FOLDER'], 'map.html')
+
+@app.route('/register')
+def register():
+    return send_from_directory(app.config['REGISTER_FOLDER'], 'register.html')
+
+# @app.route('/planTrips')
+# def planTrips():
+#     return send_from_directory(app.config['PLAN_FOLDER'], 'trips.html')
+
+@app.route('/')
+def index():
+    return render_template('index.html')
+
+@app.route('/home')
+def home():
+    return send_from_directory(app.config['HOME_FOLDER'], 'home.html')
+
+@app.route('/registerEVBranch', methods=['POST'])
+def register_ev_branch():
+    # Handle form submission here
+    # You can access form data using request.form
+    return 'Received the data successfully!'
 
 def format_bold(text):
     # Convert text surrounded by ** into bold HTML tags
@@ -98,4 +153,4 @@ def format_response(response):
 
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(port=3000)

@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EV Charging Station Finder</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 20px;
+    }
+
+    #dataContainer {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-around;
+      gap: 20px; /* Add space between cards */
+    }
+
+    .dataItem {
+      background-color: #ffffff;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      border-radius: 8px;
+      width: calc(50% - 20px); /* Adjust width for gap */
+      box-sizing: border-box;
+      padding: 20px;
+      margin-bottom: 20px;
+    }
+
+    .dataItem h2 {
+      font-size: 20px;
+      color: #333;
+      margin-top: 0;
+    }
+
+    .dataItem p {
+      margin: 10px 0;
+      line-height: 1.5;
+      color: #666;
+    }
+
+    @media (max-width: 768px) {
+      .dataItem {
+        width: 100%; /* Full width on smaller screens */
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <h1>Available EV Charging Stations</h1>
+  <div id="dataContainer"></div>
+
+  <script>
+    fetch('/data')
+      .then(response => response.json())
+      .then(data => {
+        const dataContainer = document.getElementById('dataContainer');
+        data.forEach(item => {
+          const div = document.createElement('div');
+          div.className = 'dataItem';
+          div.innerHTML = `
+            <h2>${item.branch}</h2>
+            <p>Connector Type: ${item.connector}</p>
+            <p>Total Port: ${item.ports}</p>
+            <p>KW: ${item.kw}</p>
+            <p>Speed: ${item.speed}</p>
+            <p>Address: ${item.address}</p>
+            <p>Phone Number: ${item.phone}</p>
+            <p>Opening Hours: ${item.hours}</p>
+            <p>Latitude: ${item.latitude}</p>
+            <p>Longitude: ${item.longitude}</p>
+          `;
+          dataContainer.appendChild(div);
+        });
+      })
+      .catch(error => console.error('Error fetching data:', error));
+  </script>
+</body>
+
+</html>

@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enhanced Registration Form</title>
+    <link rel="stylesheet" href="../../css/index.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 500px;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+        }
+
+        h2 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .form-group {
+            margin-bottom: 15px;
+        }
+
+        label {
+            display: block;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
+        input[type="text"],
+        input[type="number"],
+        input[type="tel"],
+        input[type="file"],
+        select,
+        textarea {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 10px;
+            font-size: 14px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+
+        button {
+            width: 100%;
+            background-color: #4CAF50;
+            color: white;
+            padding: 14px 20px;
+            margin: 8px 0;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #45a049;
+        }
+
+        #result {
+            margin-top: 20px;
+        }
+
+        #result p {
+            font-size: 16px;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h2>Registration Form</h2>
+        <form action="/registerEVBranch" method="POST">
+            <div class="form-group">
+                <label for="branch">Name of Branch:</label>
+                <input type="text" id="branch" name="branch" required>
+            </div>
+            <div class="form-group">
+                <label for="connector">Connector Type:</label>
+                <select id="connector" name="connector" required>
+                    <option value="Type A">Type A</option>
+                    <option value="Type B">Type B</option>
+                    <option value="Type C">Type C</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="ports">Total Port:</label>
+                <input type="number" id="ports" name="ports" required>
+            </div>
+            <div class="form-group">
+                <label for="kw">KW:</label>
+                <input type="number" id="kw" name="kw" required>
+            </div>
+            <div class="form-group">
+                <label for="speed">Speed:</label>
+                <input type="text" id="speed" name="speed" required>
+            </div>
+            <div class="form-group">
+                <label for="address">Full Address:</label>
+                <textarea id="address" name="address" rows="4" required></textarea>
+            </div>
+            <div class="form-group">
+                <label for="phone">Phone Number:</label>
+                <input type="tel" id="phone" name="phone" required>
+            </div>
+            <div class="form-group">
+                <label for="hours">Opening Hours:</label>
+                <input type="text" id="hours" name="hours" required>
+            </div>
+            <div class="form-group">
+                <label for="latitude">Latitude:</label>
+                <input type="text" id="latitude" name="latitude" required>
+            </div>
+            <div class="form-group">
+                <label for="longitude">Longitude:</label>
+                <input type="text" id="longitude" name="longitude" required>
+            </div>
+
+            <div class="form-group">
+                <label for="photo">Photo (optional):</label>
+                <input type="file" id="photo" name="photo">
+            </div>
+            <button type="submit">Submit</button>
+        </form>
+    </div>
+    <div id="result" class="container" style="display:none;">
+        <h2>Submitted Data</h2>
+        <!-- Placeholder for submitted data -->
+    </div>
+
+    <script>
+        document.getElementById('registrationForm').addEventListener('submit', function(e) {
+            e.preventDefault(); // Prevent actual form submission
+            const formData = new FormData(this);
+            const resultContainer = document.getElementById('result');
+            resultContainer.innerHTML = '<h2>Submitted Data</h2>'; // Reset and add title
+            for (let [key, value] of formData.entries()) {
+                // Skip file display logic
+                if(key !== 'photo') {
+                    const p = document.createElement('p');
+                    p.textContent = `${key}: ${value}`;
+                    resultContainer.appendChild(p);
+                }
+            }
+            resultContainer.style.display = 'block'; // Show results
+            window.scrollTo(0, document.body.scrollHeight); // Scroll to the bottom to show results
+        });
+    </script>
+</body>
+
+</html>

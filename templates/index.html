@@ -1,74 +1,235 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>EV Travel Itinerary Generator</title>
-    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.1.4/dist/tailwind.min.css" rel="stylesheet">
-</head>
-<body class="bg-gray-100">
-    <div class="container mx-auto px-4">
-        <div class="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4 mt-10">
-            <h2 class="block text-gray-700 text-xl font-bold mb-2">Enter Travel Details</h2>
-            <form method="POST" class="mb-4">
-                <div class="mb-4">
-                    <label class="block text-gray-700 text-sm font-bold mb-2" for="source">
-                        Starting point
-                    </label>
-                    <input class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" id="source" type="text" placeholder="Enter the starting point" name="source">
-                </div>
-                <div class="mb-6">
-                    <label class="block text-gray-700 text-sm font-bold mb-2" for="destination">
-                        Destination
-                    </label>
-                    <input class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" id="destination" type="text" placeholder="Enter your destination" name="destination">
-                </div>
-                <div class="mb-6">
-                    <label class="block text-gray-700 text-sm font-bold mb-2" for="battery_range">
-                        Battery range
-                    </label>
-                    <input class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 mb-3 leading-tight focus:outline-none focus:shadow-outline" id="battery_range" type="range" min="1" max="1000" value="300" name="battery_range">
-                </div>
-                <div class="mb-6">
-                    <label class="block text-gray-700 text-sm font-bold mb-2" for="start_time">
-                        Start time
-                    </label>
-                    <input class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" id="start_time" type="time" name="start_time">
-                </div>
-                <div class="mb-6">
-                    <label class="block text-gray-700 text-sm font-bold mb-2" for="vehicle_type">
-                        Electric vehicle type
-                    </label>
-                    <select class="shadow border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" id="vehicle_type" name="vehicle_type">
-                        <option value="Car">Car</option>
-                        <option value="Scooty">Scooty</option>
-                        <option value="Bike">Bike</option>
-                    </select>
-                </div>
-                <div class="mb-6">
-                    <label class="block text-gray-700 text-sm font-bold mb-2" for="preferences_text">
-                        Optimize My Route For
-                    </label>
-                    <select class="shadow border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" id="preferences_text" name="preferences_text">
-                        <option value="Minimize Cost">Minimize Cost</option>
-                        <option value="Minimum Time">Minimum Time</option>
-                        <option value="Maximum Energy Efficiency">Maximum Energy Efficiency</option>
-                    </select>
-                </div>
-                <div class="flex items-center justify-between">
-                    <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline" type="submit">
-                        Generate Itinerary
-                    </button>
-                </div>
-            </form>
-            {% if itinerary %}
-            <div class="bg-gray-100 p-4 mt-4 rounded">
-                <h2 class="block text-gray-700 text-xl font-bold mb-2">Generated Itinerary</h2>
-                <!-- Use the |safe filter to render HTML properly -->
-                <div class="text-gray-700">{{ itinerary|safe }}</div>
-            </div>
-            {% endif %}
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>EV Journey Planner</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+    />
+    <link rel="stylesheet" href="../static/styles.css" />
+    <style>
+      /* Custom styles for broader hero section and minimal footer */
+      .hero-section {
+        padding: 40px 0; /* Increase padding for a broader look */
+        background-color: #f0f9ff; /* Light green background */
+        color: #333; /* Adjust text color for better contrast */
+      }
+      .footer {
+        background-color: #f0f9ff; /* Footer background to match the theme */
+        color: #333; /* Footer text color */
+        padding: 20px 0;
+        text-align: center;
+      }
+      .feature-btn {
+        display: inline-block;
+        background-color: #4caf50; /* Button color to match theme */
+        color: white;
+        padding: 10px 20px;
+        margin-top: 20px;
+        border-radius: 5px;
+        text-decoration: none;
+        font-weight: 600;
+        transition: background-color 0.3s ease;
+      }
+      .feature-btn:hover {
+        background-color: #45a049; /* Darker shade on hover */
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container mx-auto px-4 sm:px-6 lg:px-8">
+      <nav class="flex justify-between items-center py-6">
+        <a href="/" class="text-2xl font-bold text-gray-800">Unplanned EV</a>
+        <div class="menu-toggle" onclick="toggleMenu()">
+          <i class="fas fa-bars fa-2x"></i>
         </div>
+        <div class="nav-links hidden md:flex">
+          <a href="/map" class="text-gray-600 mx-2">Station Finder</a>
+          <a href="/planTrips" class="text-gray-600 mx-2">Plan Trip</a>
+          <a href="/bookSlot" class="text-gray-600 mx-2">Book Slot</a>
+          <a href="/home" class="text-gray-600 mx-2">Station Details</a>
+          <a href="/register" class="text-gray-600 mx-2">Register</a>
+        </div>
+      </nav>
+
+      <!-- Hero Banner with Value Proposition -->
+      <div class="hero-section text-center py-20 bg-green-50">
+        <h1 class="text-5xl font-bold">
+          Find and Plan Your EV Charging Stops with Ease
+        </h1>
+        <p class="text-xl mt-4">
+          Streamline your EV charging experience with our intuitive planning
+          tools.
+        </p>
+        <img
+          src="https://imageio.forbes.com/specials-images/imageserve/6376ee8327e8a8b1351a9f14/0x0.jpg?format=jpg&width=1200"
+          alt="Hero Image"
+          class="mx-auto mt-8"
+        />
+      </div>
+
+      <!-- <section class="py-10">
+        <h2 class="text-3xl font-bold text-gray-800 text-center mb-6">
+          How It Works
+        </h2>
+        <div class="flex justify-center">
+          <iframe
+            width="924"
+            height="522"
+            src="https://www.youtube.com/embed/2FaBmpFYylQ?si=jCcRZT-5MG6UOQ0_"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen
+          ></iframe>
+        </div>
+      </section> -->
+
+      <h2 class="text-4xl font-bold text-gray-800 text-center my-10">
+        Features⚡
+      </h2>
+
+      <section
+        class="flex flex-col md:flex-row justify-between items-center py-10"
+      >
+        <div class="w-full md:w-1/2 mb-4 md:mb-0">
+          <img
+            src="https://plus.unsplash.com/premium_photo-1661659690276-ac675b18aa63?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            height="900"
+            width="600"
+            class="mx-auto"
+          />
+        </div>
+        <div class="w-full md:w-1/2 px-8">
+          <h2 class="text-4xl font-bold text-gray-800 mb-4">Station Finder</h2>
+          <p class="text-xl text-gray-600">
+            Instantly locate charging stations in your vicinity and check
+            real-time availability of charge points. The interactive maps show
+            station operators, connector types, pricing and supported payment
+            methods. So you can easily find the perfect fit charging option
+            nearby.
+          </p>
+          <a href="/predict" class="feature-btn">Start Searching</a>
+        </div>
+      </section>
+
+      <section
+        class="flex flex-col md:flex-row justify-between items-center py-10"
+      >
+        <div class="w-full md:w-1/2 order-2 md:order-1 px-8">
+          <h2 class="text-4xl font-bold text-gray-800 mb-4">Trip Planner</h2>
+          <p class="text-xl text-gray-600">
+            Plan out complete long distance driving routes with optimized
+            charging stops tailored for your EV's max range. Enter your starting
+            point and destination for a fully customized multi-stop trip
+            itinerary, with charging locations, durations and costs estimated
+            based on live station data.
+          </p>
+          <a href="/visualize" class="feature-btn">Ready Set EV!</a>
+        </div>
+        <div class="w-full md:w-1/2 mb-4 md:mb-0 order-1 md:order-2">
+          <img
+            src="https://plus.unsplash.com/premium_photo-1663076518116-0f0637626edf?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            height="900"
+            width="600"
+            class="mx-auto"
+          />
+        </div>
+      </section>
+
+      <section
+        class="flex flex-col md:flex-row justify-between items-center py-10"
+      >
+        <div class="w-full md:w-1/2 mb-4 md:mb-0">
+          <img
+            src="https://images.unsplash.com/photo-1704475517731-7575f517b800?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            height="200"
+            width="600"
+            class="mx-auto"
+          />
+        </div>
+        <div class="w-full md:w-1/2 px-8">
+          <h2 class="text-4xl font-bold text-gray-800 mb-4">Slot Booking</h2>
+          <p class="text-xl text-gray-600">
+            Forget waiting in long queues at busy fast charging stations. Simply
+            pre book your preferred charging slot from our wide network and
+            drive in at your scheduled time to plug in hassle-free. Payment also
+            gets automatically initialized based on your booking for maximum
+            convenience.
+          </p>
+          <a href="/generate" class="feature-btn">Book your seat!</a>
+        </div>
+      </section>
+
+      <section>
+        <div class="container mx-auto px-4 py-12">
+          <div class="text-center">
+            <h2 class="text-4xl font-bold text-gray-800 mb-6">
+              Your Ecofriendly Journey Begins Here🍃
+            </h2>
+            <p class="text-xl text-gray-600 mb-12">
+              Our platform simplifies your EV charging experience with
+              easy-to-use features.
+            </p>
+          </div>
+          <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+            <div class="text-center px-4">
+              <div class="mb-4">
+                <i class="fas fa-map-marked-alt text-green-500 text-6xl"></i>
+              </div>
+              <h3 class="text-2xl font-semibold text-gray-800 mb-2">
+                Station Finder
+              </h3>
+              <p class="text-gray-600">
+                Locate EV charging stations near you with real-time
+                availability.
+              </p>
+            </div>
+            <div class="text-center px-4">
+              <div class="mb-4">
+                <i class="fas fa-route text-blue-500 text-6xl"></i>
+              </div>
+              <h3 class="text-2xl font-semibold text-gray-800 mb-2">
+                Trip Planner
+              </h3>
+              <p class="text-gray-600">
+                Plan your trip with efficient charging stops based on your
+                vehicle's range.
+              </p>
+            </div>
+            <div class="text-center px-4">
+              <div class="mb-4">
+                <i class="fas fa-calendar-check text-purple-500 text-6xl"></i>
+              </div>
+              <h3 class="text-2xl font-semibold text-gray-800 mb-2">
+                Slot Booking
+              </h3>
+              <p class="text-gray-600">
+                Book your charging slot in advance for hassle-free charging.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+      <footer class="footer bg-green-50">
+        <p class="text-gray-800">
+          &copy; 2024 EV Journey Planner. All rights reserved.
+        </p>
+      </footer>
     </div>
-</body>
+
+    <script>
+      function toggleMenu() {
+        var navigation = document.querySelector(".nav-links");
+        navigation.classList.toggle("mobile-menu");
+      }
+    </script>
+  </body>
 </html>

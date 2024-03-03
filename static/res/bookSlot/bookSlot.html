@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Book Slot</title>
+    <style>
+      .time-slot {
+        border: 1px solid #ccc;
+        padding: 10px;
+        margin: 5px;
+        width: calc(
+          100% / 7 - 10px
+        ); /* Adjust the width to fit 7 slots per row, accounting for padding and margin */
+        display: inline-block;
+        cursor: pointer; /* Change cursor to indicate clickable items */
+      }
+      .selected {
+        background-color: #add8e6; /* Highlight color for selected slot */
+      }
+
+      .tabs-container {
+            text-align: center;
+            margin-top: 50px;
+        }
+
+        .tab-button {
+            padding: 10px 20px;
+            font-size: 16px;
+            margin: 0 5px;
+            background-color: #f0f0f0;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        .tab-button:hover {
+            background-color: #e0e0e0;
+        }
+
+        .tab-content {
+            display: none;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            margin-top: 20px;
+            width: 60%;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .active-tab {
+            display: block;
+        }
+    </style>
+  </head>
+
+  <body>
+    <h2>Book Slot</h2>
+    <div class="tabs-container">
+        <button class="tab-button" onclick="showTab('tab1Content')">Level1</button>
+        <button class="tab-button" onclick="showTab('tab2Content')">Level2</button>
+        <button class="tab-button" onclick="showTab('tab3Content')">Level3</button>
+    </div>
+
+    <div id="slot-container"></div>
+
+    <script>
+      function generateTimeSlots() {
+        var slotContainer = document.getElementById("slot-container");
+
+        for (var hour = 10; hour <= 17; hour++) {
+          for (var minute = 0; minute < 60; minute += 15) {
+            var time = `${hour < 10 ? "0" + hour : hour}:${
+              minute === 0 ? "00" : minute
+            }`;
+            var div = document.createElement("div");
+            div.className = "time-slot";
+            div.textContent = time;
+            div.addEventListener("click", function () {
+              bookSlot(this);
+            });
+            slotContainer.appendChild(div);
+          }
+        }
+      }
+
+      // Function to manage slot selection and booking
+      function bookSlot(slot) {
+        // Clear previous selection
+        var previouslySelected = document.querySelector(".selected");
+        if (previouslySelected) {
+          previouslySelected.classList.remove("selected");
+        }
+        // Mark the clicked slot as selected
+        slot.classList.add("selected");
+
+        // Alert the user that the slot is booked
+        alert(`Slot booked for ${slot.textContent}`);
+      }
+
+      generateTimeSlots();
+    </script>
+  </body>
+</html>
