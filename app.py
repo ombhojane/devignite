@@ -1,7 +1,11 @@
 import re
+
+import requests
 from flask import Flask, send_from_directory, request, redirect, url_for, render_template
 import google.generativeai as genai
 import os
+import json 
+from flask import jsonify
 
 app = Flask(__name__)
 
@@ -9,6 +13,7 @@ app.config['REGISTER_FOLDER'] = 'static/res/register'
 app.config['HOME_FOLDER'] = 'static/res/home'
 app.config['MAP_FOLDER'] = 'static/res/map'
 app.config['BOOKSLOT_FOLDER'] = 'static/res/bookslot'
+app.config['API_FOLDER'] = 'static/res/apicalls'
 
 API_KEY = "AIzaSyCA4__JMC_ZIQ9xQegIj5LOMLhSSrn3pMw"
 
@@ -82,6 +87,22 @@ def serve_data():
 def mumbai():
     return app.send_static_file('json/mumbai.json')
 
+@app.route('/search', methods=['POST'])
+def search():
+    location = request.json['location']
+    url = "https://ev-charge-finder.p.rapidapi.com/search-by-location"
+    querystring = {"near": location, "limit": "20"}
+    headers = {
+        "X-RapidAPI-Key": "b13e537b7amsh555fb8abecbffeap1bfc6cjsn6490a446c27e",
+        "X-RapidAPI-Host": "ev-charge-finder.p.rapidapi.com"
+    }
+
+    response = requests.get(url, headers=headers, params=querystring)
+    if response.status_code == 200:
+        return jsonify(response.json())
+    else:
+        return jsonify({"error": "Failed to fetch data"}), 500
+
 
 @app.route('/pune')
 def serve_pune_data():
@@ -97,6 +118,10 @@ def book_slot():
 @app.route('/map')
 def map_view():
     return send_from_directory(app.config['MAP_FOLDER'], 'map.html')
+
+@app.route('/apicalls')
+def apicalls():
+    return send_from_directory(app.config['API_FOLDER'], 'apicalls.html')
 
 @app.route('/register')
 def register():

@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EV Charging Stations Finder</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f2f5;
+            padding: 20px;
+            margin: 0;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        #locationInput {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+            box-sizing: border-box;
+        }
+        button {
+            width: 100%;
+            padding: 10px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        #results {
+            margin-top: 20px;
+        }
+        .station {
+            background-color: white;
+            padding: 15px;
+            margin-bottom: 10px;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .station h3 {
+            margin-top: 0;
+        }
+        .station p {
+            margin: 5px 0;
+            line-height: 1.5;
+        }
+    </style>
+</head>
+<body>
+    <h1>Find EV Charging Stations</h1>
+    <input type="text" id="locationInput" placeholder="Enter a location" autofocus>
+    <button onclick="searchStations()">Search</button>
+    <div id="results"></div>
+
+    <script>
+        async function searchStations() {
+            const location = document.getElementById('locationInput').value;
+            const response = await fetch('/search', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ location }),
+            });
+
+            const responseData = await response.json();
+
+            const resultsContainer = document.getElementById('results');
+            resultsContainer.innerHTML = ''; // Clear previous results
+
+            if (responseData.error) {
+                resultsContainer.innerHTML = '<p>Failed to fetch data.</p>';
+                return;
+            }
+
+            // Adjusted to target the nested data array
+            if (responseData.data && Array.isArray(responseData.data)) {
+                responseData.data.forEach(station => {
+                    const div = document.createElement('div');
+                    div.className = 'station';
+                    div.innerHTML = `
+                        <h3>${station.formatted_address}</h3>
+                        <p>Connectors: ${station.connectors.map(connector => connector.type).join(', ')}</p>
+                    `;
+                    resultsContainer.appendChild(div);
+                });
+            } else {
+                console.log('Unexpected data structure:', responseData);
+                resultsContainer.innerHTML = '<p>No stations found or unexpected data structure.</p>';
+            }
+        }
+    </script>
+</body>
+</html>
