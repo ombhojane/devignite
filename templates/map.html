@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Default Map</title>
+    <meta name="viewport" content="initial-scale=1.0">
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="index.css">
+    <!-- Include the Mappls API script with your API key -->
+    <script
+        src="https://apis.mappls.com/advancedmaps/api/a07545f1fcf4a5344e23d2090feef7dd/map_sdk?layer=vector&v=3.0&callback=initMap1"
+        defer async></script>
+    <style>
+        html,
+        body,
+        .parent {
+            display: flex;
+            justify-content: flex-end;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            width: 100vw;
+        }
+
+        #map {
+            width: 60%;
+            height: 600px;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Create a div element with the id "map" to hold the map -->
+    <div class="parent">
+        <div class="select-container">
+            <select onchange="changeCity()">
+                <option value="">Select City</option> <!-- Default value set to nothing -->
+                <option value="pune">Pune</option>
+                <option value="mumbai">Mumbai</option>
+            </select>
+        </div>
+        <div id="map"></div>
+    </div>
+    <!-- Include your JavaScript file that initializes the map and adds markers with personalized cards -->
+    <script src="script.js"></script>
+</body>
+
+</html>

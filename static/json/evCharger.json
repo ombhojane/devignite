@@ -1,0 +1,147 @@
+[
+    {
+      "branch": "Mumbai Central",
+      "connector": "Type A",
+      "ports": 10,
+      "kw": 100,
+      "speed": "High",
+      "address": "123 Main Street, Mumbai, India",
+      "phone": "+91 1234567890",
+      "hours": "9:00 AM - 6:00 PM",
+      "latitude": 19.0760,
+      "longitude": 72.8777
+    },
+    {
+      "branch": "Mumbai North",
+      "connector": "Type B",
+      "ports": 8,
+      "kw": 80,
+      "speed": "Medium",
+      "address": "456 Park Avenue, Mumbai, India",
+      "phone": "+91 9876543210",
+      "hours": "8:00 AM - 5:00 PM",
+      "latitude": 19.1466,
+      "longitude": 72.8360
+    },
+    {
+      "branch": "Mumbai South",
+      "connector": "Type C",
+      "ports": 12,
+      "kw": 120,
+      "speed": "Low",
+      "address": "789 Oak Street, Mumbai, India",
+      "phone": "+91 9988776655",
+      "hours": "10:00 AM - 7:00 PM",
+      "latitude": 18.9154,
+      "longitude": 72.8258
+    },
+    {
+      "branch": "Mumbai East",
+      "connector": "Type A",
+      "ports": 9,
+      "kw": 90,
+      "speed": "High",
+      "address": "321 Elm Road, Mumbai, India",
+      "phone": "+91 9876543210",
+      "hours": "9:30 AM - 6:30 PM",
+      "latitude": 19.0078,
+      "longitude": 72.8564
+    },
+    {
+      "branch": "Mumbai West",
+      "connector": "Type B",
+      "ports": 11,
+      "kw": 110,
+      "speed": "Medium",
+      "address": "654 Pine Street, Mumbai, India",
+      "phone": "+91 9988776655",
+      "hours": "8:30 AM - 5:30 PM",
+      "latitude": 19.1970,
+      "longitude": 72.8276
+    },
+    {
+      "branch": "Mumbai Suburb",
+      "connector": "Type C",
+      "ports": 7,
+      "kw": 70,
+      "speed": "Low",
+      "address": "987 Maple Avenue, Mumbai, India",
+      "phone": "+91 1234567890",
+      "hours": "10:30 AM - 7:30 PM",
+      "latitude": 19.0760,
+      "longitude": 72.8679
+    },
+    {
+      "branch": "Mumbai Downtown",
+      "connector": "Type A",
+      "ports": 14,
+      "kw": 140,
+      "speed": "High",
+      "address": "147 Walnut Street, Mumbai, India",
+      "phone": "+91 9876543210",
+      "hours": "8:00 AM - 5:00 PM",
+      "latitude": 19.0690,
+      "longitude": 72.8656
+    },
+    {
+      "branch": "Mumbai Business District",
+      "connector": "Type B",
+      "ports": 6,
+      "kw": 60,
+      "speed": "Medium",
+      "address": "369 Birch Avenue, Mumbai, India",
+      "phone": "+91 9988776655",
+      "hours": "9:00 AM - 6:00 PM",
+      "latitude": 19.0597,
+      "longitude": 72.8451
+    },
+    {
+      "branch": "Mumbai Financial Center",
+      "connector": "Type C",
+      "ports": 13,
+      "kw": 130,
+      "speed": "Low",
+      "address": "258 Cedar Street, Mumbai, India",
+      "phone": "+91 1234567890",
+      "hours": "10:00 AM - 7:00 PM",
+      "latitude": 19.0865,
+      "longitude": 72.8893
+    },
+    {
+      "branch": "Mumbai Technology Park",
+      "connector": "Type A",
+      "ports": 8,
+      "kw": 80,
+      "speed": "High",
+      "address": "753 Sycamore Road, Mumbai, India",
+      "phone": "+91 9876543210",
+      "hours": "9:30 AM - 6:30 PM",
+      "latitude": 19.0820,
+      "longitude": 72.8815
+    },
+    {
+      "branch": "Mumbai Industrial Zone",
+      "connector": "Type B",
+      "ports": 11,
+      "kw": 110,
+      "speed": "Medium",
+      "address": "159 Poplar Street, Mumbai, India",
+      "phone": "+91 9988776655",
+      "hours": "8:30 AM - 5:30 PM",
+      "latitude": 19.0758,
+      "longitude": 72.8772
+    },
+    {
+      "branch": "Mumbai Retail Hub",
+      "connector": "Type C",
+      "ports": 9,
+      "kw": 90,
+      "speed": "Low",
+      "address": "456 Chestnut Avenue, Mumbai, India",
+      "phone": "+91 1234567890",
+      "hours": "10:30 AM - 7:30 PM",
+      "latitude": 19.075983,
+      "longitude": 72.877655
+    }
+  ]
+  

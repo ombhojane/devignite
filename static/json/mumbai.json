@@ -1,0 +1,3253 @@
+{
+    "status": "OK",
+    "request_id": "c7e9f28c-585a-4bf0-a52a-6c103b7a3086",
+    "data": [
+      {
+        "id": "0x3be7c9e4a37a573d:0x298138813bc541",
+        "name": "Electric Vehicle Charging Station",
+        "connectors": [
+          {
+            "type": "CCS",
+            "total": 2,
+            "available": null,
+            "kw": 60,
+            "speed": "Fast"
+          }
+        ],
+        "formatted_address": "Chhatrapati Shivaji Maharaj International Airport, P1, MLCP, Navpada, Vile Parle East, Vile Parle, Mumbai, Maharashtra 400099",
+        "address_components": {
+          "district": "Navpada, Vile Parle East, Vile Parle",
+          "street_address": "Chhatrapati Shivaji Maharaj International Airport, P1, MLCP",
+          "city": "Mumbai",
+          "zipcode": null,
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.0949051,
+        "longitude": 72.85616139999999,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c9e4a37a573d:0x298138813bc541",
+        "phone_number": null,
+        "opening_hours": {
+          "Sunday": [
+            "Open 24 hours"
+          ],
+          "Monday": [
+            "Open 24 hours"
+          ],
+          "Tuesday": [
+            "Open 24 hours"
+          ],
+          "Wednesday": [
+            "Open 24 hours"
+          ],
+          "Thursday": [
+            "Open 24 hours"
+          ],
+          "Friday": [
+            "Open 24 hours"
+          ],
+          "Saturday": [
+            "Open 24 hours"
+          ]
+        },
+        "rating": 3.7,
+        "review_count": 6,
+        "website": null,
+        "photo": "https://lh5.googleusercontent.com/p/AF1QipOgRVt-pdFI44p2bvRa-_PO8cLYIQl8frh2SJIR=w2100-h1576-k-no",
+        "google_place_id": "ChIJPVd6o-TJ5zsRQcU7gTiBKQA",
+        "google_cid": "11682553731466561"
+      },
+      {
+        "id": "0x3be7c9d9ff295669:0x861fb2baaff51119",
+        "name": "Electric Vehicle Charging Station",
+        "connectors": [
+          {
+            "type": "CCS",
+            "total": 2,
+            "available": null,
+            "kw": 50,
+            "speed": "Fast"
+          }
+        ],
+        "formatted_address": "G Block BKC, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051",
+        "address_components": {
+          "district": "G Block BKC, Bandra Kurla Complex, Bandra East",
+          "street_address": null,
+          "city": "Mumbai",
+          "zipcode": "400051",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.0605859,
+        "longitude": 72.86480569999999,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c9d9ff295669:0x861fb2baaff51119",
+        "phone_number": "+919650031906",
+        "opening_hours": {
+          "Sunday": [
+            "Open 24 hours"
+          ],
+          "Monday": [
+            "Open 24 hours"
+          ],
+          "Tuesday": [
+            "Open 24 hours"
+          ],
+          "Wednesday": [
+            "Open 24 hours"
+          ],
+          "Thursday": [
+            "Open 24 hours"
+          ],
+          "Friday": [
+            "Open 24 hours"
+          ],
+          "Saturday": [
+            "Open 24 hours"
+          ]
+        },
+        "rating": 5,
+        "review_count": 3,
+        "website": "http://www.spotcharge.co.in",
+        "photo": "https://lh5.googleusercontent.com/p/AF1QipM88yvXRwZ3fG96ROFVYOKZsw2hQhFjuFLhLk3d=w1800-h4000-k-no",
+        "google_place_id": "ChIJaVYp_9nJ5zsRGRH1r7qyH4Y",
+        "google_cid": "9664639840246108441"
+      },
+      {
+        "id": "0x3be7c93f63e7f6fd:0x1b0cab2ca82c3083",
+        "name": "Electric Vehicle Charging Station",
+        "connectors": [
+          {
+            "type": "CCS",
+            "total": 2,
+            "available": null,
+            "kw": 60,
+            "speed": "Fast"
+          }
+        ],
+        "formatted_address": "183/184, Parag Building, 11th Road, Madhu Park, opposite Ghanteshwar Mandir, Khar West, Mumbai, Maharashtra 400022",
+        "address_components": {
+          "district": "Khar, Khar West",
+          "street_address": "183/184, Parag Building, 11th Road, Madhu Park, opposite Ghanteshwar Mandir",
+          "city": "Mumbai",
+          "zipcode": "400022",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.071718699999998,
+        "longitude": 72.8360941,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c93f63e7f6fd:0x1b0cab2ca82c3083",
+        "phone_number": null,
+        "opening_hours": {
+          "Sunday": [
+            "Open 24 hours"
+          ],
+          "Monday": [
+            "Open 24 hours"
+          ],
+          "Tuesday": [
+            "Open 24 hours"
+          ],
+          "Wednesday": [
+            "Open 24 hours"
+          ],
+          "Thursday": [
+            "Open 24 hours"
+          ],
+          "Friday": [
+            "Open 24 hours"
+          ],
+          "Saturday": [
+            "Open 24 hours"
+          ]
+        },
+        "rating": 4.9,
+        "review_count": 16,
+        "website": null,
+        "photo": "https://lh5.googleusercontent.com/p/AF1QipO-p6XLDu-qMwVG_aForgXYhUdX9H3I3kfPDFaE=w3472-h3472-k-no",
+        "google_place_id": "ChIJ_fbnYz_J5zsRgzAsqCyrDBs",
+        "google_cid": "1949120947032961155"
+      },
+      {
+        "id": "0x3be7c9239b1d523f:0x83b5705c3a2430b3",
+        "name": "EV DOCK Charging Station",
+        "connectors": [
+          {
+            "type": "CCS",
+            "total": 2,
+            "available": null,
+            "kw": 60,
+            "speed": "Fast"
+          }
+        ],
+        "formatted_address": "2RWR+8X2, Mahim - Sion Link Rd, Naya Nagar, Police Colony, Mahim, Mumbai, Maharashtra 400016",
+        "address_components": {
+          "district": "Naya Nagar, Police Colony, Mahim",
+          "street_address": "2RWR+8X2, Mahim - Sion Link Rd",
+          "city": "Mumbai",
+          "zipcode": "400016",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.045586399999998,
+        "longitude": 72.8421844,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c9239b1d523f:0x83b5705c3a2430b3",
+        "phone_number": "+919903910391",
+        "opening_hours": {
+          "Sunday": [
+            "Open 24 hours"
+          ],
+          "Monday": [
+            "Open 24 hours"
+          ],
+          "Tuesday": [
+            "Open 24 hours"
+          ],
+          "Wednesday": [
+            "Open 24 hours"
+          ],
+          "Thursday": [
+            "Open 24 hours"
+          ],
+          "Friday": [
+            "Open 24 hours"
+          ],
+          "Saturday": [
+            "Open 24 hours"
+          ]
+        },
+        "rating": 5,
+        "review_count": 4,
+        "website": "https://evdock.app",
+        "photo": "https://lh5.googleusercontent.com/p/AF1QipMF9L8zDgAm8atn_PqFNUVRKO4NcK8JZrT4IRpC=w960-h1280-k-no",
+        "google_place_id": "ChIJP1IdmyPJ5zsRszAkOlxwtYM",
+        "google_cid": "9490615331167940787"
+      },
+      {
+        "id": "0x3be7cf75bf7a64cb:0xedcaeb5ae218dc9",
+        "name": "Electric Vehicle Charging Station",
+        "connectors": [
+          {
+            "type": "CCS",
+            "total": 1,
+            "available": null,
+            "kw": 50,
+            "speed": "Fast"
+          }
+        ],
+        "formatted_address": "Namdev Koli Marg, Sion, Mumbai, Maharashtra 400022",
+        "address_components": {
+          "district": "Namdev Koli Marg, Sion",
+          "street_address": null,
+          "city": "Mumbai",
+          "zipcode": "400022",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.0318809,
+        "longitude": 72.8591964,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7cf75bf7a64cb:0xedcaeb5ae218dc9",
+        "phone_number": "+918691858139",
+        "opening_hours": {
+          "Sunday": [
+            "Open 24 hours"
+          ],
+          "Monday": [
+            "Open 24 hours"
+          ],
+          "Tuesday": [
+            "Open 24 hours"
+          ],
+          "Wednesday": [
+            "Open 24 hours"
+          ],
+          "Thursday": [
+            "Open 24 hours"
+          ],
+          "Friday": [
+            "Open 24 hours"
+          ],
+          "Saturday": [
+            "Open 24 hours"
+          ]
+        },
+        "rating": 4.5,
+        "review_count": 13,
+        "website": null,
+        "photo": "https://lh5.googleusercontent.com/p/AF1QipPZ3Swsf3LCycC4i413Kv9cEq6F32Tk77FEVJOU=w738-h1600-k-no",
+        "google_place_id": "ChIJy2R6v3XP5zsRyY0hrrWu3A4",
+        "google_cid": "1070922906741083593"
+      },
+      {
+        "id": "0x3be7c9882d518d69:0x89685ffb60f24515",
+        "name": "Tata Power Charging Station",
+        "connectors": [
+          {
+            "type": "CHAdeMO",
+            "total": 1,
+            "available": null,
+            "kw": 25,
+            "speed": "Medium"
+          },
+          {
+            "type": "CCS",
+            "total": 1,
+            "available": null,
+            "kw": 25,
+            "speed": "Medium"
+          },
+          {
+            "type": "CCS",
+            "total": 1,
+            "available": null,
+            "kw": 15,
+            "speed": "Medium"
+          }
+        ],
+        "formatted_address": "Anik Depot, Municipal Kamgar Vasahat, Trombay Indusrial Area, Chembur, Mumbai, Maharashtra 400022",
+        "address_components": {
+          "district": "Municipal Kamgar Vasahat, Trombay Indusrial Area, Chembur",
+          "street_address": "Anik Depot",
+          "city": "Mumbai",
+          "zipcode": "400022",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.0471409,
+        "longitude": 72.8786921,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c9882d518d69:0x89685ffb60f24515",
+        "phone_number": null,
+        "opening_hours": {
+          "Sunday": [
+            "Open 24 hours"
+          ],
+          "Monday": [
+            "Open 24 hours"
+          ],
+          "Tuesday": [
+            "Open 24 hours"
+          ],
+          "Wednesday": [
+            "Open 24 hours"
+          ],
+          "Thursday": [
+            "Open 24 hours"
+          ],
+          "Friday": [
+            "Open 24 hours"
+          ],
+          "Saturday": [
+            "Open 24 hours"
+          ]
+        },
+        "rating": 4.8,
+        "review_count": 5,
+        "website": "https://www.tatapower.com",
+        "photo": "https://lh5.googleusercontent.com/p/AF1QipNdhjK6bZQBLMBTQU1VNJk6xChtkJ_GsS9QYPrI=w3285-h2084-k-no",
+        "google_place_id": "ChIJaY1RLYjJ5zsRFUXyYPtfaIk",
+        "google_cid": "9901269314041955605"
+      },
+      {
+        "id": "0x3be7c95c0d114cb9:0x95f26db9420c0b34",
+        "name": "EV Dock Charging Station",
+        "connectors": [
+          {
+            "type": "CCS",
+            "total": 2,
+            "available": null,
+            "kw": 60,
+            "speed": "Fast"
+          },
+          {
+            "type": "Type 2",
+            "total": 37,
+            "available": null,
+            "kw": 14.8,
+            "speed": "Medium"
+          }
+        ],
+        "formatted_address": "CTS No. 145 A, NS C-04, Skycity, Chhatrapati Shivaji Maharaj Int'l Airport Rd, near Mumbai International Airport, AAI Colony, J B Nagar, Andheri East, Mumbai, Maharashtra 400099",
+        "address_components": {
+          "district": "AAI Colony, J B Nagar, Andheri East",
+          "street_address": "CTS No. 145 A, NS C-04, Skycity, Chhatrapati Shivaji Maharaj Int'l Airport Rd, near Mumbai International Airport",
+          "city": "Mumbai",
+          "zipcode": "400099",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.1034804,
+        "longitude": 72.86260899999999,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c95c0d114cb9:0x95f26db9420c0b34",
+        "phone_number": null,
+        "opening_hours": {
+          "Sunday": [
+            "Open 24 hours"
+          ],
+          "Monday": [
+            "Open 24 hours"
+          ],
+          "Tuesday": [
+            "Open 24 hours"
+          ],
+          "Wednesday": [
+            "Open 24 hours"
+          ],
+          "Thursday": [
+            "Open 24 hours"
+          ],
+          "Friday": [
+            "Open 24 hours"
+          ],
+          "Saturday": [
+            "Open 24 hours"
+          ]
+        },
+        "rating": 5,
+        "review_count": 1,
+        "website": "https://evdock.app",
+        "photo": "https://lh5.googleusercontent.com/p/AF1QipM-rt1EaKqqOp-sUbAsa4sYNL8VTPDLNI9HmHGv=w1200-h1600-k-no",
+        "google_place_id": "ChIJuUwRDVzJ5zsRNAsMQrlt8pU",
+        "google_cid": "10804819098459704116"
+      },
+      {
+        "id": "0x3be7c96cfa9a8627:0x988031a7d5da314c",
+        "name": "Electric Vehicle Charging Station",
+        "connectors": [
+          {
+            "type": "CCS",
+            "total": 2,
+            "available": null,
+            "kw": 60,
+            "speed": "Fast"
+          }
+        ],
+        "formatted_address": "2RVR+WC9, Mahim Causeway, opposite S.L.Raheja Hospital, Mahim West, Mahim, Mumbai, Maharashtra 400016",
+        "address_components": {
+          "district": "Mahim West, Mahim",
+          "street_address": "2RVR+WC9, Mahim Causeway, opposite S.L.Raheja Hospital",
+          "city": "Mumbai",
+          "zipcode": "400016",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.0447781,
+        "longitude": 72.8410961,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c96cfa9a8627:0x988031a7d5da314c",
+        "phone_number": null,
+        "opening_hours": {
+          "Sunday": [
+            "Open 24 hours"
+          ],
+          "Monday": [
+            "Open 24 hours"
+          ],
+          "Tuesday": [
+            "Open 24 hours"
+          ],
+          "Wednesday": [
+            "Open 24 hours"
+          ],
+          "Thursday": [
+            "Open 24 hours"
+          ],
+          "Friday": [
+            "Open 24 hours"
+          ],
+          "Saturday": [
+            "Open 24 hours"
+          ]
+        },
+        "rating": null,
+        "review_count": 0,
+        "website": null,
+        "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=LxH4JMdlrzciu2Fun8JipQ&cb_client=search.gws-prod.gps&w=86&h=86&yaw=103.39675&pitch=0&thumbfov=100",
+        "google_place_id": "ChIJJ4aa-mzJ5zsRTDHa1acxgJg",
+        "google_cid": "10988837687701156172"
+      },
+      {
+        "id": "0x3be7c71a26574a3f:0xb795f25341ceaba7",
+        "name": "Electric Vehicle Charging Station",
+        "connectors": [
+          {
+            "type": "CCS",
+            "total": 1,
+            "available": null,
+            "kw": 150,
+            "speed": "Very fast"
+          },
+          {
+            "type": "Type 2",
+            "total": 1,
+            "available": null,
+            "kw": 40,
+            "speed": "Medium"
+          },
+          {
+            "type": "Wall socket",
+            "total": 3,
+            "available": null,
+            "kw": 3.3,
+            "speed": "Slow"
+          }
+        ],
+        "formatted_address": "3WMC+C9C, Ghatkopar East, Mumbai, Maharashtra 400075",
+        "address_components": {
+          "district": "Ghatkopar East",
+          "street_address": "3WMC+C9C",
+          "city": "Mumbai",
+          "zipcode": null,
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.0835711,
+        "longitude": 72.9208852,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c71a26574a3f:0xb795f25341ceaba7",
+        "phone_number": null,
+        "opening_hours": {},
+        "rating": 5,
+        "review_count": 3,
+        "website": null,
+        "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8hLOJ_rO6Z2P5Vc_o0JSdw&cb_client=search.gws-prod.gps&w=86&h=86&yaw=129.73491&pitch=0&thumbfov=100",
+        "google_place_id": "ChIJP0pXJhrH5zsRp6vOQVPylbc",
+        "google_cid": "13228745919870970791"
+      },
+      {
+        "id": "0x3be7c93c2dd9c297:0x84a134d16f363b6c",
+        "name": "EV Dock Charging Station",
+        "connectors": [
+          {
+            "type": "CCS",
+            "total": 2,
+            "available": null,
+            "kw": 60,
+            "speed": "Fast"
+          }
+        ],
+        "formatted_address": "2RWR+5JG, Raheja Hospital Marg, New Mahim Police Colony, Fisherman colony, Mahim, Mumbai, Maharashtra 400016",
+        "address_components": {
+          "district": "New Mahim Police Colony, Fisherman colony, Mahim",
+          "street_address": "2RWR+5JG, Raheja Hospital Marg",
+          "city": "Mumbai",
+          "zipcode": "400016",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.045427,
+        "longitude": 72.84156879999999,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c93c2dd9c297:0x84a134d16f363b6c",
+        "phone_number": "+919903910391",
+        "opening_hours": {},
+        "rating": 5,
+        "review_count": 4,
+        "website": "https://evdock.app",
+        "photo": "https://lh5.googleusercontent.com/p/AF1QipMCaIEsL4yPoOjpNaMchkqGjP8OkVVZPR7r2_dx=w1080-h772-k-no",
+        "google_place_id": "ChIJl8LZLTzJ5zsRbDs2b9E0oYQ",
+        "google_cid": "9556977958375537516"
+      },
+      {
+        "id": "0x3be7c9f01bbc4a83:0xe37fc455e5e1a9f3",
+        "name": "EV Charging Station - SpotCharge",
+        "connectors": [],
+        "formatted_address": "G Block BKC, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051",
+        "address_components": {
+          "district": "G Block BKC, Bandra Kurla Complex, Bandra East",
+          "street_address": null,
+          "city": "Mumbai",
+          "zipcode": "400051",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.0638815,
+        "longitude": 72.8663174,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c9f01bbc4a83:0xe37fc455e5e1a9f3",
+        "phone_number": null,
+        "opening_hours": {
+          "Sunday": [
+            "Open 24 hours"
+          ],
+          "Monday": [
+            "Open 24 hours"
+          ],
+          "Tuesday": [
+            "Open 24 hours"
+          ],
+          "Wednesday": [
+            "Open 24 hours"
+          ],
+          "Thursday": [
+            "Open 24 hours"
+          ],
+          "Friday": [
+            "Open 24 hours"
+          ],
+          "Saturday": [
+            "Open 24 hours"
+          ]
+        },
+        "rating": 5,
+        "review_count": 4,
+        "website": "http://www.spotcharge.co.in",
+        "photo": "https://lh5.googleusercontent.com/p/AF1QipM8F7z0nZgeQ0fRfRYtpCa7yvC_IME9mzFlfTNY=w521-h692-k-no",
+        "google_place_id": "ChIJg0q8G_DJ5zsR86nh5VXEf-M",
+        "google_cid": "16393037041859930611"
+      },
+      {
+        "id": "0x3be7c8c2a32714db:0x1540184ff6769414",
+        "name": "TATA Charging Station",
+        "connectors": [],
+        "formatted_address": "New Coco At, Bandra Kurla Complex, C-67, Bharat Nagar Rd, G Block BKC, Bandra East, Mumbai, Maharashtra 400051",
+        "address_components": {
+          "district": "G Block BKC, Bandra Kurla Complex, Bandra East",
+          "street_address": "New Coco At, Bandra Kurla Complex, C-67, Bharat Nagar Rd, G Block BKC",
+          "city": "Mumbai",
+          "zipcode": "400051",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.0601921,
+        "longitude": 72.8646449,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c8c2a32714db:0x1540184ff6769414",
+        "phone_number": null,
+        "opening_hours": {
+          "Sunday": [
+            "Open 24 hours"
+          ],
+          "Monday": [
+            "Open 24 hours"
+          ],
+          "Tuesday": [
+            "Open 24 hours"
+          ],
+          "Wednesday": [
+            "Open 24 hours"
+          ],
+          "Thursday": [
+            "Open 24 hours"
+          ],
+          "Friday": [
+            "Open 24 hours"
+          ],
+          "Saturday": [
+            "Open 24 hours"
+          ]
+        },
+        "rating": 4.8,
+        "review_count": 5,
+        "website": "https://nexonev.tatamotors.com",
+        "photo": "https://lh5.googleusercontent.com/p/AF1QipMezTnlm5pRoDD9IfyrnPsuzplk_J7yyN1eQeDr=w3456-h4608-k-no",
+        "google_place_id": "ChIJ2xQno8LI5zsRFJR29k8YQBU",
+        "google_cid": "1531250605022417940"
+      },
+      {
+        "id": "0x3be7c7b425bece8b:0x572b799b3932b689",
+        "name": "Tata Charging Station",
+        "connectors": [],
+        "formatted_address": "Pirojshanagar, Vikhroli, Mumbai, Maharashtra 400079",
+        "address_components": {
+          "district": "Pirojshanagar, Vikhroli",
+          "street_address": null,
+          "city": "Mumbai",
+          "zipcode": "400079",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.094981,
+        "longitude": 72.92623789999999,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c7b425bece8b:0x572b799b3932b689",
+        "phone_number": "+912267174259",
+        "opening_hours": {
+          "Sunday": [
+            "Open 24 hours"
+          ],
+          "Monday": [
+            "Open 24 hours"
+          ],
+          "Tuesday": [
+            "Open 24 hours"
+          ],
+          "Wednesday": [
+            "Open 24 hours"
+          ],
+          "Thursday": [
+            "Open 24 hours"
+          ],
+          "Friday": [
+            "Open 24 hours"
+          ],
+          "Saturday": [
+            "Open 24 hours"
+          ]
+        },
+        "rating": 4.1,
+        "review_count": 100,
+        "website": "http://www.tatapower.com",
+        "photo": "https://lh5.googleusercontent.com/p/AF1QipPnkMhbkvKbP8mCpnB3UIm370EqK2j7XCCURrdi=w4160-h3120-k-no",
+        "google_place_id": "ChIJi86-JbTH5zsRibYyOZt5K1c",
+        "google_cid": "6281247812884805257"
+      },
+      {
+        "id": "0x3be7c94d2520fe09:0x723cf1d018fa24ee",
+        "name": "Jio-bp pulse Charging Station",
+        "connectors": [
+          {
+            "type": "CCS",
+            "total": 2,
+            "available": null,
+            "kw": 60,
+            "speed": "Fast"
+          },
+          {
+            "type": "Unknown connector",
+            "total": 2,
+            "available": null,
+            "kw": 30,
+            "speed": "Medium"
+          }
+        ],
+        "formatted_address": "Acme Mall, Swami Vivekananda Rd, Rizvi Nagar, MSEB Colony, Santacruz West, Mumbai, Maharashtra 400054",
+        "address_components": {
+          "district": "Rizvi Nagar, MSEB Colony, Santacruz West",
+          "street_address": "Acme Mall, Swami Vivekananda Rd",
+          "city": "Mumbai",
+          "zipcode": "400054",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.089870599999998,
+        "longitude": 72.8400477,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c94d2520fe09:0x723cf1d018fa24ee",
+        "phone_number": null,
+        "opening_hours": {
+          "Sunday": [
+            "6am-11pm"
+          ],
+          "Monday": [
+            "6am-11pm"
+          ],
+          "Tuesday": [
+            "6am-11pm"
+          ],
+          "Wednesday": [
+            "6am-11pm"
+          ],
+          "Thursday": [
+            "6am-11pm"
+          ],
+          "Friday": [
+            "6am-11pm"
+          ],
+          "Saturday": [
+            "6am-11pm"
+          ]
+        },
+        "rating": null,
+        "review_count": 0,
+        "website": "https://mobilitystation.jiobp.com/jio-bp-pulse-electric-vehicle-charging-station-santacruz-west-mumbai-251880/Home",
+        "photo": "https://lh5.googleusercontent.com/p/AF1QipNVvGq3pC_vgBE6DvLFXKJTvbxiuK2317OgjFW0=w992-h558-k-no",
+        "google_place_id": "ChIJCf4gJU3J5zsR7iT6GNDxPHI",
+        "google_cid": "8231720095000962286"
+      },
+      {
+        "id": "0x3be7c8e635ebc211:0x25b5f9e8aeb7b6f2",
+        "name": "Eva Charging Station",
+        "connectors": [],
+        "formatted_address": "59th Floor, Platina, C.59, G Block Rd, near Citibank, G Block BKC, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051",
+        "address_components": {
+          "district": "G Block BKC, Bandra Kurla Complex, Bandra East",
+          "street_address": "59th Floor, Platina, C.59, G Block Rd, near Citibank",
+          "city": "Mumbai",
+          "zipcode": "400051",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.0677792,
+        "longitude": 72.8691484,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c8e635ebc211:0x25b5f9e8aeb7b6f2",
+        "phone_number": "+916290631302",
+        "opening_hours": {},
+        "rating": 5,
+        "review_count": 1,
+        "website": "http://evachargingstation.in",
+        "photo": null,
+        "google_place_id": "ChIJEcLrNebI5zsR8ra3ruj5tSU",
+        "google_cid": "2717352727946966770"
+      },
+      {
+        "id": "0x3be7c9969864e563:0x22adda8f0cb7fd64",
+        "name": "Jio-bp pulse Charging Station",
+        "connectors": [],
+        "formatted_address": "Piramal, Agastya Corporate Park, Sunder Baug Ln, near Kamani, Bung Lane, Kurla West, Junction, Mumbai, Maharashtra 400070",
+        "address_components": {
+          "district": "Bung Lane, Kurla West, Junction",
+          "street_address": "Piramal, Agastya Corporate Park, Sunder Baug Ln, near Kamani",
+          "city": "Mumbai",
+          "zipcode": "400070",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.0856495,
+        "longitude": 72.8864974,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c9969864e563:0x22adda8f0cb7fd64",
+        "phone_number": null,
+        "opening_hours": {
+          "Sunday": [
+            "Open 24 hours"
+          ],
+          "Monday": [
+            "Open 24 hours"
+          ],
+          "Tuesday": [
+            "Open 24 hours"
+          ],
+          "Wednesday": [
+            "Open 24 hours"
+          ],
+          "Thursday": [
+            "Open 24 hours"
+          ],
+          "Friday": [
+            "Open 24 hours"
+          ],
+          "Saturday": [
+            "Open 24 hours"
+          ]
+        },
+        "rating": null,
+        "review_count": 0,
+        "website": "https://mobilitystation.jiobp.com/jio-bp-pulse-electric-vehicle-charging-station-kurla-mumbai-292236/Home",
+        "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0BcXyNoPF1_IkSZyPGpbRw&cb_client=search.gws-prod.gps&w=86&h=86&yaw=7.4285803&pitch=0&thumbfov=100",
+        "google_place_id": "ChIJY-VkmJbJ5zsRZP23DI_arSI",
+        "google_cid": "2498893676189056356"
+      },
+      {
+        "id": "0x3be7c9387dca923f:0xce4f43f787d7e214",
+        "name": "EV Cosmos Charging Station",
+        "connectors": [],
+        "formatted_address": "Hotel VITS Andheri Kurla Road, Sahar Airport Rd, Zone, Andheri East, Mumbai, Maharashtra 400059",
+        "address_components": {
+          "district": "Zone, Andheri East",
+          "street_address": "Hotel VITS Andheri Kurla Road, Sahar Airport Rd",
+          "city": "Mumbai",
+          "zipcode": "400059",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.1117261,
+        "longitude": 72.8710069,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c9387dca923f:0xce4f43f787d7e214",
+        "phone_number": "+919981032747",
+        "opening_hours": {
+          "Sunday": [
+            "Open 24 hours"
+          ],
+          "Monday": [
+            "Open 24 hours"
+          ],
+          "Tuesday": [
+            "Open 24 hours"
+          ],
+          "Wednesday": [
+            "Open 24 hours"
+          ],
+          "Thursday": [
+            "Open 24 hours"
+          ],
+          "Friday": [
+            "Open 24 hours"
+          ],
+          "Saturday": [
+            "Open 24 hours"
+          ]
+        },
+        "rating": 5,
+        "review_count": 3,
+        "website": "http://www.evcosmos.in",
+        "photo": "https://lh5.googleusercontent.com/p/AF1QipOkha_iTvKZVwa5NvLySl78uTrO3qeFSBqUlaIY=w356-h720-k-no",
+        "google_place_id": "ChIJP5LKfTjJ5zsRFOLXh_dDT84",
+        "google_cid": "14866175625388352020"
+      },
+      {
+        "id": "0x3be7c845e384a0f9:0x79ee3d4eb06e4b78",
+        "name": "Electric Vehicle Charging Station",
+        "connectors": [],
+        "formatted_address": "1, IA Project Rd, Sahar Village, Andheri East, Mumbai, Maharashtra 400047",
+        "address_components": {
+          "district": "Sahar Village, Andheri East",
+          "street_address": "1, IA Project Rd, Sahar Village",
+          "city": "Mumbai",
+          "zipcode": "400047",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.1007309,
+        "longitude": 72.8643103,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c845e384a0f9:0x79ee3d4eb06e4b78",
+        "phone_number": null,
+        "opening_hours": {
+          "Sunday": [
+            "Open 24 hours"
+          ],
+          "Monday": [
+            "Open 24 hours"
+          ],
+          "Tuesday": [
+            "Open 24 hours"
+          ],
+          "Wednesday": [
+            "Open 24 hours"
+          ],
+          "Thursday": [
+            "Open 24 hours"
+          ],
+          "Friday": [
+            "Open 24 hours"
+          ],
+          "Saturday": [
+            "Open 24 hours"
+          ]
+        },
+        "rating": 1,
+        "review_count": 1,
+        "website": "https://www.plugshare.com",
+        "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=LctGfga1FnBaSHQcw1F-Qg&cb_client=search.gws-prod.gps&w=86&h=86&yaw=170.0216&pitch=0&thumbfov=100",
+        "google_place_id": "ChIJ-aCE40XI5zsReEtusE497nk",
+        "google_cid": "8786027331223178104"
+      },
+      {
+        "id": "0x3be7c954b8b7d575:0x2c2b4af225598819",
+        "name": "Electric Vehicle Charging Station",
+        "connectors": [],
+        "formatted_address": "3V32+GR6, E Block BKC, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051",
+        "address_components": {
+          "district": "E Block BKC, Bandra Kurla Complex, Bandra East",
+          "street_address": "3V32+GR6",
+          "city": "Mumbai",
+          "zipcode": "400051",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.053952,
+        "longitude": 72.8515561,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c954b8b7d575:0x2c2b4af225598819",
+        "phone_number": null,
+        "opening_hours": {
+          "Sunday": [
+            "Open 24 hours"
+          ],
+          "Monday": [
+            "Open 24 hours"
+          ],
+          "Tuesday": [
+            "Open 24 hours"
+          ],
+          "Wednesday": [
+            "Open 24 hours"
+          ],
+          "Thursday": [
+            "Open 24 hours"
+          ],
+          "Friday": [
+            "Open 24 hours"
+          ],
+          "Saturday": [
+            "Open 24 hours"
+          ]
+        },
+        "rating": null,
+        "review_count": 0,
+        "website": null,
+        "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wURF_INw82anrxAA6QPAIQ&cb_client=search.gws-prod.gps&w=86&h=86&yaw=262.42432&pitch=0&thumbfov=100",
+        "google_place_id": "ChIJddW3uFTJ5zsRGYhZJfJKKyw",
+        "google_cid": "3182719965536552985"
+      },
+      {
+        "id": "0x3be7c9f60dc46cb3:0x560040352f2d590e",
+        "name": "Tata Power Charging Station",
+        "connectors": [],
+        "formatted_address": "167, CST Road, opposite Saraswat Bank, Kolivery Village, MMRDA Area, Bandra Kurla Complex, Santacruz East, Mumbai, Maharashtra 400098",
+        "address_components": {
+          "district": "Kolivery Village, MMRDA Area, Bandra Kurla Complex, Santacruz East",
+          "street_address": "167, CST Road, opposite Saraswat Bank",
+          "city": "Mumbai",
+          "zipcode": "400098",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.0718994,
+        "longitude": 72.8671603,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c9f60dc46cb3:0x560040352f2d590e",
+        "phone_number": null,
+        "opening_hours": {},
+        "rating": 5,
+        "review_count": 1,
+        "website": null,
+        "photo": "https://lh5.googleusercontent.com/p/AF1QipNnYIQnshY_XKrPz8wDMmDaLP-n1SbZX7s8owa_=w4080-h1832-k-no",
+        "google_place_id": "ChIJs2zEDfbJ5zsRDlktLzVAAFY",
+        "google_cid": "6197023684430747918"
+      },
+      {
+        "id": "0x3be7c9ec2250749b:0xa532bce49f47e0e1",
+        "name": "Electric Vehicle Charging Station",
+        "connectors": [],
+        "formatted_address": "3V9R+CJH, Lokmanya Tilak Terminus Flyover, Tilak Nagar, Kurla, Mumbai, Maharashtra 400089",
+        "address_components": {
+          "district": "Tilak Nagar, Kurla",
+          "street_address": "3V9R+CJH, Lokmanya Tilak Terminus Flyover",
+          "city": "Mumbai",
+          "zipcode": "400089",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.0685704,
+        "longitude": 72.8916136,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c9ec2250749b:0xa532bce49f47e0e1",
+        "phone_number": null,
+        "opening_hours": {},
+        "rating": 5,
+        "review_count": 2,
+        "website": null,
+        "photo": null,
+        "google_place_id": "ChIJm3RQIuzJ5zsR4eBHn-S8MqU",
+        "google_cid": "11903784455204495585"
+      },
+      {
+        "id": "0x3be7c979d50c75ff:0x61d22f3dbfbecba3",
+        "name": "SpotCharge Charging Station",
+        "connectors": [
+          {
+            "type": "CCS",
+            "total": 1,
+            "available": null,
+            "kw": 7.4,
+            "speed": "Slow"
+          }
+        ],
+        "formatted_address": "Block-L & T Bussiness Park, New Mhada Colony, Savarkar Nagar, Chandivali, Powai, Mumbai, Maharashtra 400076",
+        "address_components": {
+          "district": "New Mhada Colony, Savarkar Nagar, Chandivali, Powai",
+          "street_address": "Block-L & T Bussiness Park",
+          "city": "Mumbai",
+          "zipcode": "400076",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.1238079,
+        "longitude": 72.8934077,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c979d50c75ff:0x61d22f3dbfbecba3",
+        "phone_number": null,
+        "opening_hours": {
+          "Sunday": [
+            "Open 24 hours"
+          ],
+          "Monday": [
+            "Open 24 hours"
+          ],
+          "Tuesday": [
+            "Open 24 hours"
+          ],
+          "Wednesday": [
+            "Open 24 hours"
+          ],
+          "Thursday": [
+            "Open 24 hours"
+          ],
+          "Friday": [
+            "Open 24 hours"
+          ],
+          "Saturday": [
+            "Open 24 hours"
+          ]
+        },
+        "rating": null,
+        "review_count": 0,
+        "website": "http://www.spotcharge.co.in",
+        "photo": null,
+        "google_place_id": "ChIJ_3UM1XnJ5zsRo8u-vz0v0mE",
+        "google_cid": "7048748309044710307"
+      },
+      {
+        "id": "0x3be7c8ec163fb7ef:0x880b6dd39c7310da",
+        "name": "EV Charging Station",
+        "connectors": [],
+        "formatted_address": "3V9C+94R, G Block, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051",
+        "address_components": {
+          "district": "G Block, Bandra Kurla Complex, Bandra East",
+          "street_address": "3V9C+94R",
+          "city": "Mumbai",
+          "zipcode": "400051",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.068488,
+        "longitude": 72.87028049999999,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c8ec163fb7ef:0x880b6dd39c7310da",
+        "phone_number": null,
+        "opening_hours": {},
+        "rating": null,
+        "review_count": 0,
+        "website": null,
+        "photo": null,
+        "google_place_id": "ChIJ77c_FuzI5zsR2hBznNNtC4g",
+        "google_cid": "9803049769532330202"
+      },
+      {
+        "id": "0x3be7c92af9d50225:0xd5b4fa98ceaa3852",
+        "name": "Tata Power Charging Station",
+        "connectors": [],
+        "formatted_address": "4V3F+4FQ, Navpada, Marol, Andheri East, Mumbai, Maharashtra 400099",
+        "address_components": {
+          "district": "Navpada, Marol, Andheri East",
+          "street_address": "4V3F+4FQ",
+          "city": "Mumbai",
+          "zipcode": null,
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.10284,
+        "longitude": 72.87372309999999,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c92af9d50225:0xd5b4fa98ceaa3852",
+        "phone_number": null,
+        "opening_hours": {
+          "Sunday": [
+            "Open 24 hours"
+          ],
+          "Monday": [
+            "Open 24 hours"
+          ],
+          "Tuesday": [
+            "Open 24 hours"
+          ],
+          "Wednesday": [
+            "Open 24 hours"
+          ],
+          "Thursday": [
+            "Open 24 hours"
+          ],
+          "Friday": [
+            "Open 24 hours"
+          ],
+          "Saturday": [
+            "Open 24 hours"
+          ]
+        },
+        "rating": null,
+        "review_count": 0,
+        "website": null,
+        "photo": "https://lh5.googleusercontent.com/p/AF1QipM_yjX3jR9TzdMObXw6h2VwSdjo2GcO9aY4yliA=w1920-h1080-k-no",
+        "google_place_id": "ChIJJQLV-SrJ5zsRUjiqzpj6tNU",
+        "google_cid": "15399208560095803474"
+      },
+      {
+        "id": "0x3be7c8e5e0916e11:0x1cc5ebcf15e0f63a",
+        "name": "TATA Charging Station",
+        "connectors": [],
+        "formatted_address": "3V86+JQP, The Tata Power Company limited, G Block BKC, University of Mumbai, Vidya Nagari, Kalina, Bandra East, Mumbai, Maharashtra 400051",
+        "address_components": {
+          "district": "G Block BKC, Vidya Nagari, Kalina, Bandra East",
+          "street_address": "3V86+JQP, The Tata Power Company limited, G Block BKC, University of Mumbai",
+          "city": "Mumbai",
+          "zipcode": "400051",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.0665783,
+        "longitude": 72.86195169999999,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c8e5e0916e11:0x1cc5ebcf15e0f63a",
+        "phone_number": null,
+        "opening_hours": {},
+        "rating": null,
+        "review_count": 0,
+        "website": "https://www.withyouhamesha.com/ev-charging-station-locator.aspx",
+        "photo": null,
+        "google_place_id": "ChIJEW6R4OXI5zsROvbgFc_rxRw",
+        "google_cid": "2073322478131803706"
+      },
+      {
+        "id": "0x3be7c961bd99efd7:0x4beedd2dfa795024",
+        "name": "Electric Vehicle Charging Station",
+        "connectors": [
+          {
+            "type": "Unknown connector",
+            "total": 2,
+            "available": null,
+            "speed": "Unknown"
+          }
+        ],
+        "formatted_address": "3R4W+F25, D Block BKC, Kherwadi, Bandra East, Mumbai, Maharashtra 400051",
+        "address_components": {
+          "district": "D Block BKC, Kherwadi, Bandra East",
+          "street_address": "3R4W+F25",
+          "city": "Mumbai",
+          "zipcode": "400051",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.056139299999998,
+        "longitude": 72.8451018,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c961bd99efd7:0x4beedd2dfa795024",
+        "phone_number": null,
+        "opening_hours": {},
+        "rating": null,
+        "review_count": 0,
+        "website": null,
+        "photo": "https://lh5.googleusercontent.com/p/AF1QipMa8qdWy8X9TbASu9-IjvNA1ypRPEq7r8SSOjAq=w1080-h1920-k-no",
+        "google_place_id": "ChIJ1--ZvWHJ5zsRJFB5-i3d7ks",
+        "google_cid": "5471553786847252516"
+      },
+      {
+        "id": "0x3be7c91b7d2aab2f:0xb2e9b0b2d10db976",
+        "name": "Electric Vehicle Charging Station",
+        "connectors": [],
+        "formatted_address": "1st, Professor NS Phadke Rd, near Hotel Suba Galaxy, Vijay Nagar, Andheri East, Mumbai, Maharashtra 400069",
+        "address_components": {
+          "district": "Vijay Nagar, Andheri East",
+          "street_address": "1st, Professor NS Phadke Rd, near Hotel Suba Galaxy",
+          "city": "Mumbai",
+          "zipcode": "400069",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.1142453,
+        "longitude": 72.8517882,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c91b7d2aab2f:0xb2e9b0b2d10db976",
+        "phone_number": null,
+        "opening_hours": {
+          "Sunday": [
+            "Open 24 hours"
+          ],
+          "Monday": [
+            "Open 24 hours"
+          ],
+          "Tuesday": [
+            "Open 24 hours"
+          ],
+          "Wednesday": [
+            "Open 24 hours"
+          ],
+          "Thursday": [
+            "Open 24 hours"
+          ],
+          "Friday": [
+            "Open 24 hours"
+          ],
+          "Saturday": [
+            "Open 24 hours"
+          ]
+        },
+        "rating": 1,
+        "review_count": 1,
+        "website": null,
+        "photo": "https://lh5.googleusercontent.com/p/AF1QipPAfuDwgDx6a4aFlK5rHwT4i8rB5UM5Ju93GuVh=w1080-h2400-k-no",
+        "google_place_id": "ChIJL6sqfRvJ5zsRdrkN0bKw6bI",
+        "google_cid": "12892029690382760310"
+      },
+      {
+        "id": "0x3be7c887fcb4487d:0xdb49ea1ef0d475a4",
+        "name": "Electric Vehicle Charging Station",
+        "connectors": [],
+        "formatted_address": "Entrance gate 3, Phoenix Market City, Lal Bahadur Shastri Marg, Kurla West, Mumbai, Maharashtra",
+        "address_components": {
+          "district": "Patelwadi.Kurla, Kurla West, Kurla",
+          "street_address": "Entrance gate 3, Phoenix Market City, Lal Bahadur Shastri Marg",
+          "city": "Mumbai",
+          "zipcode": null,
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.0861362,
+        "longitude": 72.8892482,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c887fcb4487d:0xdb49ea1ef0d475a4",
+        "phone_number": null,
+        "opening_hours": {
+          "Sunday": [
+            "10am-12am"
+          ],
+          "Monday": [
+            "10am-12am"
+          ],
+          "Tuesday": [
+            "10am-12am"
+          ],
+          "Wednesday": [
+            "10am-12am"
+          ],
+          "Thursday": [
+            "10am-12am"
+          ],
+          "Friday": [
+            "10am-12am"
+          ],
+          "Saturday": [
+            "10am-12am"
+          ]
+        },
+        "rating": 3.6,
+        "review_count": 7,
+        "website": null,
+        "photo": "https://lh5.googleusercontent.com/p/AF1QipOmgjFYwoVIz3X4k8N20I3De76ldECBvoKem5dt=w4000-h1800-k-no",
+        "google_place_id": "ChIJfUi0_IfI5zsRpHXU8B7qSds",
+        "google_cid": "15801418186216469924"
+      },
+      {
+        "id": "0x3be7c71095c4366d:0x4aa858fdfdd144f",
+        "name": "Electric Vehicle Charging Station",
+        "connectors": [],
+        "formatted_address": "3WVC+6WJ, Pirojshanagar, Vikhroli, Mumbai, Maharashtra 400079",
+        "address_components": {
+          "district": "Pirojshanagar, Vikhroli",
+          "street_address": "3WVC+6WJ",
+          "city": "Mumbai",
+          "zipcode": "400079",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.0927185,
+        "longitude": 72.9224631,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c71095c4366d:0x4aa858fdfdd144f",
+        "phone_number": null,
+        "opening_hours": {
+          "Sunday": [
+            "Open 24 hours"
+          ],
+          "Monday": [
+            "Open 24 hours"
+          ],
+          "Tuesday": [
+            "Open 24 hours"
+          ],
+          "Wednesday": [
+            "Open 24 hours"
+          ],
+          "Thursday": [
+            "Open 24 hours"
+          ],
+          "Friday": [
+            "Open 24 hours"
+          ],
+          "Saturday": [
+            "Open 24 hours"
+          ]
+        },
+        "rating": 5,
+        "review_count": 1,
+        "website": null,
+        "photo": "https://lh5.googleusercontent.com/p/AF1QipMcVHDt-JyZSyJd2SkXcXTMJqRLOq1J5ESIyAt1=w4000-h3000-k-no",
+        "google_place_id": "ChIJbTbElRDH5zsRTxTd34-FqgQ",
+        "google_cid": "336227975175148623"
+      },
+      {
+        "id": "0x3be7c93b695bb1d3:0x4461a522398618d4",
+        "name": "TATA Charging Station",
+        "connectors": [],
+        "formatted_address": "36 SV Road, Santosh Nagar, Bandra West, Mumbai, Maharashtra 400050",
+        "address_components": {
+          "district": "Santosh Nagar, Bandra West",
+          "street_address": "36 SV Road",
+          "city": "Mumbai",
+          "zipcode": "400050",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.051561,
+        "longitude": 72.8380092,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c93b695bb1d3:0x4461a522398618d4",
+        "phone_number": "+919223581898",
+        "opening_hours": {
+          "Sunday": [
+            "Open 24 hours"
+          ],
+          "Monday": [
+            "Open 24 hours"
+          ],
+          "Tuesday": [
+            "Open 24 hours"
+          ],
+          "Wednesday": [
+            "Open 24 hours"
+          ],
+          "Thursday": [
+            "Open 24 hours"
+          ],
+          "Friday": [
+            "Open 24 hours"
+          ],
+          "Saturday": [
+            "Open 24 hours"
+          ]
+        },
+        "rating": 1,
+        "review_count": 2,
+        "website": "https://nexonev.tatamotors.com/charging-locator",
+        "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=teMTt_xXf9Ov1YGgtXJ-zQ&cb_client=search.gws-prod.gps&w=86&h=86&yaw=223.12608&pitch=0&thumbfov=100",
+        "google_place_id": "ChIJ07FbaTvJ5zsR1BiGOSKlYUQ",
+        "google_cid": "4927401033732593876"
+      },
+      {
+        "id": "0x3be7c90062184ba5:0x500809bebac1e9de",
+        "name": "Electric Vehicle Charging Station",
+        "connectors": [],
+        "formatted_address": "MMRDA Pay & Park, next to The Capital, G Block BKC, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051",
+        "address_components": {
+          "district": "G Block BKC, Bandra Kurla Complex, Bandra East",
+          "street_address": "MMRDA Pay & Park, next to The Capital",
+          "city": "Mumbai",
+          "zipcode": "400051",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.0624525,
+        "longitude": 72.8609774,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c90062184ba5:0x500809bebac1e9de",
+        "phone_number": null,
+        "opening_hours": {},
+        "rating": null,
+        "review_count": 0,
+        "website": null,
+        "photo": null,
+        "google_place_id": "ChIJpUsYYgDJ5zsR3unBur4JCFA",
+        "google_cid": "5766870037629626846"
+      },
+      {
+        "id": "0x3be7c91bcdbf2baf:0x662fa58d1fff17d9",
+        "name": "TruePower Charging Station",
+        "connectors": [],
+        "formatted_address": "Sahitya Sahawas Colony, Madhusudan Kalelkar Rd, Kala Nagar, Bandra East, Mumbai, Maharashtra 400051",
+        "address_components": {
+          "district": "Kala Nagar, Bandra East",
+          "street_address": "Sahitya Sahawas Colony, Madhusudan Kalelkar Rd",
+          "city": "Mumbai",
+          "zipcode": "400051",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.0564721,
+        "longitude": 72.8501546,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c91bcdbf2baf:0x662fa58d1fff17d9",
+        "phone_number": null,
+        "opening_hours": {
+          "Sunday": [
+            "Open 24 hours"
+          ],
+          "Monday": [
+            "Open 24 hours"
+          ],
+          "Tuesday": [
+            "Open 24 hours"
+          ],
+          "Wednesday": [
+            "Open 24 hours"
+          ],
+          "Thursday": [
+            "Open 24 hours"
+          ],
+          "Friday": [
+            "Open 24 hours"
+          ],
+          "Saturday": [
+            "Open 24 hours"
+          ]
+        },
+        "rating": null,
+        "review_count": 0,
+        "website": "https://www.gettruepower.in",
+        "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Deqp1ZF3IwF1wkhn3OpgIg&cb_client=search.gws-prod.gps&w=86&h=86&yaw=130.19336&pitch=0&thumbfov=100",
+        "google_place_id": "ChIJryu_zRvJ5zsR2Rf_H42lL2Y",
+        "google_cid": "7363285941319833561"
+      },
+      {
+        "id": "0x3be7c60be52e4d01:0xb291a45f034a775b",
+        "name": "Electric Vehicle Charging Station",
+        "connectors": [],
+        "formatted_address": "2WX8+4RP, Adonis wing, Raheja Acropolis II CHS Ltd, Deonar, Maharashtra 400088",
+        "address_components": {
+          "district": "Deonar, Chembur",
+          "street_address": "2WX8+4RP, Adonis wing, Raheja Acropolis II CHS Ltd",
+          "city": "Deonar, Mumbai",
+          "zipcode": "400088",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.047833699999998,
+        "longitude": 72.91706549999999,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c60be52e4d01:0xb291a45f034a775b",
+        "phone_number": "+919920909072",
+        "opening_hours": {
+          "Sunday": [
+            "Open 24 hours"
+          ],
+          "Monday": [
+            "Open 24 hours"
+          ],
+          "Tuesday": [
+            "Open 24 hours"
+          ],
+          "Wednesday": [
+            "Open 24 hours"
+          ],
+          "Thursday": [
+            "Open 24 hours"
+          ],
+          "Friday": [
+            "Open 24 hours"
+          ],
+          "Saturday": [
+            "Open 24 hours"
+          ]
+        },
+        "rating": null,
+        "review_count": 0,
+        "website": "https://www.plugshare.com/location/328868",
+        "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=vHmvVZ_NF3pVPQ-zvVpCHg&cb_client=search.gws-prod.gps&w=86&h=86&yaw=252.14311&pitch=0&thumbfov=100",
+        "google_place_id": "ChIJAU0u5QvG5zsRW3dKA1-kkbI",
+        "google_cid": "12867246338358277979"
+      },
+      {
+        "id": "0x3be7c8ee97eaaaad:0x471fd6319b74c1e",
+        "name": "EV Charging Station Dealership",
+        "connectors": [],
+        "formatted_address": "9th floor, C59, G Block, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051",
+        "address_components": {
+          "district": "G Block, Bandra Kurla Complex, Bandra East",
+          "street_address": "9th floor, C59",
+          "city": "Mumbai",
+          "zipcode": "400051",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.0684838,
+        "longitude": 72.86844049999999,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c8ee97eaaaad:0x471fd6319b74c1e",
+        "phone_number": "+918653285863",
+        "opening_hours": {
+          "Sunday": [
+            "Closed"
+          ],
+          "Monday": [
+            "9am-7pm"
+          ],
+          "Tuesday": [
+            "9am-7pm"
+          ],
+          "Wednesday": [
+            "9am-7pm"
+          ],
+          "Thursday": [
+            "9am-7pm"
+          ],
+          "Friday": [
+            "9am-7pm"
+          ],
+          "Saturday": [
+            "9am-7pm"
+          ]
+        },
+        "rating": null,
+        "review_count": 0,
+        "website": null,
+        "photo": null,
+        "google_place_id": "ChIJrarql-7I5zsRHky3GWP9cQQ",
+        "google_cid": "320315650595048478"
+      },
+      {
+        "id": "0x3be7c917fe2b5d57:0x1b6e6a024efa7537",
+        "name": "ChargeGrid Charging Station",
+        "connectors": [],
+        "formatted_address": "HPCL Auto Care Centre, opp. ICICI Bank, G Block BKC, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051",
+        "address_components": {
+          "district": "G Block BKC, Bandra Kurla Complex, Bandra East",
+          "street_address": "HPCL Auto Care Centre, opp. ICICI Bank",
+          "city": "Mumbai",
+          "zipcode": "400051",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.0647081,
+        "longitude": 72.8608505,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c917fe2b5d57:0x1b6e6a024efa7537",
+        "phone_number": null,
+        "opening_hours": {},
+        "rating": null,
+        "review_count": 0,
+        "website": null,
+        "photo": null,
+        "google_place_id": "ChIJV10r_hfJ5zsRN3X6TgJqbhs",
+        "google_cid": "1976633844609742135"
+      },
+      {
+        "id": "0x3be7c9e8d72e4321:0x552d4d44a5a521e3",
+        "name": "Jio-bp Pulse",
+        "connectors": [],
+        "formatted_address": "MAKER MAXITY, 2nd, North Ave, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051",
+        "address_components": {
+          "district": "Bandra Kurla Complex, Bandra East",
+          "street_address": "MAKER MAXITY, 2nd, North Ave",
+          "city": "Mumbai",
+          "zipcode": "400051",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.0542919,
+        "longitude": 72.8501813,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c9e8d72e4321:0x552d4d44a5a521e3",
+        "phone_number": null,
+        "opening_hours": {
+          "Sunday": [
+            "12am-11:45pm"
+          ],
+          "Monday": [
+            "12am-11:45pm"
+          ],
+          "Tuesday": [
+            "12am-11:45pm"
+          ],
+          "Wednesday": [
+            "12am-11:45pm"
+          ],
+          "Thursday": [
+            "12am-11:45pm"
+          ],
+          "Friday": [
+            "12am-11:45pm"
+          ],
+          "Saturday": [
+            "12am-11:45pm"
+          ]
+        },
+        "rating": null,
+        "review_count": 0,
+        "website": null,
+        "photo": null,
+        "google_place_id": "ChIJIUMu1-jJ5zsR4yGlpURNLVU",
+        "google_cid": "6137646824408031715"
+      },
+      {
+        "id": "0x3be7ced5340a83b5:0x8af5a9eb4749f468",
+        "name": "Electric Vehicle Charging Station",
+        "connectors": [],
+        "formatted_address": "114, Sundar Kamla Nagar, Western Railway Colony, Hanuman Nagar, Matunga East, Mumbai, Maharashtra 400019",
+        "address_components": {
+          "district": "Sundar Kamla Nagar, Matunga Labour Camp, Matunga East",
+          "street_address": "114, Sundar Kamla Nagar, Western Railway Colony, Hanuman Nagar",
+          "city": "Mumbai",
+          "zipcode": "400019",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.036159899999998,
+        "longitude": 72.8497024,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7ced5340a83b5:0x8af5a9eb4749f468",
+        "phone_number": null,
+        "opening_hours": {
+          "Sunday": [
+            "Open 24 hours"
+          ],
+          "Monday": [
+            "Open 24 hours"
+          ],
+          "Tuesday": [
+            "Open 24 hours"
+          ],
+          "Wednesday": [
+            "Open 24 hours"
+          ],
+          "Thursday": [
+            "Open 24 hours"
+          ],
+          "Friday": [
+            "Open 24 hours"
+          ],
+          "Saturday": [
+            "Open 24 hours"
+          ]
+        },
+        "rating": 1,
+        "review_count": 1,
+        "website": "https://www.plugshare.com/location/316993",
+        "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=kjPI09W3HimSLHRPcYSehQ&cb_client=search.gws-prod.gps&w=86&h=86&yaw=209.4006&pitch=0&thumbfov=100",
+        "google_place_id": "ChIJtYMKNNXO5zsRaPRJR-up9Yo",
+        "google_cid": "10013096174506603624"
+      },
+      {
+        "id": "0x3be7c9b637599ed9:0xbbe5dae8c1bfb6",
+        "name": "EV COSMOS Charging Station",
+        "connectors": [],
+        "formatted_address": "The Orchid Hotel, Navpada, Vile Parle East, Vile Parle, Mumbai, Maharashtra 400099",
+        "address_components": {
+          "district": "Navpada, Vile Parle East, Vile Parle",
+          "street_address": "The Orchid Hotel",
+          "city": "Mumbai",
+          "zipcode": "400099",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.0982237,
+        "longitude": 72.85384839999999,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c9b637599ed9:0xbbe5dae8c1bfb6",
+        "phone_number": null,
+        "opening_hours": {},
+        "rating": 4.2,
+        "review_count": 5,
+        "website": "http://www.evcosmos.in",
+        "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5UthHYCmepsUjmv5pc0pJg&cb_client=search.gws-prod.gps&w=86&h=86&yaw=91.90551&pitch=0&thumbfov=100",
+        "google_place_id": "ChIJ2Z5ZN7bJ5zsRtr_B6NrluwA",
+        "google_cid": "52888549015535542"
+      },
+      {
+        "id": "0x3be7c7e4909990c1:0x9fae228295e262",
+        "name": "Electric Vehicle Charging Station",
+        "connectors": [],
+        "formatted_address": "Somaiya Vidyavihar, ONGC Colony, Vidya Vihar East, Vidyavihar, Mumbai, Maharashtra 400089",
+        "address_components": {
+          "district": "ONGC Colony, Vidya Vihar East, Vidyavihar",
+          "street_address": "Somaiya Vidyavihar",
+          "city": "Mumbai",
+          "zipcode": "400089",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.0724879,
+        "longitude": 72.9000923,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c7e4909990c1:0x9fae228295e262",
+        "phone_number": null,
+        "opening_hours": {},
+        "rating": null,
+        "review_count": 0,
+        "website": null,
+        "photo": null,
+        "google_place_id": "ChIJwZCZkOTH5zsRYuKVgiKunwA",
+        "google_cid": "44945984539976290"
+      },
+      {
+        "id": "0x3be7c9a9fc1d9cd3:0x8490cc631256d1ad",
+        "name": "Electric Vehicle Charging Station",
+        "connectors": [],
+        "formatted_address": "Moiz Apartments, 12th Road, Above Upadhyaya Nursing Home, Santacruz East, Mumbai, Maharashtra",
+        "address_components": {
+          "district": "Madhuvan Society, Sen Nagar, Santacruz East",
+          "street_address": "Moiz Apartments, 12th Road, Above Upadhyaya Nursing Home",
+          "city": "Mumbai",
+          "zipcode": null,
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.0822938,
+        "longitude": 72.8452677,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c9a9fc1d9cd3:0x8490cc631256d1ad",
+        "phone_number": "+919869088296",
+        "opening_hours": {},
+        "rating": 1,
+        "review_count": 1,
+        "website": null,
+        "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JJ9IR9_6Xj-ZMh8TIITJ1w&cb_client=search.gws-prod.gps&w=86&h=86&yaw=263.45697&pitch=0&thumbfov=100",
+        "google_place_id": "ChIJ05wd_KnJ5zsRrdFWEmPMkIQ",
+        "google_cid": "9552359535534330285"
+      },
+      {
+        "id": "0x3be7c994d3652953:0xfa26d46e7171614",
+        "name": "Jio-bp pulse Charging Station",
+        "connectors": [],
+        "formatted_address": "Dharavi Bus Depot, Dharavi Depot Rd, Kala Qila, Dharavi, Mumbai, Maharashtra 400017",
+        "address_components": {
+          "district": "Kala Qila, Dharavi",
+          "street_address": "Dharavi Bus Depot, Dharavi Depot Rd",
+          "city": "Mumbai",
+          "zipcode": "400017",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.0506001,
+        "longitude": 72.85820009999999,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c994d3652953:0xfa26d46e7171614",
+        "phone_number": null,
+        "opening_hours": {
+          "Sunday": [
+            "Open 24 hours"
+          ],
+          "Monday": [
+            "Open 24 hours"
+          ],
+          "Tuesday": [
+            "Open 24 hours"
+          ],
+          "Wednesday": [
+            "Open 24 hours"
+          ],
+          "Thursday": [
+            "Open 24 hours"
+          ],
+          "Friday": [
+            "Open 24 hours"
+          ],
+          "Saturday": [
+            "Open 24 hours"
+          ]
+        },
+        "rating": 2.5,
+        "review_count": 2,
+        "website": "https://mobilitystation.jiobp.com/jio-bp-pulse-electric-vehicle-charging-station-dharavi-mumbai-289767/Home",
+        "photo": null,
+        "google_place_id": "ChIJUyll05TJ5zsRFBYX50Ztog8",
+        "google_cid": "1126583008088233492"
+      },
+      {
+        "id": "0x3be7c7faf42bd5f5:0x89e2961e7051162b",
+        "name": "TruePower Charging Station",
+        "connectors": [],
+        "formatted_address": "Nirmal Lifestyles Residency Co-op Housing Society Near Sonapur Signal, Lal Bahadur Shastri Marg, Mulund West, Mumbai, Maharashtra 400080",
+        "address_components": {
+          "district": "LOK Milan Colony, Chandivali, Mulund West",
+          "street_address": "Nirmal Lifestyles Residency Co-op Housing Society Near Sonapur Signal, Lal Bahadur Shastri Marg",
+          "city": "Mumbai",
+          "zipcode": "400080",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.1128478,
+        "longitude": 72.89929149999999,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c7faf42bd5f5:0x89e2961e7051162b",
+        "phone_number": null,
+        "opening_hours": {
+          "Sunday": [
+            "Open 24 hours"
+          ],
+          "Monday": [
+            "Open 24 hours"
+          ],
+          "Tuesday": [
+            "Open 24 hours"
+          ],
+          "Wednesday": [
+            "Open 24 hours"
+          ],
+          "Thursday": [
+            "Open 24 hours"
+          ],
+          "Friday": [
+            "Open 24 hours"
+          ],
+          "Saturday": [
+            "Open 24 hours"
+          ]
+        },
+        "rating": null,
+        "review_count": 0,
+        "website": "https://www.gettruepower.in",
+        "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RXRQy3KrAI8r-hrrQUBA-w&cb_client=search.gws-prod.gps&w=86&h=86&yaw=73.28882&pitch=0&thumbfov=100",
+        "google_place_id": "ChIJ9dUr9PrH5zsRKxZRcB6W4ok",
+        "google_cid": "9935668785410283051"
+      },
+      {
+        "id": "0x3be7c9cd015f76f9:0x9a955d3213a5d570",
+        "name": "Charge Zone Charging Station",
+        "connectors": [],
+        "formatted_address": "Chattrapati Shivaji, Terminal 2, Jw Marriott Sahar, Navpada, Vile Parle East, Vile Parle, Mumbai, Maharashtra 400099",
+        "address_components": {
+          "district": "Navpada, Vile Parle East, Vile Parle",
+          "street_address": "Chattrapati Shivaji, Terminal 2, Jw Marriott Sahar",
+          "city": "Mumbai",
+          "zipcode": "400099",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.0974373,
+        "longitude": 72.8745017,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c9cd015f76f9:0x9a955d3213a5d570",
+        "phone_number": null,
+        "opening_hours": {},
+        "rating": null,
+        "review_count": 0,
+        "website": null,
+        "photo": "https://lh5.googleusercontent.com/p/AF1QipOGa5TnMJbNSDE8kQtRdQsQNLkzFZCno0tKypyq=w1080-h1080-k-no",
+        "google_place_id": "ChIJ-XZfAc3J5zsRcNWlEzJdlZo",
+        "google_cid": "11138911723030173040"
+      },
+      {
+        "id": "0x3be7c909df73be01:0xb563cc1c032d60f6",
+        "name": "Jio-bp pulse Charging Station",
+        "connectors": [],
+        "formatted_address": "C57, Infront Of Cbi Office, G Block BKC, Bandra East, Maharashtra 400051",
+        "address_components": {
+          "district": "G Block BKC, Bandra Kurla Complex, Bandra East",
+          "street_address": "C57, Infront Of Cbi Office",
+          "city": "Mumbai",
+          "zipcode": "400051",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.0698024,
+        "longitude": 72.86993869999999,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c909df73be01:0xb563cc1c032d60f6",
+        "phone_number": null,
+        "opening_hours": {
+          "Sunday": [
+            "6am-11pm"
+          ],
+          "Monday": [
+            "6am-11pm"
+          ],
+          "Tuesday": [
+            "6am-11pm"
+          ],
+          "Wednesday": [
+            "6am-11pm"
+          ],
+          "Thursday": [
+            "6am-11pm"
+          ],
+          "Friday": [
+            "6am-11pm"
+          ],
+          "Saturday": [
+            "6am-11pm"
+          ]
+        },
+        "rating": 2,
+        "review_count": 1,
+        "website": "https://mobilitystation.jiobp.com/jio-bp-pulse-electric-vehicle-charging-station-bandra-east-mumbai-251922/Home",
+        "photo": "https://lh5.googleusercontent.com/p/AF1QipOF0TVBS6egDyWKztAOynE818AL010TVGLUgBl_=w992-h558-k-no",
+        "google_place_id": "ChIJAb5z3wnJ5zsR9mAtAxzMY7U",
+        "google_cid": "13070514964243767542"
+      },
+      {
+        "id": "0x3be7cf554e9a6f65:0xa62b6189c06bef11",
+        "name": "Magenta ChargeGrid Charging Station",
+        "connectors": [],
+        "formatted_address": "E, Prabhat Building, 288 Sanmukhanand, Hall Road, Sion, Mumbai, Maharashtra 400022",
+        "address_components": {
+          "district": "Namdev Koli Marg, Sion",
+          "street_address": "E, Prabhat Building, 288 Sanmukhanand, Hall Road",
+          "city": "Mumbai",
+          "zipcode": "400022",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.0320069,
+        "longitude": 72.8592108,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7cf554e9a6f65:0xa62b6189c06bef11",
+        "phone_number": null,
+        "opening_hours": {
+          "Sunday": [
+            "Open 24 hours"
+          ],
+          "Monday": [
+            "Open 24 hours"
+          ],
+          "Tuesday": [
+            "Open 24 hours"
+          ],
+          "Wednesday": [
+            "Open 24 hours"
+          ],
+          "Thursday": [
+            "Open 24 hours"
+          ],
+          "Friday": [
+            "Open 24 hours"
+          ],
+          "Saturday": [
+            "Open 24 hours"
+          ]
+        },
+        "rating": 3,
+        "review_count": 1,
+        "website": "https://www.magentamobility.com",
+        "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=y2BRqEzPc0TNBLEHH2ob8A&cb_client=search.gws-prod.gps&w=86&h=86&yaw=106.79755&pitch=0&thumbfov=100",
+        "google_place_id": "ChIJZW-aTlXP5zsREe9rwIlhK6Y",
+        "google_cid": "11973771278561308433"
+      },
+      {
+        "id": "0x3be7c90768a59f4d:0xa1f195ca05994fb7",
+        "name": "Electric Vehicle Charging Station",
+        "connectors": [],
+        "formatted_address": "32 J Nehru Road, Near Santacruz Station, Santacruz East, Mumbai, Maharashtra 400055",
+        "address_components": {
+          "district": "Madhuvan Society, Sen Nagar, Santacruz East",
+          "street_address": "32 J Nehru Road, Near Santacruz Station",
+          "city": "Mumbai",
+          "zipcode": "400055",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.0811052,
+        "longitude": 72.8438453,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c90768a59f4d:0xa1f195ca05994fb7",
+        "phone_number": "+919920112925",
+        "opening_hours": {},
+        "rating": 1,
+        "review_count": 2,
+        "website": null,
+        "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0I92yT3YrPlEGuLBYZCzeA&cb_client=search.gws-prod.gps&w=86&h=86&yaw=354.31915&pitch=0&thumbfov=100",
+        "google_place_id": "ChIJTZ-laAfJ5zsRt0-ZBcqV8aE",
+        "google_cid": "11669272804403531703"
+      },
+      {
+        "id": "0x3be7c907dd11fd35:0x903fa30c8563a4b7",
+        "name": "Electric Vehicle Charging Station",
+        "connectors": [],
+        "formatted_address": "Shop #4, 2nd Hasnabad Ln, Willingdon, Santacruz West, Mumbai, Maharashtra 400054",
+        "address_components": {
+          "district": "Willingdon, Santacruz West",
+          "street_address": "Shop #4, 2nd Hasnabad Ln",
+          "city": "Mumbai",
+          "zipcode": "400054",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.079969,
+        "longitude": 72.84033219999999,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c907dd11fd35:0x903fa30c8563a4b7",
+        "phone_number": null,
+        "opening_hours": {},
+        "rating": 3.3,
+        "review_count": 3,
+        "website": null,
+        "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fdqN3OMOKjeyEoYuobVqtw&cb_client=search.gws-prod.gps&w=86&h=86&yaw=291.12354&pitch=0&thumbfov=100",
+        "google_place_id": "ChIJNf0R3QfJ5zsRt6RjhQyjP5A",
+        "google_cid": "10394205739167229111"
+      },
+      {
+        "id": "0x3be7c9477af3c89f:0x250e816bd8be2a2f",
+        "name": "Jio-bp pulse Charging Station",
+        "connectors": [],
+        "formatted_address": "Shop No 4, Home Sweet Home CHS, Mori Rd, Mahim West, Mahim, Mumbai, Maharashtra 400016",
+        "address_components": {
+          "district": "Mahim West, Mahim",
+          "street_address": "Shop No 4, Home Sweet Home CHS, Mori Rd",
+          "city": "Mumbai",
+          "zipcode": "400016",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.0430001,
+        "longitude": 72.8406,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c9477af3c89f:0x250e816bd8be2a2f",
+        "phone_number": null,
+        "opening_hours": {
+          "Sunday": [
+            "Open 24 hours"
+          ],
+          "Monday": [
+            "Open 24 hours"
+          ],
+          "Tuesday": [
+            "Open 24 hours"
+          ],
+          "Wednesday": [
+            "Open 24 hours"
+          ],
+          "Thursday": [
+            "Open 24 hours"
+          ],
+          "Friday": [
+            "Open 24 hours"
+          ],
+          "Saturday": [
+            "Open 24 hours"
+          ]
+        },
+        "rating": null,
+        "review_count": 0,
+        "website": "https://mobilitystation.jiobp.com/jio-bp-pulse-electric-vehicle-charging-station-mahim-west-mumbai-289775/Home",
+        "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4NyateHrV568vpHMY9yQdg&cb_client=search.gws-prod.gps&w=86&h=86&yaw=341.83856&pitch=0&thumbfov=100",
+        "google_place_id": "ChIJn8jzekfJ5zsRLyq-2GuBDiU",
+        "google_cid": "2670213929275107887"
+      },
+      {
+        "id": "0x3be7c9abb275a2af:0xcd2949315a6f60f7",
+        "name": "Jio-bp pulse Charging Station",
+        "connectors": [],
+        "formatted_address": "Ground Floor Mahakali Road, Sir Mathuradas Vasanji Rd, near Marol Bus Depot, Andheri East, Mumbai, Maharashtra 400059",
+        "address_components": {
+          "district": "Chakala Industrial Area (MIDC), Andheri East",
+          "street_address": "Ground Floor Mahakali Road, Sir Mathuradas Vasanji Rd, near Marol Bus Depot",
+          "city": "Mumbai",
+          "zipcode": "400059",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.1181093,
+        "longitude": 72.8657735,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c9abb275a2af:0xcd2949315a6f60f7",
+        "phone_number": null,
+        "opening_hours": {
+          "Sunday": [
+            "12am-11:45pm"
+          ],
+          "Monday": [
+            "12am-11:45pm"
+          ],
+          "Tuesday": [
+            "12am-11:45pm"
+          ],
+          "Wednesday": [
+            "12am-11:45pm"
+          ],
+          "Thursday": [
+            "12am-11:45pm"
+          ],
+          "Friday": [
+            "12am-11:45pm"
+          ],
+          "Saturday": [
+            "12am-11:45pm"
+          ]
+        },
+        "rating": null,
+        "review_count": 0,
+        "website": null,
+        "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=RzlKHPvepTzvnltsVn-9VA&cb_client=search.gws-prod.gps&w=86&h=86&yaw=317.5295&pitch=0&thumbfov=100",
+        "google_place_id": "ChIJr6J1sqvJ5zsR92BvWjFJKc0",
+        "google_cid": "14783427728139837687"
+      },
+      {
+        "id": "0x3be7c79bf566f831:0xa3ce15d57a2e03b",
+        "name": "Jio-bp Pulse",
+        "connectors": [],
+        "formatted_address": "Prudential, Hiranandani Business Park, Hiranandani Gardens, Powai, Mumbai, Maharashtra 400076",
+        "address_components": {
+          "district": "Hiranandani Gardens, Powai",
+          "street_address": "Prudential, Hiranandani Business Park",
+          "city": "Mumbai",
+          "zipcode": "400076",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.1157499,
+        "longitude": 72.9097603,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c79bf566f831:0xa3ce15d57a2e03b",
+        "phone_number": null,
+        "opening_hours": {
+          "Sunday": [
+            "12am-11:45pm"
+          ],
+          "Monday": [
+            "12am-11:45pm"
+          ],
+          "Tuesday": [
+            "12am-11:45pm"
+          ],
+          "Wednesday": [
+            "12am-11:45pm"
+          ],
+          "Thursday": [
+            "12am-11:45pm"
+          ],
+          "Friday": [
+            "12am-11:45pm"
+          ],
+          "Saturday": [
+            "12am-11:45pm"
+          ]
+        },
+        "rating": 5,
+        "review_count": 1,
+        "website": null,
+        "photo": null,
+        "google_place_id": "ChIJMfhm9ZvH5zsRO-CiV13hPAo",
+        "google_cid": "737712230000418875"
+      },
+      {
+        "id": "0x3be7c984a0e76a97:0xff4d7114a8fdcc65",
+        "name": "Jio-bp pulse Charging Station",
+        "connectors": [],
+        "formatted_address": "Ground Floor, BUS DEPOT, SB Patil Rd, near Santacruz West, Santacruz, Mumbai, BEST Colony, Santacruz West, Mumbai, Maharashtra 400054",
+        "address_components": {
+          "district": "Santacruz, Mumbai, BEST Colony, Santacruz West",
+          "street_address": "Ground Floor, BUS DEPOT, SB Patil Rd, near Santacruz West",
+          "city": "Mumbai",
+          "zipcode": "400054",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.0915848,
+        "longitude": 72.8382391,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c984a0e76a97:0xff4d7114a8fdcc65",
+        "phone_number": null,
+        "opening_hours": {
+          "Sunday": [
+            "12am-11:45pm"
+          ],
+          "Monday": [
+            "12am-11:45pm"
+          ],
+          "Tuesday": [
+            "12am-11:45pm"
+          ],
+          "Wednesday": [
+            "12am-11:45pm"
+          ],
+          "Thursday": [
+            "12am-11:45pm"
+          ],
+          "Friday": [
+            "12am-11:45pm"
+          ],
+          "Saturday": [
+            "12am-11:45pm"
+          ]
+        },
+        "rating": null,
+        "review_count": 0,
+        "website": "https://mobilitystation.jiobp.com/jio-bp-pulse-petrol-pump-best-colony-mumbai-270415/Home",
+        "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XRAc6EQ4SdEgZNvOY4PAqw&cb_client=search.gws-prod.gps&w=86&h=86&yaw=279.1497&pitch=0&thumbfov=100",
+        "google_place_id": "ChIJl2rnoITJ5zsRZcz9qBRxTf8",
+        "google_cid": "18396484386426834021"
+      },
+      {
+        "id": "0x3be7c7c8d4095555:0xd235f54285ffc0b0",
+        "name": "wattz",
+        "connectors": [],
+        "formatted_address": "BLOCK-3I, 3B-23, Nityanand Nagar, Ghatkopar West, Mumbai, Maharashtra 400086",
+        "address_components": {
+          "district": "Nityanand Nagar, Ghatkopar West",
+          "street_address": "BLOCK-3I, 3B-23",
+          "city": "Mumbai",
+          "zipcode": "400086",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.097762499999998,
+        "longitude": 72.9168266,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c7c8d4095555:0xd235f54285ffc0b0",
+        "phone_number": null,
+        "opening_hours": {
+          "Sunday": [
+            "Open 24 hours"
+          ],
+          "Monday": [
+            "Open 24 hours"
+          ],
+          "Tuesday": [
+            "Open 24 hours"
+          ],
+          "Wednesday": [
+            "Open 24 hours"
+          ],
+          "Thursday": [
+            "Open 24 hours"
+          ],
+          "Friday": [
+            "Open 24 hours"
+          ],
+          "Saturday": [
+            "Open 24 hours"
+          ]
+        },
+        "rating": 5,
+        "review_count": 1,
+        "website": null,
+        "photo": null,
+        "google_place_id": "ChIJVVUJ1MjH5zsRsMD_hUL1NdI",
+        "google_cid": "15147282587795308720"
+      },
+      {
+        "id": "0x3be7c70031799649:0x97726b69f123ffc8",
+        "name": "Electric Vehicle Charging Station",
+        "connectors": [],
+        "formatted_address": "22, Mumbai - Pune Hwy, Ghatla, Chembur, Mumbai, Maharashtra 400071",
+        "address_components": {
+          "district": "Ghatla, Chembur",
+          "street_address": "22, Mumbai - Pune Hwy",
+          "city": "Mumbai",
+          "zipcode": "400071",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.051035499999998,
+        "longitude": 72.9104301,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c70031799649:0x97726b69f123ffc8",
+        "phone_number": null,
+        "opening_hours": {},
+        "rating": null,
+        "review_count": 0,
+        "website": null,
+        "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7rEM-fDHJbdLxfA2nZ6P8g&cb_client=search.gws-prod.gps&w=86&h=86&yaw=213.96567&pitch=0&thumbfov=100",
+        "google_place_id": "ChIJSZZ5MQDH5zsRyP8j8Wlrcpc",
+        "google_cid": "10912902949833539528"
+      },
+      {
+        "id": "0x3be7c7118788a4ad:0x9c3ed8be542f3839",
+        "name": "Jio-bp pulse Charging Station",
+        "connectors": [],
+        "formatted_address": "Cts No 79 & 87, Tridhaatu Morya Society, Road, Deonar, Kurla, Mumbai, Maharashtra 400088",
+        "address_components": {
+          "district": "Deonar, Kurla",
+          "street_address": "Cts No 79 & 87, Tridhaatu Morya Society, Road",
+          "city": "Mumbai",
+          "zipcode": "400088",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.0468001,
+        "longitude": 72.9069001,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c7118788a4ad:0x9c3ed8be542f3839",
+        "phone_number": null,
+        "opening_hours": {
+          "Sunday": [
+            "Open 24 hours"
+          ],
+          "Monday": [
+            "Open 24 hours"
+          ],
+          "Tuesday": [
+            "Open 24 hours"
+          ],
+          "Wednesday": [
+            "Open 24 hours"
+          ],
+          "Thursday": [
+            "Open 24 hours"
+          ],
+          "Friday": [
+            "Open 24 hours"
+          ],
+          "Saturday": [
+            "Open 24 hours"
+          ]
+        },
+        "rating": null,
+        "review_count": 0,
+        "website": "https://mobilitystation.jiobp.com/jio-bp-pulse-electric-vehicle-charging-station-kurla-mumbai-289764/Home",
+        "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=HIZP9vwxQBZQVkmidpkEhg&cb_client=search.gws-prod.gps&w=86&h=86&yaw=226.98318&pitch=0&thumbfov=100",
+        "google_place_id": "ChIJraSIhxHH5zsROTgvVL7YPpw",
+        "google_cid": "11258674430440585273"
+      },
+      {
+        "id": "0x3be7cf014d5945d7:0x556f92d28aea66eb",
+        "name": "Jio-bp pulse Charging Station",
+        "connectors": [],
+        "formatted_address": "Shop No 06, Antop Hill Rd, Wadala East, Dosti Acres, Antop Hill, Mumbai, Maharashtra 400037",
+        "address_components": {
+          "district": "Wadala East, Dosti Acres, Antop Hill",
+          "street_address": "Shop No 06, Antop Hill Rd",
+          "city": "Mumbai",
+          "zipcode": "400037",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.025900099999998,
+        "longitude": 72.8666001,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7cf014d5945d7:0x556f92d28aea66eb",
+        "phone_number": null,
+        "opening_hours": {
+          "Sunday": [
+            "Open 24 hours"
+          ],
+          "Monday": [
+            "Open 24 hours"
+          ],
+          "Tuesday": [
+            "Open 24 hours"
+          ],
+          "Wednesday": [
+            "Open 24 hours"
+          ],
+          "Thursday": [
+            "Open 24 hours"
+          ],
+          "Friday": [
+            "Open 24 hours"
+          ],
+          "Saturday": [
+            "Open 24 hours"
+          ]
+        },
+        "rating": null,
+        "review_count": 0,
+        "website": "https://mobilitystation.jiobp.com/jio-bp-pulse-electric-vehicle-charging-station-wadala-east-mumbai-289766/Home",
+        "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QpPhEBEf2awao6NQLboQMQ&cb_client=search.gws-prod.gps&w=86&h=86&yaw=159.28658&pitch=0&thumbfov=100",
+        "google_place_id": "ChIJ10VZTQHP5zsR62bqitKSb1U",
+        "google_cid": "6156300648610162411"
+      },
+      {
+        "id": "0x3be7c3964fffffff:0xac7d985f5e722bb2",
+        "name": "BRIGHTBLU",
+        "connectors": [],
+        "formatted_address": "1st Floor & 2nd floor, Kagalwala House, Plot No. 175, CST Road, Kalina, Bandra Kurla Complex, Santacruz East, Mumbai, Maharashtra 400098",
+        "address_components": {
+          "district": "Kolivery Village, MMRDA Area, Bandra Kurla Complex, Santacruz East",
+          "street_address": "1st Floor & 2nd floor, Kagalwala House, Plot No. 175, CST Road, Kalina",
+          "city": "Mumbai",
+          "zipcode": "400098",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.073760999999998,
+        "longitude": 72.8704813,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c3964fffffff:0xac7d985f5e722bb2",
+        "phone_number": "+919159866470",
+        "opening_hours": {
+          "Sunday": [
+            "Closed"
+          ],
+          "Monday": [
+            "8am-6pm"
+          ],
+          "Tuesday": [
+            "8am-6pm"
+          ],
+          "Wednesday": [
+            "8am-6pm"
+          ],
+          "Thursday": [
+            "8am-6pm"
+          ],
+          "Friday": [
+            "8am-6pm"
+          ],
+          "Saturday": [
+            "Closed"
+          ]
+        },
+        "rating": null,
+        "review_count": 0,
+        "website": "http://brightblu.com",
+        "photo": "https://lh5.googleusercontent.com/p/AF1QipPPgSbWQCdefKfqb1JmsKKdqrYDeHpP8raa17pW=w7952-h4472-k-no",
+        "google_place_id": "ChIJ____T5bD5zsRsityXl-Yfaw",
+        "google_cid": "12429258081986292658"
+      },
+      {
+        "id": "0x3be7c9cd42439e39:0xfc59c7797914b1d3",
+        "name": "TATA Charging Station",
+        "connectors": [],
+        "formatted_address": "4V82+93V, Teli Gali, Andheri East, Mumbai, Maharashtra 400053",
+        "address_components": {
+          "district": "Andheri East",
+          "street_address": "4V82+93V, Teli Gali",
+          "city": "Mumbai",
+          "zipcode": null,
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.1159925,
+        "longitude": 72.8501787,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c9cd42439e39:0xfc59c7797914b1d3",
+        "phone_number": null,
+        "opening_hours": {},
+        "rating": 5,
+        "review_count": 2,
+        "website": "https://nexonev.tatamotors.com/charging-locator",
+        "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=bHRddULFwK4O1AlBOsLC4Q&cb_client=search.gws-prod.gps&w=86&h=86&yaw=267.39954&pitch=0&thumbfov=100",
+        "google_place_id": "ChIJOZ5DQs3J5zsR07EUeXnHWfw",
+        "google_cid": "18183784295021457875"
+      },
+      {
+        "id": "0x3be7c98c0190dded:0xb5033765ebb2defe",
+        "name": "TATA Charging Station",
+        "connectors": [],
+        "formatted_address": "B-6, Cross Road B J B Nagar, Bhim Nagar, Andheri East, Mumbai, Maharashtra 400069",
+        "address_components": {
+          "district": "Bhim Nagar, Andheri East",
+          "street_address": "B-6, Cross Road B J B Nagar",
+          "city": "Mumbai",
+          "zipcode": "400069",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.115695799999997,
+        "longitude": 72.8683118,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c98c0190dded:0xb5033765ebb2defe",
+        "phone_number": null,
+        "opening_hours": {
+          "Sunday": [
+            "8am-8pm"
+          ],
+          "Monday": [
+            "8am-8pm"
+          ],
+          "Tuesday": [
+            "8am-8pm"
+          ],
+          "Wednesday": [
+            "8am-8pm"
+          ],
+          "Thursday": [
+            "8am-8pm"
+          ],
+          "Friday": [
+            "8am-8pm"
+          ],
+          "Saturday": [
+            "8am-8pm"
+          ]
+        },
+        "rating": 4.1,
+        "review_count": 8,
+        "website": "https://nexonev.tatamotors.com/charging-locator",
+        "photo": "https://lh5.googleusercontent.com/p/AF1QipOeh6RrnOGdalQ6FgE019EG3OCCLwToHFk9sUAu=w3024-h4032-k-no",
+        "google_place_id": "ChIJ7d2QAYzJ5zsR_t6y62U3A7U",
+        "google_cid": "13043329856680681214"
+      },
+      {
+        "id": "0x3be7c75fcf538a23:0xdc2f2f187436dbe",
+        "name": "Ather Grid Charging Station",
+        "connectors": [
+          {
+            "type": "Type 2",
+            "total": 2,
+            "available": null,
+            "kw": 3.5,
+            "speed": "Slow"
+          }
+        ],
+        "formatted_address": "Vijay Group of Companies, 35, Saki Vihar Rd, opposite Sangharsh Nagar, Nahar Amrit Shakti, Chandivali, Andheri€, Mumbai, Maharashtra 400072",
+        "address_components": {
+          "district": "Nahar Amrit Shakti, Chandivali, Andheri€",
+          "street_address": "Vijay Group of Companies, 35, Saki Vihar Rd, opposite Sangharsh Nagar",
+          "city": "Mumbai",
+          "zipcode": "400072",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.1083466,
+        "longitude": 72.9010227,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c75fcf538a23:0xdc2f2f187436dbe",
+        "phone_number": "+917676600900",
+        "opening_hours": {
+          "Sunday": [
+            "10am-9pm"
+          ],
+          "Monday": [
+            "10am-9pm"
+          ],
+          "Tuesday": [
+            "10am-9pm"
+          ],
+          "Wednesday": [
+            "10am-9pm"
+          ],
+          "Thursday": [
+            "10am-9pm"
+          ],
+          "Friday": [
+            "10am-9pm"
+          ],
+          "Saturday": [
+            "10am-9pm"
+          ]
+        },
+        "rating": 4.8,
+        "review_count": 4,
+        "website": "https://atherenergy.com/grid",
+        "photo": "https://lh5.googleusercontent.com/p/AF1QipPynYdcZOC9qqQz6bVRP9K14zSlBv4EP9w1ttE=w1080-h1920-k-no",
+        "google_place_id": "ChIJI4pTz1_H5zsRvm1Dh_Hywg0",
+        "google_cid": "991621987145313726"
+      },
+      {
+        "id": "0x3be7c7ffd6b3c0bd:0x9d26bfc0ac16af12",
+        "name": "Jio-bp pulse Charging Station",
+        "connectors": [],
+        "formatted_address": "Govandi Bus Station, Deonar, Chembur, Mumbai, Maharashtra 400088",
+        "address_components": {
+          "district": "Deonar, Chembur",
+          "street_address": "Govandi Bus Station",
+          "city": "Mumbai",
+          "zipcode": "400088",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.0544001,
+        "longitude": 72.9159001,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c7ffd6b3c0bd:0x9d26bfc0ac16af12",
+        "phone_number": null,
+        "opening_hours": {
+          "Sunday": [
+            "Open 24 hours"
+          ],
+          "Monday": [
+            "Open 24 hours"
+          ],
+          "Tuesday": [
+            "Open 24 hours"
+          ],
+          "Wednesday": [
+            "Open 24 hours"
+          ],
+          "Thursday": [
+            "Open 24 hours"
+          ],
+          "Friday": [
+            "Open 24 hours"
+          ],
+          "Saturday": [
+            "Open 24 hours"
+          ]
+        },
+        "rating": null,
+        "review_count": 0,
+        "website": "https://mobilitystation.jiobp.com/jio-bp-pulse-electric-vehicle-charging-station-chembur-mumbai-289796/Home",
+        "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=acXw9nmXBL9akgCjTTlODA&cb_client=search.gws-prod.gps&w=86&h=86&yaw=115.655624&pitch=0&thumbfov=100",
+        "google_place_id": "ChIJvcCz1v_H5zsREq8WrMC_Jp0",
+        "google_cid": "11323949147311484690"
+      },
+      {
+        "id": "0x3be7c8482ab32cd3:0xfa15fd3d590d4e5e",
+        "name": "Ather Charging Station",
+        "connectors": [],
+        "formatted_address": "Plot No. 211, Chakala, Sahar Rd, Opposite Cigarette Factory, Andheri East, Mumbai, Maharashtra",
+        "address_components": {
+          "district": "Mahatma Kabir Nagar, Dawoolwadi, Andheri East",
+          "street_address": "Plot No. 211, Chakala, Sahar Rd, Opposite Cigarette Factory",
+          "city": "Mumbai",
+          "zipcode": null,
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.1061962,
+        "longitude": 72.8602904,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c8482ab32cd3:0xfa15fd3d590d4e5e",
+        "phone_number": "+917676600900",
+        "opening_hours": {},
+        "rating": 2.3,
+        "review_count": 3,
+        "website": "https://www.atherenergy.com/grid",
+        "photo": "https://lh5.googleusercontent.com/p/AF1QipMUk5xDWPC7z8Ov5VONPnMBl9994Ia9VDY_9KjJ=w900-h1600-k-no",
+        "google_place_id": "ChIJ0yyzKkjI5zsRXk4NWT39Ffo",
+        "google_cid": "18020587923921784414"
+      },
+      {
+        "id": "0x3be7c7ca4c739033:0xb5605eef5ef6c51a",
+        "name": "Mahindra Charging Station",
+        "connectors": [],
+        "formatted_address": "3WV9+6V5, Kurla, Pirojshanagar, Vikhroli, Mumbai, Maharashtra 400079",
+        "address_components": {
+          "district": "Kurla, Pirojshanagar, Vikhroli",
+          "street_address": "3WV9+6V5",
+          "city": "Mumbai",
+          "zipcode": "400079",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.093005899999998,
+        "longitude": 72.9197416,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c7ca4c739033:0xb5605eef5ef6c51a",
+        "phone_number": null,
+        "opening_hours": {},
+        "rating": null,
+        "review_count": 0,
+        "website": "https://www.withyouhamesha.com/ev-charging-station-locator.aspx",
+        "photo": null,
+        "google_place_id": "ChIJM5BzTMrH5zsRGsX2Xu9eYLU",
+        "google_cid": "13069550500812604698"
+      },
+      {
+        "id": "0x3be7cf2adc4842b9:0xeced4d9072dd1c0a",
+        "name": "TATA Charging Station",
+        "connectors": [],
+        "formatted_address": "2VP3+7J3, Dharavi Receiving Station, Near Shalimar Industrial Estate, Matunga East, Mumbai, Maharashtra 400019",
+        "address_components": {
+          "district": "Kumbhar Wada, Matunga East",
+          "street_address": "2VP3+7J3, Dharavi Receiving Station, Near Shalimar Industrial Estate",
+          "city": "Mumbai",
+          "zipcode": "400019",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.0356325,
+        "longitude": 72.8540319,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7cf2adc4842b9:0xeced4d9072dd1c0a",
+        "phone_number": null,
+        "opening_hours": {},
+        "rating": null,
+        "review_count": 0,
+        "website": "https://nexonev.tatamotors.com/charging-locator",
+        "photo": null,
+        "google_place_id": "ChIJuUJI3CrP5zsRChzdcpBN7ew",
+        "google_cid": "17072387045229141002"
+      },
+      {
+        "id": "0x3be7c7a43251aefd:0xd336e135a128c724",
+        "name": "Jio-bp pulse Charging Station",
+        "connectors": [],
+        "formatted_address": "87, Deaonar Depot Rd, Best Colony, Govandi East, Mumbai, Maharashtra 400094",
+        "address_components": {
+          "district": "Best Colony, Govandi East",
+          "street_address": "87, Deaonar Depot Rd",
+          "city": "Mumbai",
+          "zipcode": "400094",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.0467613,
+        "longitude": 72.9118984,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c7a43251aefd:0xd336e135a128c724",
+        "phone_number": null,
+        "opening_hours": {},
+        "rating": null,
+        "review_count": 0,
+        "website": null,
+        "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ytFSnBZNgDtr_1hPmAkKLg&cb_client=search.gws-prod.gps&w=86&h=86&yaw=133.15681&pitch=0&thumbfov=100",
+        "google_place_id": "ChIJ_a5RMqTH5zsRJMcooTXhNtM",
+        "google_cid": "15219599611198490404"
+      },
+      {
+        "id": "0x3be7ced538348a0b:0x20504cb58c4c3680",
+        "name": "TATA Charging Station",
+        "connectors": [],
+        "formatted_address": "2RPX+7X6, Tata Power,Dharavi Colony labour camp, Dharavi, Matunga East, Mumbai, Maharashtra 400019",
+        "address_components": {
+          "district": "Sundar Kamla Nagar, Western Railway Colony, Hanuman Nagar, Matunga East",
+          "street_address": "2RPX+7X6, Tata Power,Dharavi Colony labour camp, Dharavi",
+          "city": "Mumbai",
+          "zipcode": "400019",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.035667099999998,
+        "longitude": 72.8498978,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7ced538348a0b:0x20504cb58c4c3680",
+        "phone_number": null,
+        "opening_hours": {},
+        "rating": null,
+        "review_count": 0,
+        "website": null,
+        "photo": null,
+        "google_place_id": "ChIJC4o0ONXO5zsRgDZMjLVMUCA",
+        "google_cid": "2328445349977142912"
+      },
+      {
+        "id": "0x3be7c9deeeb68a87:0x590ee8d48f2500df",
+        "name": "Murthy Electric",
+        "connectors": [],
+        "formatted_address": "Shop No 1, Ramakrishna Chemburkar Marg, Vijay Nagar, Ashok Nagar, Collector Colony, Chembur, Mumbai, Maharashtra 400074",
+        "address_components": {
+          "district": "Vijay Nagar, Ashok Nagar, Collector Colony, Chembur",
+          "street_address": "Shop No 1, Ramakrishna Chemburkar Marg",
+          "city": "Mumbai",
+          "zipcode": "400074",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.0468422,
+        "longitude": 72.89302409999999,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c9deeeb68a87:0x590ee8d48f2500df",
+        "phone_number": "+919967076438",
+        "opening_hours": {},
+        "rating": 5,
+        "review_count": 1,
+        "website": null,
+        "photo": "https://lh5.googleusercontent.com/p/AF1QipM0kn6tTEwC22CUS5skgf1MJLhbBq1VosYvlqCg=w1920-h1080-k-no",
+        "google_place_id": "ChIJh4q27t7J5zsR3wAlj9ToDlk",
+        "google_cid": "6417322518681813215"
+      },
+      {
+        "id": "0x3be7c91093e4ea39:0x8e0c5971781a5345",
+        "name": "Jio-bp pulse Charging Station",
+        "connectors": [],
+        "formatted_address": "Ground Floor Ghatkopar, Kirol Rd, Kirol Village, Vidyavihar West, Vidyavihar, Mumbai, Maharashtra 400068",
+        "address_components": {
+          "district": "Kirol Village, Vidyavihar West, Vidyavihar",
+          "street_address": "Ground Floor Ghatkopar, Kirol Rd",
+          "city": "Mumbai",
+          "zipcode": "400068",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.080711,
+        "longitude": 72.898411,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c91093e4ea39:0x8e0c5971781a5345",
+        "phone_number": null,
+        "opening_hours": {
+          "Sunday": [
+            "6am-11pm"
+          ],
+          "Monday": [
+            "6am-11pm"
+          ],
+          "Tuesday": [
+            "6am-11pm"
+          ],
+          "Wednesday": [
+            "6am-11pm"
+          ],
+          "Thursday": [
+            "6am-11pm"
+          ],
+          "Friday": [
+            "6am-11pm"
+          ],
+          "Saturday": [
+            "6am-11:27pm"
+          ]
+        },
+        "rating": null,
+        "review_count": 0,
+        "website": "https://mobilitystation.jiobp.com/jio-bp-pulse-electric-vehicle-charging-station-vidyavihar-mumbai-292248/Home",
+        "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=F2nOv1i0SfeSyz4jPYl51g&cb_client=search.gws-prod.gps&w=86&h=86&yaw=175.25476&pitch=0&thumbfov=100",
+        "google_place_id": "ChIJOerkkxDJ5zsRRVMaeHFZDI4",
+        "google_cid": "10235654396987462469"
+      },
+      {
+        "id": "0x3be7c755d53a8691:0xa8fc09544f9bd9c5",
+        "name": "Ather Grid Charging Station",
+        "connectors": [],
+        "formatted_address": "K Star Mall, VN Purav Marg, Diamond Garden, Basant Garden, Chembur, Mumbai, Maharashtra 400071",
+        "address_components": {
+          "district": "Diamond Garden, Basant Garden, Chembur",
+          "street_address": "K Star Mall, VN Purav Marg",
+          "city": "Mumbai",
+          "zipcode": "400071",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.052316299999998,
+        "longitude": 72.9016358,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c755d53a8691:0xa8fc09544f9bd9c5",
+        "phone_number": "+917676600900",
+        "opening_hours": {
+          "Sunday": [
+            "10am-9pm"
+          ],
+          "Monday": [
+            "10am-9pm"
+          ],
+          "Tuesday": [
+            "10am-9pm"
+          ],
+          "Wednesday": [
+            "10am-9pm"
+          ],
+          "Thursday": [
+            "10am-9pm"
+          ],
+          "Friday": [
+            "10am-9pm"
+          ],
+          "Saturday": [
+            "10am-9pm"
+          ]
+        },
+        "rating": 3.8,
+        "review_count": 9,
+        "website": "https://atherenergy.com/grid",
+        "photo": "https://lh5.googleusercontent.com/p/AF1QipOvMUWFQ4coXBTV7J6VW0crpI1WaPCjs3eVuuAA=w9248-h6936-k-no",
+        "google_place_id": "ChIJkYY61VXH5zsRxdmbT1QJ_Kg",
+        "google_cid": "12176617750220495301"
+      },
+      {
+        "id": "0x3be7c96f7a765c57:0xcf78eb8127eaf15a",
+        "name": "Electric Vehicle Charging Station",
+        "connectors": [],
+        "formatted_address": "3RQP+FXX, Reliance mall, Swami Vivekananda Rd, Santacruz West, Mumbai, Maharashtra",
+        "address_components": {
+          "district": "Rizvi Nagar, Khira Nagar, Santacruz West",
+          "street_address": "3RQP+FXX, Reliance mall, Swami Vivekananda Rd",
+          "city": "Mumbai",
+          "zipcode": null,
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.0887448,
+        "longitude": 72.8374766,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c96f7a765c57:0xcf78eb8127eaf15a",
+        "phone_number": null,
+        "opening_hours": {
+          "Sunday": [
+            "10:31am-10pm"
+          ],
+          "Monday": [
+            "10:31am-10pm"
+          ],
+          "Tuesday": [
+            "10:31am-10pm"
+          ],
+          "Wednesday": [
+            "10:31am-10pm"
+          ],
+          "Thursday": [
+            "10:31am-10pm"
+          ],
+          "Friday": [
+            "10:31am-10pm"
+          ],
+          "Saturday": [
+            "10:31am-10pm"
+          ]
+        },
+        "rating": 5,
+        "review_count": 1,
+        "website": null,
+        "photo": "https://lh5.googleusercontent.com/p/AF1QipOIevA4hXopbWplHmotgcdMh3AhOvKy45kPma1L=w4000-h1800-k-no",
+        "google_place_id": "ChIJV1x2em_J5zsRWvHqJ4HreM8",
+        "google_cid": "14949957903009378650"
+      },
+      {
+        "id": "0x3be7c726af7ec6db:0xd0cbb3e4174165c1",
+        "name": "Jio-bp pulse Charging Station",
+        "connectors": [],
+        "formatted_address": "4W94+5G3, Orchard Ave, Sector V2, MHADA Colony 19, Powai, Mumbai, Maharashtra 400076",
+        "address_components": {
+          "district": "Sector V2, MHADA Colony 19, Powai",
+          "street_address": "4W94+5G3, Orchard Ave",
+          "city": "Mumbai",
+          "zipcode": "400076",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.118095999999998,
+        "longitude": 72.9064078,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c726af7ec6db:0xd0cbb3e4174165c1",
+        "phone_number": null,
+        "opening_hours": {},
+        "rating": null,
+        "review_count": 0,
+        "website": null,
+        "photo": "https://lh5.googleusercontent.com/p/AF1QipPoz8U0ZAN0AqNd4RFGCgu7OXkhDJIPp4zKhru2=w4000-h3000-k-no",
+        "google_place_id": "ChIJ28Z-rybH5zsRwWVBF-Szy9A",
+        "google_cid": "15045316772385351105"
+      },
+      {
+        "id": "0x3be7c9ced19cfab7:0xb0f2517366cfa661",
+        "name": "Jio-bp pulse Charging Station",
+        "connectors": [],
+        "formatted_address": "Ground Floor, Government Colony, Bandra East, Mumbai, Maharashtra 400051",
+        "address_components": {
+          "district": "Government Colony, Bandra East",
+          "street_address": "Ground Floor",
+          "city": "Mumbai",
+          "zipcode": "400051",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.061801799999998,
+        "longitude": 72.85056569999999,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c9ced19cfab7:0xb0f2517366cfa661",
+        "phone_number": null,
+        "opening_hours": {
+          "Sunday": [
+            "6am-11pm"
+          ],
+          "Monday": [
+            "6am-11pm"
+          ],
+          "Tuesday": [
+            "6am-11pm"
+          ],
+          "Wednesday": [
+            "6am-11pm"
+          ],
+          "Thursday": [
+            "6am-11pm"
+          ],
+          "Friday": [
+            "6am-11pm"
+          ],
+          "Saturday": [
+            "6am-11:05pm"
+          ]
+        },
+        "rating": null,
+        "review_count": 0,
+        "website": "https://mobilitystation.jiobp.com/jio-bp-pulse-electric-vehicle-charging-station-bandra-east-mumbai-292226/Home",
+        "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=o6qRRHui-03CvIItJYJR9w&cb_client=search.gws-prod.gps&w=86&h=86&yaw=230.95746&pitch=0&thumbfov=100",
+        "google_place_id": "ChIJt_qc0c7J5zsRYabPZnNR8rA",
+        "google_cid": "12750343051127268961"
+      },
+      {
+        "id": "0x3be7c83d3fffffff:0x6557b8edac022395",
+        "name": "EV Charging",
+        "connectors": [],
+        "formatted_address": "Lane No. 7A Nalini Avenue Ranjan, Basant Lal,Shaha Road, Andheri- 400069, Maharashtra",
+        "address_components": {
+          "district": "Shree Krishna Nagar, Pandit Dindayala Upadhaya Nagar, Andheri East",
+          "street_address": "Lane No. 7A Nalini Avenue Ranjan, Basant Lal,Shaha Road, Andheri- 400069",
+          "city": "Mumbai",
+          "zipcode": null,
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.117753,
+        "longitude": 72.8737017,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c83d3fffffff:0x6557b8edac022395",
+        "phone_number": "+919831290751",
+        "opening_hours": {
+          "Sunday": [
+            "Closed"
+          ],
+          "Monday": [
+            "9am-7pm"
+          ],
+          "Tuesday": [
+            "9am-7pm"
+          ],
+          "Wednesday": [
+            "9am-7pm"
+          ],
+          "Thursday": [
+            "9am-7pm"
+          ],
+          "Friday": [
+            "9am-7pm"
+          ],
+          "Saturday": [
+            "11am-4pm"
+          ]
+        },
+        "rating": 1,
+        "review_count": 1,
+        "website": null,
+        "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5WXnfPf6fgjRhrHgutsP-w&cb_client=search.gws-prod.gps&w=86&h=86&yaw=86.457565&pitch=0&thumbfov=100",
+        "google_place_id": "ChIJ____Pz3I5zsRlSMCrO24V2U",
+        "google_cid": "7302508651737129877"
+      },
+      {
+        "id": "0x3be7c9bc727314bf:0x78b02cb24f0a8a94",
+        "name": "Jio-bp pulse Charging Station",
+        "connectors": [],
+        "formatted_address": "Ground Floor, Bus Station, Anant Kanekar Marg, near Bandra, D Block BKC, Kherwadi, Bandra East, Mumbai, Maharashtra 400051",
+        "address_components": {
+          "district": "D Block BKC, Kherwadi, Bandra East",
+          "street_address": "Ground Floor, Bus Station, Anant Kanekar Marg, near Bandra",
+          "city": "Mumbai",
+          "zipcode": "400051",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.056337799999998,
+        "longitude": 72.84530869999999,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c9bc727314bf:0x78b02cb24f0a8a94",
+        "phone_number": null,
+        "opening_hours": {
+          "Sunday": [
+            "6am-11pm"
+          ],
+          "Monday": [
+            "6am-11pm"
+          ],
+          "Tuesday": [
+            "6am-11pm"
+          ],
+          "Wednesday": [
+            "6am-11pm"
+          ],
+          "Thursday": [
+            "6am-11pm"
+          ],
+          "Friday": [
+            "6am-11pm"
+          ],
+          "Saturday": [
+            "6am-11:11pm"
+          ]
+        },
+        "rating": null,
+        "review_count": 0,
+        "website": "https://mobilitystation.jiobp.com/jio-bp-pulse-electric-vehicle-charging-station-bandra-east-mumbai-292232/Home",
+        "photo": null,
+        "google_place_id": "ChIJvxRzcrzJ5zsRlIoKT7IssHg",
+        "google_cid": "8696500024794319508"
+      },
+      {
+        "id": "0x3be7c7b66aaaaaab:0xc20e793b15168734",
+        "name": "Vehicle charging station",
+        "connectors": [],
+        "formatted_address": "Pirojshanagar, Vikhroli, Mumbai, Maharashtra 400079",
+        "address_components": {
+          "district": "Pirojshanagar, Vikhroli",
+          "street_address": null,
+          "city": "Mumbai",
+          "zipcode": "400079",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.0966611,
+        "longitude": 72.9239095,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c7b66aaaaaab:0xc20e793b15168734",
+        "phone_number": null,
+        "opening_hours": {},
+        "rating": null,
+        "review_count": 0,
+        "website": null,
+        "photo": null,
+        "google_place_id": "ChIJq6qqarbH5zsRNIcWFTt5DsI",
+        "google_cid": "13983247187695798068"
+      },
+      {
+        "id": "0x3be7c9940027462d:0xf55e8b4c6140dc09",
+        "name": "Ather Grid Charging Station",
+        "connectors": [],
+        "formatted_address": "Borosil Plot, MCGM Parking ||, Vasant Oasis, off, Makwana Rd, Marol, Andheri East, Mumbai, Maharashtra 400059",
+        "address_components": {
+          "district": "Marol, Andheri East",
+          "street_address": "Borosil Plot, MCGM Parking ||, Vasant Oasis, off, Makwana Rd",
+          "city": "Mumbai",
+          "zipcode": "400059",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.1146146,
+        "longitude": 72.8840941,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c9940027462d:0xf55e8b4c6140dc09",
+        "phone_number": "+917676600900",
+        "opening_hours": {
+          "Sunday": [
+            "10am-9pm"
+          ],
+          "Monday": [
+            "10am-9pm"
+          ],
+          "Tuesday": [
+            "10am-9pm"
+          ],
+          "Wednesday": [
+            "10am-9pm"
+          ],
+          "Thursday": [
+            "10am-9pm"
+          ],
+          "Friday": [
+            "10am-9pm"
+          ],
+          "Saturday": [
+            "10am-9pm"
+          ]
+        },
+        "rating": null,
+        "review_count": 0,
+        "website": "https://atherenergy.com/grid",
+        "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=84CSyUfYDRDIvBVqwozTzQ&cb_client=search.gws-prod.gps&w=86&h=86&yaw=106.55795&pitch=0&thumbfov=100",
+        "google_place_id": "ChIJLUYnAJTJ5zsRCdxAYUyLXvU",
+        "google_cid": "17680722347268561929"
+      },
+      {
+        "id": "0x3be7cf4932afcc77:0x176fc31ee76363be",
+        "name": "Ather Charging Station",
+        "connectors": [],
+        "formatted_address": "Carnival Cinemas Imax, Anik Wadala Link Rd, Carnival Cinemas Imax, Wadala - Chembur Rd, Bhakti Park, Maharashtra 400037",
+        "address_components": {
+          "district": "Bhakti Park, Chembur",
+          "street_address": "Carnival Cinemas Imax, Anik Wadala Link Rd, Carnival Cinemas Imax, Wadala - Chembur Rd",
+          "city": "Mumbai",
+          "zipcode": "400037",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.0313299,
+        "longitude": 72.8809653,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7cf4932afcc77:0x176fc31ee76363be",
+        "phone_number": "+917676600900",
+        "opening_hours": {
+          "Sunday": [
+            "10am-9pm"
+          ],
+          "Monday": [
+            "10am-9pm"
+          ],
+          "Tuesday": [
+            "10am-9pm"
+          ],
+          "Wednesday": [
+            "10am-9pm"
+          ],
+          "Thursday": [
+            "10am-9pm"
+          ],
+          "Friday": [
+            "10am-9pm"
+          ],
+          "Saturday": [
+            "10am-9pm"
+          ]
+        },
+        "rating": null,
+        "review_count": 0,
+        "website": "https://www.atherenergy.com/grid",
+        "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=AdmZkyw2lzdSKZSew-hZNA&cb_client=search.gws-prod.gps&w=86&h=86&yaw=76.95836&pitch=0&thumbfov=100",
+        "google_place_id": "ChIJd8yvMknP5zsRvmNj5x7Dbxc",
+        "google_cid": "1688782922785711038"
+      },
+      {
+        "id": "0x3be7c98fd9b77eef:0x55b16ca4770cba06",
+        "name": "Jio-bp pulse Charging Station",
+        "connectors": [],
+        "formatted_address": "No F 17 A, Mahul Rd, Ghatkopar, Chembur Colony, Chembur, Mumbai, Maharashtra 400071",
+        "address_components": {
+          "district": "Ghatkopar, Chembur Colony, Chembur",
+          "street_address": "No F 17 A, Mahul Rd",
+          "city": "Mumbai",
+          "zipcode": "400071",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.045281,
+        "longitude": 72.893661,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c98fd9b77eef:0x55b16ca4770cba06",
+        "phone_number": null,
+        "opening_hours": {
+          "Sunday": [
+            "6am-11pm"
+          ],
+          "Monday": [
+            "6am-11pm"
+          ],
+          "Tuesday": [
+            "6am-11pm"
+          ],
+          "Wednesday": [
+            "6am-11pm"
+          ],
+          "Thursday": [
+            "6am-11pm"
+          ],
+          "Friday": [
+            "6am-11pm"
+          ],
+          "Saturday": [
+            "6am-11:26pm"
+          ]
+        },
+        "rating": null,
+        "review_count": 0,
+        "website": "https://mobilitystation.jiobp.com/jio-bp-pulse-electric-vehicle-charging-station-ghatkopar-mumbai-292247/Home",
+        "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=hTKD0Zc3chQaf3tQHwBTOA&cb_client=search.gws-prod.gps&w=86&h=86&yaw=127.505714&pitch=0&thumbfov=100",
+        "google_place_id": "ChIJ73632Y_J5zsRBroMd6RssVU",
+        "google_cid": "6174836017729419782"
+      },
+      {
+        "id": "0x3be7c9bf7c7a154f:0x10e587c7d85f33b4",
+        "name": "Jio-bp pulse Charging Station",
+        "connectors": [],
+        "formatted_address": "Plot No F 77 Vile Parle, Western Express Hwy, Nehru Rd, near Junction of, Navpada, Mumbai, Maharashtra 400099",
+        "address_components": {
+          "district": "Navpada, Vile Parle East, Vile Parle",
+          "street_address": "Plot No F 77 Vile Parle, Western Express Hwy, Nehru Rd, near Junction of",
+          "city": "Mumbai",
+          "zipcode": "400099",
+          "state": "Maharashtra",
+          "country": "IN"
+        },
+        "latitude": 19.098611,
+        "longitude": 72.853841,
+        "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3be7c9bf7c7a154f:0x10e587c7d85f33b4",
+        "phone_number": null,
+        "opening_hours": {
+          "Sunday": [
+            "6am-11pm"
+          ],
+          "Monday": [
+            "6am-11pm"
+          ],
+          "Tuesday": [
+            "6am-11pm"
+          ],
+          "Wednesday": [
+            "6am-11pm"
+          ],
+          "Thursday": [
+            "6am-11pm"
+          ],
+          "Friday": [
+            "6am-11pm"
+          ],
+          "Saturday": [
+            "6am 11:16 pm"
+          ]
+        },
+        "rating": null,
+        "review_count": 0,
+        "website": "https://mobilitystation.jiobp.com/jio-bp-pulse-electric-vehicle-charging-station-navpada-mumbai-292237/Home",
+        "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=FTgWCqayWPH3a2x53FZ20w&cb_client=search.gws-prod.gps&w=86&h=86&yaw=340.4429&pitch=0&thumbfov=100",
+        "google_place_id": "ChIJTxV6fL_J5zsRtDNf2MeH5RA",
+        "google_cid": "1217528566671946676"
+      }
+    ]
+  }

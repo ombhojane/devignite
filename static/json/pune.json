@@ -1,0 +1,2834 @@
+{
+    "status": "OK",
+    "request_id": "d81a7fae-80a9-45e6-9614-89dbda42f513",
+    "data": [
+        {
+            "id": "0x3bc2c1e76227e417:0x1a9753c913986ce6",
+            "name": "Electric Vehicle Charging Station",
+            "connectors": [
+                {
+                    "type": "Wall socket",
+                    "total": 2,
+                    "available": null,
+                    "kw": 18,
+                    "speed": "Medium"
+                }
+            ],
+            "formatted_address": "GV25+J67, Subhash Nagar, Shukrawar Peth, Pune, Maharashtra 411002",
+            "address_components": {
+                "district": "Subhash Nagar, Shukrawar Peth",
+                "street_address": "GV25+J67",
+                "city": "Pune",
+                "zipcode": "411002",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.5015361,
+            "longitude": 73.858057,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2c1e76227e417:0x1a9753c913986ce6",
+            "phone_number": null,
+            "opening_hours": {},
+            "rating": 4,
+            "review_count": 10,
+            "website": null,
+            "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xdir4Y0OXviGhDFmU-egaA&cb_client=search.gws-prod.gps&w=86&h=86&yaw=45.665535&pitch=0&thumbfov=100",
+            "google_place_id": "ChIJF-QnYufBwjsR5myYE8lTlxo",
+            "google_cid": "1916092289551723750"
+        },
+        {
+            "id": "0x3bc2bff714d6dd0b:0xb9abc04339cec414",
+            "name": "bp pulse Charging Station",
+            "connectors": [
+                {
+                    "type": "CCS",
+                    "total": 2,
+                    "available": null,
+                    "kw": 60,
+                    "speed": "Fast"
+                }
+            ],
+            "formatted_address": "WESTEND MALL 1st Floor parihar chowk, Aundh, Pune, Maharashtra 411007",
+            "address_components": {
+                "district": "Harmony Society, Ward No. 8, Wireless Colony, Aundh",
+                "street_address": "WESTEND MALL 1st Floor parihar chowk",
+                "city": "Pune",
+                "zipcode": "411007",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.5622374,
+            "longitude": 73.8070911,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2bff714d6dd0b:0xb9abc04339cec414",
+            "phone_number": null,
+            "opening_hours": {},
+            "rating": 3.6,
+            "review_count": 5,
+            "website": null,
+            "photo": "https://lh5.googleusercontent.com/p/AF1QipO-UPq8gYYpY0IW-yuUQcFfvaA0wgYPfB6r_wmq=w3096-h4128-k-no",
+            "google_place_id": "ChIJC93WFPe_wjsRFMTOOUPAq7k",
+            "google_cid": "13378998512999384084"
+        },
+        {
+            "id": "0x3bc2c05e26845051:0x127e208da4cc6348",
+            "name": "TATA Charging Station",
+            "connectors": [],
+            "formatted_address": "GVG8+P8W, Agarkar Nagar, Pune, Maharashtra 411001",
+            "address_components": {
+                "district": "Agarkar Nagar",
+                "street_address": "GVG8+P8W",
+                "city": "Pune",
+                "zipcode": "411001",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.526828899999998,
+            "longitude": 73.8657781,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2c05e26845051:0x127e208da4cc6348",
+            "phone_number": null,
+            "opening_hours": {
+                "Sunday": [
+                    "Open 24 hours"
+                ],
+                "Monday": [
+                    "Open 24 hours"
+                ],
+                "Tuesday": [
+                    "Open 24 hours"
+                ],
+                "Wednesday": [
+                    "Open 24 hours"
+                ],
+                "Thursday": [
+                    "Open 24 hours"
+                ],
+                "Friday": [
+                    "Open 24 hours"
+                ],
+                "Saturday": [
+                    "Open 24 hours"
+                ]
+            },
+            "rating": 2.8,
+            "review_count": 5,
+            "website": null,
+            "photo": "https://lh5.googleusercontent.com/p/AF1QipN5019M9bsAqZuokNQrrSJJrG4gH9EVSsWMmBma=w3000-h4000-k-no",
+            "google_place_id": "ChIJUVCEJl7AwjsRSGPMpI0gfhI",
+            "google_cid": "1332538332475581256"
+        },
+        {
+            "id": "0x3bc2c1cee9deac65:0xd17c908672ccbdec",
+            "name": "Electric Vehicle Charging Station",
+            "connectors": [
+                {
+                    "type": "Unknown connector",
+                    "total": 1,
+                    "available": null,
+                    "kw": 3.3,
+                    "speed": "Slow"
+                }
+            ],
+            "formatted_address": "Sr. No. 463/A, opp. Golden Bakery, Salisbury Park, Gultekadi, Pune, Maharashtra 411037",
+            "address_components": {
+                "district": "Salisbury Park, Gultekadi",
+                "street_address": "Sr. No. 463/A, opp. Golden Bakery",
+                "city": "Pune",
+                "zipcode": "411037",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.4962135,
+            "longitude": 73.872215,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2c1cee9deac65:0xd17c908672ccbdec",
+            "phone_number": "+918002546735",
+            "opening_hours": {
+                "Sunday": [
+                    "Open 24 hours"
+                ],
+                "Monday": [
+                    "Open 24 hours"
+                ],
+                "Tuesday": [
+                    "Open 24 hours"
+                ],
+                "Wednesday": [
+                    "Open 24 hours"
+                ],
+                "Thursday": [
+                    "Open 24 hours"
+                ],
+                "Friday": [
+                    "Open 24 hours"
+                ],
+                "Saturday": [
+                    "Open 24 hours"
+                ]
+            },
+            "rating": 4.7,
+            "review_count": 3,
+            "website": null,
+            "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=UXs5L3m05ocGb_j4e3yZYQ&cb_client=search.gws-prod.gps&w=86&h=86&yaw=181.23041&pitch=0&thumbfov=100",
+            "google_place_id": "ChIJZaze6c7BwjsR7L3McoaQfNE",
+            "google_cid": "15095098958165097964"
+        },
+        {
+            "id": "0x3bc2bf2920880a53:0x3e33b24c6c030665",
+            "name": "goEgo Charging Station",
+            "connectors": [
+                {
+                    "type": "Type 2",
+                    "total": 2,
+                    "available": null,
+                    "kw": 7.4,
+                    "speed": "Slow"
+                },
+                {
+                    "type": "Unknown connector",
+                    "total": 3,
+                    "available": null,
+                    "kw": 3.3,
+                    "speed": "Slow"
+                }
+            ],
+            "formatted_address": "WESTEND MALL, Harmony Society, Ward No. 8, Wireless Colony, Aundh, Pune, Maharashtra 411007",
+            "address_components": {
+                "district": "Harmony Society, Ward No. 8, Wireless Colony, Aundh",
+                "street_address": "WESTEND MALL",
+                "city": "Pune",
+                "zipcode": "411007",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.5616924,
+            "longitude": 73.8071678,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2bf2920880a53:0x3e33b24c6c030665",
+            "phone_number": "+917066710101",
+            "opening_hours": {
+                "Sunday": [
+                    "Open 24 hours"
+                ],
+                "Monday": [
+                    "Open 24 hours"
+                ],
+                "Tuesday": [
+                    "Open 24 hours"
+                ],
+                "Wednesday": [
+                    "Open 24 hours"
+                ],
+                "Thursday": [
+                    "Open 24 hours"
+                ],
+                "Friday": [
+                    "Open 24 hours"
+                ],
+                "Saturday": [
+                    "Open 24 hours"
+                ]
+            },
+            "rating": 4.1,
+            "review_count": 23,
+            "website": "https://www.goegonetwork.com",
+            "photo": "https://lh5.googleusercontent.com/p/AF1QipNVB_m9dA-HR3pi2fAK2Ek8ZaADsWkWB8oUBYW5=w821-h617-k-no",
+            "google_place_id": "ChIJUwqIICm_wjsRZQYDbEyyMz4",
+            "google_cid": "4482122095463171685"
+        },
+        {
+            "id": "0x3bc2c0fb837c160f:0xe75edac8fe17862b",
+            "name": "Electric Vehicle Charging Station",
+            "connectors": [],
+            "formatted_address": "GVRJ+5X5, Bund Garden, Sangamvadi, Pune, Maharashtra 411001",
+            "address_components": {
+                "district": "Bund Garden, Sangamvadi",
+                "street_address": "GVRJ+5X5",
+                "city": "Pune",
+                "zipcode": "411001",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.5403871,
+            "longitude": 73.8824917,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2c0fb837c160f:0xe75edac8fe17862b",
+            "phone_number": null,
+            "opening_hours": {
+                "Sunday": [
+                    "Open 24 hours"
+                ],
+                "Monday": [
+                    "Open 24 hours"
+                ],
+                "Tuesday": [
+                    "Open 24 hours"
+                ],
+                "Wednesday": [
+                    "Open 24 hours"
+                ],
+                "Thursday": [
+                    "Open 24 hours"
+                ],
+                "Friday": [
+                    "Open 24 hours"
+                ],
+                "Saturday": [
+                    "Open 24 hours"
+                ]
+            },
+            "rating": 2,
+            "review_count": 4,
+            "website": null,
+            "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pzqqQbChK_59Wn35FBSHiQ&cb_client=search.gws-prod.gps&w=86&h=86&yaw=341.07098&pitch=0&thumbfov=100",
+            "google_place_id": "ChIJDxZ8g_vAwjsRK4YX_sjaXuc",
+            "google_cid": "16672003427363423787"
+        },
+        {
+            "id": "0x3bc2c16cbde66979:0xc54b4cc5149ec66",
+            "name": "Kazam Charging Station",
+            "connectors": [],
+            "formatted_address": "P-117, Jogeshwari Ln, Tulshibaug, Budhwar Peth, Pune, Maharashtra 411002",
+            "address_components": {
+                "district": "Tulshibaug, Budhwar Peth",
+                "street_address": "P-117, Jogeshwari Ln",
+                "city": "Pune",
+                "zipcode": "411002",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.515646399999998,
+            "longitude": 73.8549992,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2c16cbde66979:0xc54b4cc5149ec66",
+            "phone_number": null,
+            "opening_hours": {},
+            "rating": 1,
+            "review_count": 2,
+            "website": null,
+            "photo": "https://lh5.googleusercontent.com/p/AF1QipOgy7nEU54DL78-rcIW4F4KfAl7RRBqpkB-oS-v=w4640-h2610-k-no",
+            "google_place_id": "ChIJeWnmvWzBwjsRZuxJUcy0VAw",
+            "google_cid": "888533816128957542"
+        },
+        {
+            "id": "0x3bc2c1fd7a7776a9:0xd89f4032ac4b525e",
+            "name": "Ev Charging Station",
+            "connectors": [
+                {
+                    "type": "CCS",
+                    "total": 3,
+                    "available": null,
+                    "kw": null,
+                    "speed": "Unknown"
+                }
+            ],
+            "formatted_address": "FVWX+RR3, Vitthal Rao Shivarkar Rd, Wanawadi Gaon, Wanwadi, Pune, Maharashtra 411040",
+            "address_components": {
+                "district": "Wanawadi Gaon, Wanwadi",
+                "street_address": "FVWX+RR3, Vitthal Rao Shivarkar Rd",
+                "city": "Pune",
+                "zipcode": "411040",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.4970012,
+            "longitude": 73.8995475,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2c1fd7a7776a9:0xd89f4032ac4b525e",
+            "phone_number": null,
+            "opening_hours": {},
+            "rating": 4.5,
+            "review_count": 2,
+            "website": null,
+            "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=96eOrpQAgCo2wWLYOzj_NA&cb_client=search.gws-prod.gps&w=86&h=86&yaw=234.00642&pitch=0&thumbfov=100",
+            "google_place_id": "ChIJqXZ3ev3BwjsRXlJLrDJAn9g",
+            "google_cid": "15609265419872588382"
+        },
+        {
+            "id": "0x3bc2c079552f3863:0x71eddcd275edc1fb",
+            "name": "Ather Charging Station",
+            "connectors": [],
+            "formatted_address": "Shop No.5, Pragati Bhavan, Behind Natural Ice Cream shop,near Bal Gandharva Chowk, Ghole Rd, Shivajinagar, Pune, Maharashtra 411005",
+            "address_components": {
+                "district": "Shivajinagar",
+                "street_address": "Shop No.5, Pragati Bhavan, Behind Natural Ice Cream shop,near Bal Gandharva Chowk, Ghole Rd",
+                "city": "Pune",
+                "zipcode": "411005",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.5232496,
+            "longitude": 73.8476301,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2c079552f3863:0x71eddcd275edc1fb",
+            "phone_number": "+917676600900",
+            "opening_hours": {},
+            "rating": 3.8,
+            "review_count": 4,
+            "website": "https://www.atherenergy.com/grid",
+            "photo": "https://lh5.googleusercontent.com/p/AF1QipNumSoX-CXSCWYsG1Mkh7SU9t614jm79AzO_zLJ=w1042-h1132-k-no",
+            "google_place_id": "ChIJYzgvVXnAwjsR-8HtddLc7XE",
+            "google_cid": "8209460492246041083"
+        },
+        {
+            "id": "0x3bc2bf61fc2139b5:0xe6642137015230cd",
+            "name": "Electric Vehicle Charging Station",
+            "connectors": [],
+            "formatted_address": "Nanasaheb Gaikwad Information Technology Park, Sarjaa Rd, Sahil Park, Sanewadi, Aundh, Pune, Maharashtra 411007",
+            "address_components": {
+                "district": "Sahil Park, Sanewadi, Aundh",
+                "street_address": "Nanasaheb Gaikwad Information Technology Park, Sarjaa Rd",
+                "city": "Pune",
+                "zipcode": "411007",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.553600499999998,
+            "longitude": 73.8066698,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2bf61fc2139b5:0xe6642137015230cd",
+            "phone_number": null,
+            "opening_hours": {},
+            "rating": 4.8,
+            "review_count": 4,
+            "website": null,
+            "photo": "https://lh5.googleusercontent.com/p/AF1QipPtxzanv_mC-Gp9vjVSMDFxxT8WCNvF7KM8xxE=w2304-h4080-k-no",
+            "google_place_id": "ChIJtTkh_GG_wjsRzTBSATchZOY",
+            "google_cid": "16601430646523572429"
+        },
+        {
+            "id": "0x3bc2bf91e7d3b1c7:0x2d1091b1d32c2d2f",
+            "name": "TATA Charging Station",
+            "connectors": [],
+            "formatted_address": "GR6H+HQP, Shantilal Socity Road, Shanti Sheela Society, Apex Colony, Erandwane, Pune, Maharashtra 411004",
+            "address_components": {
+                "district": "Shanti Sheela Society, Apex Colony, Erandwane",
+                "street_address": "GR6H+HQP, Shantilal Socity Road",
+                "city": "Pune",
+                "zipcode": "411004",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.5114557,
+            "longitude": 73.829441,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2bf91e7d3b1c7:0x2d1091b1d32c2d2f",
+            "phone_number": null,
+            "opening_hours": {},
+            "rating": 4,
+            "review_count": 1,
+            "website": "https://www.withyouhamesha.com/ev-charging-station-locator.aspx",
+            "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fvcPteAqPHRvk2QCOHPjCA&cb_client=search.gws-prod.gps&w=86&h=86&yaw=97.4696&pitch=0&thumbfov=100",
+            "google_place_id": "ChIJx7HT55G_wjsRLy0s07GREC0",
+            "google_cid": "3247255524272254255"
+        },
+        {
+            "id": "0x3bc2c147225372ff:0xbd1a24ce7076badc",
+            "name": "Ather Grid Charging Station",
+            "connectors": [],
+            "formatted_address": "Plot No.D, Inox, Bund Garden Rd, Agarkar Nagar, Pune, Maharashtra 411001",
+            "address_components": {
+                "district": "Agarkar Nagar",
+                "street_address": "Plot No.D, Inox, Bund Garden Rd",
+                "city": "Pune",
+                "zipcode": "411001",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.5267515,
+            "longitude": 73.8779382,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2c147225372ff:0xbd1a24ce7076badc",
+            "phone_number": "+917676600900",
+            "opening_hours": {
+                "Sunday": [
+                    "10am-9pm"
+                ],
+                "Monday": [
+                    "10am-9pm"
+                ],
+                "Tuesday": [
+                    "10am-9pm"
+                ],
+                "Wednesday": [
+                    "10am-9pm"
+                ],
+                "Thursday": [
+                    "10am-9pm"
+                ],
+                "Friday": [
+                    "10am-9pm"
+                ],
+                "Saturday": [
+                    "10am-9pm"
+                ]
+            },
+            "rating": 2.8,
+            "review_count": 4,
+            "website": "https://atherenergy.com/grid",
+            "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YIhjS1vdxqrzM0clvAJcKw&cb_client=search.gws-prod.gps&w=86&h=86&yaw=223.97679&pitch=0&thumbfov=100",
+            "google_place_id": "ChIJ_3JTIkfBwjsR3Lp2cM4kGr0",
+            "google_cid": "13626244091631549148"
+        },
+        {
+            "id": "0x3bc2c157b886711b:0x8a94d4678c6bbf07",
+            "name": "Ather Grid Charging Station",
+            "connectors": [],
+            "formatted_address": "Agarkar Nagar, Pune, Maharashtra 411001",
+            "address_components": {
+                "district": "Agarkar Nagar",
+                "street_address": null,
+                "city": "Pune",
+                "zipcode": "411001",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.5249602,
+            "longitude": 73.87547839999999,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2c157b886711b:0x8a94d4678c6bbf07",
+            "phone_number": null,
+            "opening_hours": {
+                "Sunday": [
+                    "Open 24 hours"
+                ],
+                "Monday": [
+                    "Open 24 hours"
+                ],
+                "Tuesday": [
+                    "Open 24 hours"
+                ],
+                "Wednesday": [
+                    "Open 24 hours"
+                ],
+                "Thursday": [
+                    "Open 24 hours"
+                ],
+                "Friday": [
+                    "Open 24 hours"
+                ],
+                "Saturday": [
+                    "Open 24 hours"
+                ]
+            },
+            "rating": 2,
+            "review_count": 4,
+            "website": null,
+            "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=AsYNeyBHmrUn6Yd8-ImpRA&cb_client=search.gws-prod.gps&w=86&h=86&yaw=291.8885&pitch=0&thumbfov=100",
+            "google_place_id": "ChIJG3GGuFfBwjsRB79rjGfUlIo",
+            "google_cid": "9985839814989823751"
+        },
+        {
+            "id": "0x3bc2c17e8645d305:0x77624ee87409389f",
+            "name": "Kazam Charging Station",
+            "connectors": [],
+            "formatted_address": "A14, Suparshawnath Society, Arihant Society, Maharshi Nagar, Pune, Maharashtra 411037",
+            "address_components": {
+                "district": "Suparshawnath Society, Arihant Society, Maharshi Nagar",
+                "street_address": "A14",
+                "city": "Pune",
+                "zipcode": "411037",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.489345399999998,
+            "longitude": 73.8602397,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2c17e8645d305:0x77624ee87409389f",
+            "phone_number": null,
+            "opening_hours": {
+                "Sunday": [
+                    "Open 24 hours"
+                ],
+                "Monday": [
+                    "Open 24 hours"
+                ],
+                "Tuesday": [
+                    "Open 24 hours"
+                ],
+                "Wednesday": [
+                    "Open 24 hours"
+                ],
+                "Thursday": [
+                    "Open 24 hours"
+                ],
+                "Friday": [
+                    "Open 24 hours"
+                ],
+                "Saturday": [
+                    "Open 24 hours"
+                ]
+            },
+            "rating": 5,
+            "review_count": 2,
+            "website": null,
+            "photo": "https://lh5.googleusercontent.com/p/AF1QipNJqjOVumj5kmSqAFR2lVPt7swFIf69iApKy0x2=w4640-h2610-k-no",
+            "google_place_id": "ChIJBdNFhn7BwjsRnzgJdOhOYnc",
+            "google_cid": "8602524998517209247"
+        },
+        {
+            "id": "0x3bc2ea7f3c1ae001:0x9ec25de3f7615acb",
+            "name": "Electric Vehicle Charging Station",
+            "connectors": [],
+            "formatted_address": "FVPV+3F3, Borade Nagar, Wanowrie, Pune, Maharashtra 411040",
+            "address_components": {
+                "district": "Borade Nagar, Wanowrie",
+                "street_address": "FVPV+3F3",
+                "city": "Pune",
+                "zipcode": "411040",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.4851332,
+            "longitude": 73.8936641,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2ea7f3c1ae001:0x9ec25de3f7615acb",
+            "phone_number": null,
+            "opening_hours": {},
+            "rating": 3,
+            "review_count": 1,
+            "website": "https://www.plugshare.com",
+            "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pSply9j3g_xU2mFSXNdSWg&cb_client=search.gws-prod.gps&w=86&h=86&yaw=302.7556&pitch=0&thumbfov=100",
+            "google_place_id": "ChIJAeAaPH_qwjsRy1ph9-Ndwp4",
+            "google_cid": "11439809237163793099"
+        },
+        {
+            "id": "0x3bc2c11095638e39:0xa093e262a1c61f57",
+            "name": "Ather Grid Charging Station",
+            "connectors": [],
+            "formatted_address": "Momin Steel ||, 49/B, Bhawani Peth, Ganj Peth, Pune, Maharashtra 411042",
+            "address_components": {
+                "district": "Ganj Peth",
+                "street_address": "Momin Steel ||, 49/B, Bhawani Peth",
+                "city": "Pune",
+                "zipcode": "411042",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.511971499999998,
+            "longitude": 73.86423959999999,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2c11095638e39:0xa093e262a1c61f57",
+            "phone_number": "+917676600900",
+            "opening_hours": {
+                "Sunday": [
+                    "10am-9pm"
+                ],
+                "Monday": [
+                    "10am-9pm"
+                ],
+                "Tuesday": [
+                    "10am-9pm"
+                ],
+                "Wednesday": [
+                    "10am-9pm"
+                ],
+                "Thursday": [
+                    "10am-9pm"
+                ],
+                "Friday": [
+                    "10am-9pm"
+                ],
+                "Saturday": [
+                    "10am-9pm"
+                ]
+            },
+            "rating": 5,
+            "review_count": 1,
+            "website": "https://atherenergy.com/grid",
+            "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=N1S3DumpsVp0Shvd6s9H9w&cb_client=search.gws-prod.gps&w=86&h=86&yaw=282.158&pitch=0&thumbfov=100",
+            "google_place_id": "ChIJOY5jlRDBwjsRVx_GoWLik6A",
+            "google_cid": "11570840780893724503"
+        },
+        {
+            "id": "0x3bc2bfd9987ef3db:0x267e63a9fcafe1ac",
+            "name": "Ather Grid Charging Station",
+            "connectors": [],
+            "formatted_address": "1st - 3rd Floor, Kalinga Veg Gourmet Kitchen, House Of Nosh, CTS 1365, Gulawani Maharaj Road, Swaroop Society, Vakil Nagar, Erandwane, Pune, Maharashtra 411004",
+            "address_components": {
+                "district": "Swaroop Society, Vakil Nagar, Erandwane",
+                "street_address": "1st - 3rd Floor, Kalinga Veg Gourmet Kitchen, House Of Nosh, CTS 1365, Gulawani Maharaj Road",
+                "city": "Pune",
+                "zipcode": "411004",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.5050103,
+            "longitude": 73.8316238,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2bfd9987ef3db:0x267e63a9fcafe1ac",
+            "phone_number": "+917676600900",
+            "opening_hours": {
+                "Sunday": [
+                    "10am-9pm"
+                ],
+                "Monday": [
+                    "10am-9pm"
+                ],
+                "Tuesday": [
+                    "10am-9pm"
+                ],
+                "Wednesday": [
+                    "10am-9pm"
+                ],
+                "Thursday": [
+                    "10am-9pm"
+                ],
+                "Friday": [
+                    "10am-9pm"
+                ],
+                "Saturday": [
+                    "10am-9pm"
+                ]
+            },
+            "rating": 4.1,
+            "review_count": 7,
+            "website": "https://atherenergy.com/grid",
+            "photo": "https://lh5.googleusercontent.com/p/AF1QipP5KnXZzDfyQXVJ9QWYtXOCMHHrHfJ1WzOD7Qf8=w1800-h4000-k-no",
+            "google_place_id": "ChIJ2_N-mNm_wjsRrOGv_KljfiY",
+            "google_cid": "2773764002246812076"
+        },
+        {
+            "id": "0x3bc2bfb7cc430529:0x58911ee630082beb",
+            "name": "Electric Vehicle Charging Station",
+            "connectors": [],
+            "formatted_address": "34, A-3, Kailas Soc, Shastri Nagar, Kothrud, Pune, Maharashtra 411058",
+            "address_components": {
+                "district": "Shastri Nagar, Kothrud",
+                "street_address": "34, A-3, Kailas Soc",
+                "city": "Pune",
+                "zipcode": "411058",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.5032221,
+            "longitude": 73.8039221,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2bfb7cc430529:0x58911ee630082beb",
+            "phone_number": null,
+            "opening_hours": {},
+            "rating": 3,
+            "review_count": 2,
+            "website": null,
+            "photo": null,
+            "google_place_id": "ChIJKQVDzLe_wjsR6ysIMOYekVg",
+            "google_cid": "6381916120957856747"
+        },
+        {
+            "id": "0x3bc2c01c3db12a3d:0x10199207feb37b25",
+            "name": "Electric Vehicle Charging Station",
+            "connectors": [],
+            "formatted_address": "692/5B 'Suraj', Nandadeep Society, Near Hotel Tiranga, Pune - Satara Rd, Pune, Maharashtra 411037",
+            "address_components": {
+                "district": "Suparshawnath Society, Arihant Society, Maharshi Nagar",
+                "street_address": "692/5B 'Suraj', Nandadeep Society, Near Hotel Tiranga, Pune - Satara Rd",
+                "city": "Pune",
+                "zipcode": "411037",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.4881471,
+            "longitude": 73.8585406,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2c01c3db12a3d:0x10199207feb37b25",
+            "phone_number": null,
+            "opening_hours": {},
+            "rating": 1,
+            "review_count": 3,
+            "website": null,
+            "photo": null,
+            "google_place_id": "ChIJPSqxPRzAwjsRJXuz_geSGRA",
+            "google_cid": "1160118942060215077"
+        },
+        {
+            "id": "0x3bc2c05a181ac6d3:0x96b4b76e1f1c953f",
+            "name": "TATA Charging Station",
+            "connectors": [],
+            "formatted_address": "GVGG+29G, B J Road Railway Station, Sadhu Vaswani Rd,, Pune, Maharashtra 411001",
+            "address_components": {
+                "district": "Agarkar Nagar",
+                "street_address": "GVGG+29G, B J Road Railway Station, Sadhu Vaswani Rd,",
+                "city": "Pune",
+                "zipcode": "411001",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.5250652,
+            "longitude": 73.87594899999999,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2c05a181ac6d3:0x96b4b76e1f1c953f",
+            "phone_number": null,
+            "opening_hours": {},
+            "rating": null,
+            "review_count": 0,
+            "website": "https://nexonev.tatamotors.com/charging-locator",
+            "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=2sI1l7662gkoe6Xsqk7k1Q&cb_client=search.gws-prod.gps&w=86&h=86&yaw=345.8952&pitch=0&thumbfov=100",
+            "google_place_id": "ChIJ08YaGFrAwjsRP5UcH263tJY",
+            "google_cid": "10859506285093360959"
+        },
+        {
+            "id": "0x3bc2eaf3660928e3:0x8271bf119a1ab1eb",
+            "name": "Twarj Charging Station",
+            "connectors": [],
+            "formatted_address": "381 A/2 Satsang Niwas opposite Omkar residency Ramshastri, Prabhune Rd, near kanyashala, Shaniwar Peth, Pune, Maharashtra 411030",
+            "address_components": {
+                "district": "Shaniwar Peth",
+                "street_address": "381 A/2 Satsang Niwas opposite Omkar residency Ramshastri, Prabhune Rd, near kanyashala",
+                "city": "Pune",
+                "zipcode": "411030",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.516961,
+            "longitude": 73.8510964,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2eaf3660928e3:0x8271bf119a1ab1eb",
+            "phone_number": "+912024488688",
+            "opening_hours": {},
+            "rating": null,
+            "review_count": 0,
+            "website": null,
+            "photo": "https://lh5.googleusercontent.com/p/AF1QipMkfY88ynEQI8fhJhNN4G-uZ8tyRJqB17qVmq-1=w4096-h1889-k-no",
+            "google_place_id": "ChIJ4ygJZvPqwjsR67EamhG_cYI",
+            "google_cid": "9399503979619725803"
+        },
+        {
+            "id": "0x3bc2c1ea64940143:0xcc7de71f002656f2",
+            "name": "ChargeZone Charging Station 60 KW",
+            "connectors": [],
+            "formatted_address": "ONYX, N Main Rd, Koregaon Park Annexe, Koregaon Park, Pune, Maharashtra 411001",
+            "address_components": {
+                "district": "Koregaon Park Annexe, Koregaon Park",
+                "street_address": "ONYX, N Main Rd",
+                "city": "Pune",
+                "zipcode": "411001",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.5382429,
+            "longitude": 73.90724,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2c1ea64940143:0xcc7de71f002656f2",
+            "phone_number": "+919881074199",
+            "opening_hours": {
+                "Sunday": [
+                    "Open 24 hours"
+                ],
+                "Monday": [
+                    "Open 24 hours"
+                ],
+                "Tuesday": [
+                    "Open 24 hours"
+                ],
+                "Wednesday": [
+                    "Open 24 hours"
+                ],
+                "Thursday": [
+                    "Open 24 hours"
+                ],
+                "Friday": [
+                    "Open 24 hours"
+                ],
+                "Saturday": [
+                    "Open 24 hours"
+                ]
+            },
+            "rating": 3.7,
+            "review_count": 3,
+            "website": "https://onyxpune.com",
+            "photo": "https://lh5.googleusercontent.com/p/AF1QipOWEbLyE_7b27FgJZrc3J1qRrO8SXbJ2P_4iEOI=w1152-h648-k-no",
+            "google_place_id": "ChIJQwGUZOrBwjsR8lYmAB_nfcw",
+            "google_cid": "14735187676158646002"
+        },
+        {
+            "id": "0x3bc2c1743b50b595:0x21e803fafbe3f3b8",
+            "name": "Bijlify Charging Station",
+            "connectors": [
+                {
+                    "type": "Wall socket",
+                    "total": 2,
+                    "available": null,
+                    "kw": null,
+                    "speed": "Unknown"
+                }
+            ],
+            "formatted_address": "GW7F+XVM, Magarpatta City to Koregaon Park Back Side Rd, Cybercity, Magarpatta, Hadapsar, Pune, Maharashtra 411028",
+            "address_components": {
+                "district": "Cybercity, Magarpatta, Hadapsar",
+                "street_address": "GW7F+XVM, Magarpatta City to Koregaon Park Back Side Rd",
+                "city": "Pune",
+                "zipcode": "411028",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.5149303,
+            "longitude": 73.9245383,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2c1743b50b595:0x21e803fafbe3f3b8",
+            "phone_number": null,
+            "opening_hours": {
+                "Sunday": [
+                    "Open 24 hours"
+                ],
+                "Monday": [
+                    "Open 24 hours"
+                ],
+                "Tuesday": [
+                    "Open 24 hours"
+                ],
+                "Wednesday": [
+                    "Open 24 hours"
+                ],
+                "Thursday": [
+                    "Open 24 hours"
+                ],
+                "Friday": [
+                    "Open 24 hours"
+                ],
+                "Saturday": [
+                    "Open 24 hours"
+                ]
+            },
+            "rating": 4,
+            "review_count": 5,
+            "website": null,
+            "photo": null,
+            "google_place_id": "ChIJlbVQO3TBwjsRuPPj-_oD6CE",
+            "google_cid": "2443207174351221688"
+        },
+        {
+            "id": "0x3bc295d9b521d9ed:0x5a9d12ff1ec695a9",
+            "name": "Electric Vehicle Charging Station",
+            "connectors": [],
+            "formatted_address": "Sinhgad Rd, Ganesh Complex, Manik Baug, Anand Nagar, Pune, Maharashtra 411051",
+            "address_components": {
+                "district": "Ganesh Complex, Manik Baug, Anand Nagar",
+                "street_address": "Sinhgad Rd",
+                "city": "Pune",
+                "zipcode": "411051",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.4748126,
+            "longitude": 73.82017809999999,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc295d9b521d9ed:0x5a9d12ff1ec695a9",
+            "phone_number": null,
+            "opening_hours": {
+                "Sunday": [
+                    "Open 24 hours"
+                ],
+                "Monday": [
+                    "Open 24 hours"
+                ],
+                "Tuesday": [
+                    "Open 24 hours"
+                ],
+                "Wednesday": [
+                    "Open 24 hours"
+                ],
+                "Thursday": [
+                    "Open 24 hours"
+                ],
+                "Friday": [
+                    "Open 24 hours"
+                ],
+                "Saturday": [
+                    "Open 24 hours"
+                ]
+            },
+            "rating": 4.3,
+            "review_count": 3,
+            "website": null,
+            "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KjK5ZWJ163gldWLiOTlP_A&cb_client=search.gws-prod.gps&w=86&h=86&yaw=311.21207&pitch=0&thumbfov=100",
+            "google_place_id": "ChIJ7dkhtdmVwjsRqZXGHv8SnVo",
+            "google_cid": "6529395921699378601"
+        },
+        {
+            "id": "0x3bc2bfb2c8933909:0x6fde0ff7b31f85de",
+            "name": "Jio-bp pulse Charging Station",
+            "connectors": [],
+            "formatted_address": "Cts No 1409 &1410, Rr Mall, Survey No 8, 13/1/2, Erandwane, Pune, Maharashtra 411004",
+            "address_components": {
+                "district": "Mitrasadan Society, Vakil Nagar, Erandwane",
+                "street_address": "Cts No 1409 &1410, Rr Mall, Survey No 8, 13/1/2",
+                "city": "Pune",
+                "zipcode": "411004",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.5002338,
+            "longitude": 73.8297687,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2bfb2c8933909:0x6fde0ff7b31f85de",
+            "phone_number": null,
+            "opening_hours": {
+                "Sunday": [
+                    "6am-11pm"
+                ],
+                "Monday": [
+                    "6am-11pm"
+                ],
+                "Tuesday": [
+                    "6am-11pm"
+                ],
+                "Wednesday": [
+                    "6am-11pm"
+                ],
+                "Thursday": [
+                    "6am-11pm"
+                ],
+                "Friday": [
+                    "6am-11pm"
+                ],
+                "Saturday": [
+                    "6am-11pm"
+                ]
+            },
+            "rating": 1,
+            "review_count": 1,
+            "website": "https://mobilitystation.jiobp.com/jio-bp-pulse-electric-vehicle-charging-station-erandwane-pune-251884/Home",
+            "photo": "https://lh5.googleusercontent.com/p/AF1QipOYM41q15zu81KhuwBju6_NquZ61pYkELnj64uO=w992-h558-k-no",
+            "google_place_id": "ChIJCTmTyLK_wjsR3oUfs_cP3m8",
+            "google_cid": "8060897939576292830"
+        },
+        {
+            "id": "0x3bc2eaf57a1b866d:0xb7bba844f84aff46",
+            "name": "Electric Vehicle Charging Station",
+            "connectors": [],
+            "formatted_address": "Siddhi Vihar ,Shop no.7 Bhgawa Chowk, Kondhwa, Pune, Maharashtra 411048",
+            "address_components": {
+                "district": "Ambedkar Nagar, Kondhwa",
+                "street_address": "Siddhi Vihar ,Shop no.7 Bhgawa Chowk",
+                "city": "Pune",
+                "zipcode": "411048",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.4609673,
+            "longitude": 73.88827719999999,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2eaf57a1b866d:0xb7bba844f84aff46",
+            "phone_number": null,
+            "opening_hours": {},
+            "rating": 4,
+            "review_count": 1,
+            "website": "https://www.chargelist.com",
+            "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dwAXUQkE7mKo3i8b3ilv1g&cb_client=search.gws-prod.gps&w=86&h=86&yaw=304.53378&pitch=0&thumbfov=100",
+            "google_place_id": "ChIJbYYbevXqwjsRRv9K-ESou7c",
+            "google_cid": "13239360543762612038"
+        },
+        {
+            "id": "0x3bc2bfd28cf84307:0x68b34a2302148392",
+            "name": "Ather Grid Charging Station",
+            "connectors": [],
+            "formatted_address": "Kimaya Veg Restaurant, 127, Karve Rd, Jhala Co-Op Housing Society, Kothrud, Pune, Maharashtra 411038",
+            "address_components": {
+                "district": "Jhala Co-Op Housing Society, Kothrud",
+                "street_address": "Kimaya Veg Restaurant, 127, Karve Rd",
+                "city": "Pune",
+                "zipcode": "411038",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.5048569,
+            "longitude": 73.8219228,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2bfd28cf84307:0x68b34a2302148392",
+            "phone_number": "+917676600900",
+            "opening_hours": {
+                "Sunday": [
+                    "10am-9pm"
+                ],
+                "Monday": [
+                    "10am-9pm"
+                ],
+                "Tuesday": [
+                    "10am-9pm"
+                ],
+                "Wednesday": [
+                    "10am-9pm"
+                ],
+                "Thursday": [
+                    "10am-9pm"
+                ],
+                "Friday": [
+                    "10am-9pm"
+                ],
+                "Saturday": [
+                    "10am-9pm"
+                ]
+            },
+            "rating": 4,
+            "review_count": 2,
+            "website": "https://atherenergy.com/grid",
+            "photo": "https://lh5.googleusercontent.com/p/AF1QipNwMktuUZUG2sNfDsPaCVVzzC2zFIf9KYFmMBw2=w3024-h4032-k-no",
+            "google_place_id": "ChIJB0P4jNK_wjsRkoMUAiNKs2g",
+            "google_cid": "7544455314994922386"
+        },
+        {
+            "id": "0x3bc2c1c5d5231b47:0x68a69aa5d5df24e5",
+            "name": "Electric Vehicle Charging Station",
+            "connectors": [],
+            "formatted_address": "517-B, behind Apollo Talkies, Rasta Peth, Pune, Maharashtra 411011",
+            "address_components": {
+                "district": "Rasta Peth",
+                "street_address": "517-B, behind Apollo Talkies",
+                "city": "Pune",
+                "zipcode": "411011",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.5198385,
+            "longitude": 73.8641226,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2c1c5d5231b47:0x68a69aa5d5df24e5",
+            "phone_number": null,
+            "opening_hours": {},
+            "rating": null,
+            "review_count": 0,
+            "website": null,
+            "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ATc1i-ho1Fc5FoEZJ-D0tQ&cb_client=search.gws-prod.gps&w=86&h=86&yaw=215.8483&pitch=0&thumbfov=100",
+            "google_place_id": "ChIJRxsj1cXBwjsR5STf1aWapmg",
+            "google_cid": "7540884663126926565"
+        },
+        {
+            "id": "0x3bc2c13bb64be271:0x2f634032ebf83299",
+            "name": "Ather Grid Charging Station",
+            "connectors": [],
+            "formatted_address": "Shop 1-6, Barista, 82/2/2a, Padmavati Sahakar Nagar Rd, Parvati, Parvati Paytha, Pune, Maharashtra 411007",
+            "address_components": {
+                "district": "Parvati, Ganesh Dutta Housing Society, Parvati Paytha",
+                "street_address": "Shop 1-6, Barista, 82/2/2a, Padmavati Sahakar Nagar Rd",
+                "city": "Pune",
+                "zipcode": "411007",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.4845963,
+            "longitude": 73.849682,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2c13bb64be271:0x2f634032ebf83299",
+            "phone_number": "+917676600900",
+            "opening_hours": {
+                "Sunday": [
+                    "10am-9pm"
+                ],
+                "Monday": [
+                    "10am-9pm"
+                ],
+                "Tuesday": [
+                    "10am-9pm"
+                ],
+                "Wednesday": [
+                    "10am-9pm"
+                ],
+                "Thursday": [
+                    "10am-9pm"
+                ],
+                "Friday": [
+                    "10am-9pm"
+                ],
+                "Saturday": [
+                    "10am-9pm"
+                ]
+            },
+            "rating": 5,
+            "review_count": 2,
+            "website": "https://atherenergy.com/grid",
+            "photo": "https://lh5.googleusercontent.com/p/AF1QipOQTAeJ5j9pEZYhd2JbGcn-8BXLN-R93DJDRoSS=w1970-h4160-k-no",
+            "google_place_id": "ChIJceJLtjvBwjsRmTL46zJAYy8",
+            "google_cid": "3414643529928422041"
+        },
+        {
+            "id": "0x3bc2bf05b1abd027:0xf41b897302d5ff26",
+            "name": "Ather Grid Charging Station",
+            "connectors": [],
+            "formatted_address": "TechKaTech Innovation Hub, Lumber Jack, Karve Rd, opp. to Vandevi Temple, above Hotel Marathi Bana, Mavale Basti, Hingne Budrukh, Karve Nagar, Pune, Maharashtra 411052",
+            "address_components": {
+                "district": "Mavale Basti, Hingne Budrukh, Karve Nagar",
+                "street_address": "TechKaTech Innovation Hub, Lumber Jack, Karve Rd, opp. to Vandevi Temple, above Hotel Marathi Bana",
+                "city": "Pune",
+                "zipcode": "411052",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.4930785,
+            "longitude": 73.815342,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2bf05b1abd027:0xf41b897302d5ff26",
+            "phone_number": "+917676600900",
+            "opening_hours": {
+                "Sunday": [
+                    "10am-9pm"
+                ],
+                "Monday": [
+                    "10am-9pm"
+                ],
+                "Tuesday": [
+                    "10am-9pm"
+                ],
+                "Wednesday": [
+                    "10am-9pm"
+                ],
+                "Thursday": [
+                    "10am-9pm"
+                ],
+                "Friday": [
+                    "10am-9pm"
+                ],
+                "Saturday": [
+                    "10am-9pm"
+                ]
+            },
+            "rating": 4.3,
+            "review_count": 3,
+            "website": "https://atherenergy.com/grid",
+            "photo": "https://lh5.googleusercontent.com/p/AF1QipNitvPJvIGDfyJj8mVuMd9XUrZDIV67u8HU8JJv=w3024-h4032-k-no",
+            "google_place_id": "ChIJJ9CrsQW_wjsRJv_VAnOJG_Q",
+            "google_cid": "17589803896687427366"
+        },
+        {
+            "id": "0x3bc2bf48c4d63585:0x7112f6cfc3978b5c",
+            "name": "Kazam Charging Station",
+            "connectors": [],
+            "formatted_address": "P 38A, Ramshandra Mane Rd, near Anand Garage, GaneshKripa Society, Ramkrishna Paramhans Nagar, Kothrud, Pune, Maharashtra 411038",
+            "address_components": {
+                "district": "GaneshKripa Society, Ramkrishna Paramhans Nagar, Kothrud",
+                "street_address": "P 38A, Ramshandra Mane Rd, near Anand Garage",
+                "city": "Pune",
+                "zipcode": "411038",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.5115072,
+            "longitude": 73.80315399999999,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2bf48c4d63585:0x7112f6cfc3978b5c",
+            "phone_number": "+919958943092",
+            "opening_hours": {
+                "Sunday": [
+                    "Open 24 hours"
+                ],
+                "Monday": [
+                    "Open 24 hours"
+                ],
+                "Tuesday": [
+                    "Open 24 hours"
+                ],
+                "Wednesday": [
+                    "Open 24 hours"
+                ],
+                "Thursday": [
+                    "Open 24 hours"
+                ],
+                "Friday": [
+                    "Open 24 hours"
+                ],
+                "Saturday": [
+                    "Open 24 hours"
+                ]
+            },
+            "rating": 1,
+            "review_count": 1,
+            "website": "https://www.kazam.in",
+            "photo": "https://lh5.googleusercontent.com/p/AF1QipPoF_hme3rMgXzEStVMzKPE5KmNG-SZkdJpQFbN=w4640-h2610-k-no",
+            "google_place_id": "ChIJhTXWxEi_wjsRXIuXw8_2EnE",
+            "google_cid": "8147846048066800476"
+        },
+        {
+            "id": "0x3bc2c1d8a4f0cf51:0xbc95a083c406964b",
+            "name": "Ather Space - Electric Scooter Experience Center (SHAW EV)",
+            "connectors": [],
+            "formatted_address": "Ather Space, Grace Platina, Shankar Sheth Rd, opp. Kumar Pacific Mall, Guru Nanak Nagar, Shanti Nagar Society, Katad Khana, Pune, Maharashtra 411042",
+            "address_components": {
+                "district": "Guru Nanak Nagar, Shanti Nagar Society, Katad Khana",
+                "street_address": "Ather Space, Grace Platina, Shankar Sheth Rd, opp. Kumar Pacific Mall",
+                "city": "Pune",
+                "zipcode": "411042",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.502143999999998,
+            "longitude": 73.87344759999999,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2c1d8a4f0cf51:0xbc95a083c406964b",
+            "phone_number": "+917996900011",
+            "opening_hours": {
+                "Sunday": [
+                    "9:30am-8:30pm"
+                ],
+                "Monday": [
+                    "9:30am-8:30pm"
+                ],
+                "Tuesday": [
+                    "9:30am-8:30pm"
+                ],
+                "Wednesday": [
+                    "9:30am-8:30pm"
+                ],
+                "Thursday": [
+                    "9:30am-8:30pm"
+                ],
+                "Friday": [
+                    "9:30am-8:30pm"
+                ],
+                "Saturday": [
+                    "9:30am-8:30pm"
+                ]
+            },
+            "rating": 4.8,
+            "review_count": 490,
+            "website": "https://app.atherenergy.com/product/450x/testride/pune/339",
+            "photo": "https://lh5.googleusercontent.com/p/AF1QipNSXc6rf6FQrteQqde4nX9pdGGK_eQ2oWdK8hie=w960-h1280-k-no",
+            "google_place_id": "ChIJUc_wpNjBwjsRS5YGxIOglbw",
+            "google_cid": "13588943938450265675"
+        },
+        {
+            "id": "0x3bc2bf301d29c2db:0xb8dc245feb8e1cdd",
+            "name": "Ather Charging Station",
+            "connectors": [],
+            "formatted_address": "1 Samar Paradise, DP Rd, Subway, Aundh, Pune, Maharashtra 411007",
+            "address_components": {
+                "district": "Harmony Society, Ward No. 8, Wireless Colony, Aundh",
+                "street_address": "1 Samar Paradise, DP Rd, Subway",
+                "city": "Pune",
+                "zipcode": "411007",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.5604819,
+            "longitude": 73.805041,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2bf301d29c2db:0xb8dc245feb8e1cdd",
+            "phone_number": "+917676600900",
+            "opening_hours": {
+                "Sunday": [
+                    "10am-9pm"
+                ],
+                "Monday": [
+                    "10am-9pm"
+                ],
+                "Tuesday": [
+                    "10am-9pm"
+                ],
+                "Wednesday": [
+                    "10am-9pm"
+                ],
+                "Thursday": [
+                    "10am-9pm"
+                ],
+                "Friday": [
+                    "10am-9pm"
+                ],
+                "Saturday": [
+                    "10am-9pm"
+                ]
+            },
+            "rating": 3.2,
+            "review_count": 6,
+            "website": "https://www.atherenergy.com/grid",
+            "photo": "https://lh5.googleusercontent.com/p/AF1QipMTu8EVyOpF0DqHJ1Usr-ja6MB1hUxUjV5255Px=w1080-h1920-k-no",
+            "google_place_id": "ChIJ28IpHTC_wjsR3RyO618k3Lg",
+            "google_cid": "13320561792247536861"
+        },
+        {
+            "id": "0x3bc2ea707d24bcef:0x5e5cb4a3f0dac9c1",
+            "name": "TATA Charging Station",
+            "connectors": [],
+            "formatted_address": "FWH2+GHR, Pune - Satara Rd, Highway, Kondhwa, Pune, Maharashtra 411048",
+            "address_components": {
+                "district": "Kondhwa",
+                "street_address": "FWH2+GHR, Pune - Satara Rd, Highway",
+                "city": "Pune",
+                "zipcode": "411048",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.4788611,
+            "longitude": 73.9013784,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2ea707d24bcef:0x5e5cb4a3f0dac9c1",
+            "phone_number": null,
+            "opening_hours": {},
+            "rating": 5,
+            "review_count": 1,
+            "website": "https://nexonev.tatamotors.com/charging-locator",
+            "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=R3pqEZUwifzY_mr1JDmCeA&cb_client=search.gws-prod.gps&w=86&h=86&yaw=149.70454&pitch=0&thumbfov=100",
+            "google_place_id": "ChIJ77wkfXDqwjsRwcna8KO0XF4",
+            "google_cid": "6799508153636145601"
+        },
+        {
+            "id": "0x3bc2bf96852747bb:0xabf9998b33cf7ba2",
+            "name": "Jio-bp pulse Charging Station",
+            "connectors": [],
+            "formatted_address": "Rr Mall, Opp Mc Donald, New DP Rd, Aundh, Pune, Maharashtra 411007",
+            "address_components": {
+                "district": "Sindh Society, Ward No. 8, Sadhu Vasvani Nagar, Aundh",
+                "street_address": "Rr Mall, Opp Mc Donald, New DP Rd",
+                "city": "Pune",
+                "zipcode": "411007",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.5599806,
+            "longitude": 73.8100134,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2bf96852747bb:0xabf9998b33cf7ba2",
+            "phone_number": null,
+            "opening_hours": {
+                "Sunday": [
+                    "6am-11pm"
+                ],
+                "Monday": [
+                    "6am-11pm"
+                ],
+                "Tuesday": [
+                    "6am-11pm"
+                ],
+                "Wednesday": [
+                    "6am-11pm"
+                ],
+                "Thursday": [
+                    "6am-11pm"
+                ],
+                "Friday": [
+                    "6am-11pm"
+                ],
+                "Saturday": [
+                    "6am-11pm"
+                ]
+            },
+            "rating": 5,
+            "review_count": 1,
+            "website": "https://mobilitystation.jiobp.com/jio-bp-pulse-electric-vehicle-charging-station-aundh-pune-251886/Home",
+            "photo": "https://lh5.googleusercontent.com/p/AF1QipOWcCW8KFpL4xJzHHYHsM1MFWve-VAausVp3SMp=w992-h558-k-no",
+            "google_place_id": "ChIJu0cnhZa_wjsRonvPM4uZ-as",
+            "google_cid": "12392104672835369890"
+        },
+        {
+            "id": "0x3bc2bf450e419a65:0xf93c7b6e5ed9a235",
+            "name": "Ather Grid Charging Station",
+            "connectors": [],
+            "formatted_address": "Karve Statue Chowk, S No. 147/6B Pushpa Shanti Towers,Shop no 3 Ather Grid 2 - Lodha's, Karve Rd, behind HP Petroleum Pump, Mayur Colony, Kothrud, Pune, Maharashtra 411038",
+            "address_components": {
+                "district": "Mayur Colony, Kothrud",
+                "street_address": "Karve Statue Chowk, S No. 147/6B Pushpa Shanti Towers,Shop no 3 Ather Grid 2 - Lodha's, Karve Rd, behind HP Petroleum Pump",
+                "city": "Pune",
+                "zipcode": "411038",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.5025463,
+            "longitude": 73.8150974,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2bf450e419a65:0xf93c7b6e5ed9a235",
+            "phone_number": "+917676600900",
+            "opening_hours": {
+                "Sunday": [
+                    "10am-9pm"
+                ],
+                "Monday": [
+                    "10am-9pm"
+                ],
+                "Tuesday": [
+                    "10am-9pm"
+                ],
+                "Wednesday": [
+                    "10am-9pm"
+                ],
+                "Thursday": [
+                    "10am-9pm"
+                ],
+                "Friday": [
+                    "10am-9pm"
+                ],
+                "Saturday": [
+                    "10am-9pm"
+                ]
+            },
+            "rating": 5,
+            "review_count": 1,
+            "website": "https://atherenergy.com/grid",
+            "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=s4rWgr21TU081apyeDNR-g&cb_client=search.gws-prod.gps&w=86&h=86&yaw=56.02549&pitch=0&thumbfov=100",
+            "google_place_id": "ChIJZZpBDkW_wjsRNaLZXm57PPk",
+            "google_cid": "17959365128014635573"
+        },
+        {
+            "id": "0x3bc2c16922915aed:0xf41cd55b21af7955",
+            "name": "Bolt Charging Station",
+            "connectors": [],
+            "formatted_address": "Shop No. 11, Avishkar Heights, 1413, opp. Pune, Perugate, Sadashiv Peth, Pune, Maharashtra 411030",
+            "address_components": {
+                "district": "Perugate, Sadashiv Peth",
+                "street_address": "Shop No. 11, Avishkar Heights, 1413, opp. Pune",
+                "city": "Pune",
+                "zipcode": "411030",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.5093256,
+            "longitude": 73.8509255,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2c16922915aed:0xf41cd55b21af7955",
+            "phone_number": null,
+            "opening_hours": {},
+            "rating": null,
+            "review_count": 0,
+            "website": "http://www.bolt.earth",
+            "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uzuoeFq-Ci_BOmOcQs_yQA&cb_client=search.gws-prod.gps&w=86&h=86&yaw=206.3203&pitch=0&thumbfov=100",
+            "google_place_id": "ChIJ7VqRImnBwjsRVXmvIVvVHPQ",
+            "google_cid": "17590168831986202965"
+        },
+        {
+            "id": "0x3bc2bf012b6c7c65:0xe667065f58c41392",
+            "name": "Charge Zone Charging Station",
+            "connectors": [],
+            "formatted_address": "JW MARRIOTT HOTEL, Senapati Bapat Rd, Laxmi Society, Model Colony, Shivajinagar, Pune, Maharashtra 411053",
+            "address_components": {
+                "district": "Laxmi Society, Model Colony, Shivajinagar",
+                "street_address": "JW MARRIOTT HOTEL, Senapati Bapat Rd",
+                "city": "Pune",
+                "zipcode": "411053",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.5325018,
+            "longitude": 73.8296002,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2bf012b6c7c65:0xe667065f58c41392",
+            "phone_number": null,
+            "opening_hours": {
+                "Sunday": [
+                    "Open 24 hours"
+                ],
+                "Monday": [
+                    "Open 24 hours"
+                ],
+                "Tuesday": [
+                    "Open 24 hours"
+                ],
+                "Wednesday": [
+                    "Open 24 hours"
+                ],
+                "Thursday": [
+                    "Open 24 hours"
+                ],
+                "Friday": [
+                    "Open 24 hours"
+                ],
+                "Saturday": [
+                    "Open 24 hours"
+                ]
+            },
+            "rating": 4,
+            "review_count": 1,
+            "website": "https://chargezone.com",
+            "photo": "https://lh5.googleusercontent.com/p/AF1QipNsS9iIohnm_N4-bxiP7Fy-Ku24NLpiO6DljZGE=w1080-h1080-k-no",
+            "google_place_id": "ChIJZXxsKwG_wjsRkhPEWF8GZ-Y",
+            "google_cid": "16602245557905527698"
+        },
+        {
+            "id": "0x3bc2bfaff23ba2e3:0xe72a4ce0ee3bf639",
+            "name": "Jio-bp pulse Charging Station",
+            "connectors": [],
+            "formatted_address": "The Pavillion Mall, Senapati Bapat Rd, near Marriott Hotel, Harihareshwar, Shivajinagar, Pune, Maharashtra 411016",
+            "address_components": {
+                "district": "Harihareshwar, Shivajinagar",
+                "street_address": "The Pavillion Mall, Senapati Bapat Rd, near Marriott Hotel",
+                "city": "Pune",
+                "zipcode": "411016",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.530023099999998,
+            "longitude": 73.8301005,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2bfaff23ba2e3:0xe72a4ce0ee3bf639",
+            "phone_number": null,
+            "opening_hours": {
+                "Sunday": [
+                    "6am-11pm"
+                ],
+                "Monday": [
+                    "6am-11pm"
+                ],
+                "Tuesday": [
+                    "6am-11pm"
+                ],
+                "Wednesday": [
+                    "6am-11pm"
+                ],
+                "Thursday": [
+                    "6am-11pm"
+                ],
+                "Friday": [
+                    "6am-11pm"
+                ],
+                "Saturday": [
+                    "6am-11pm"
+                ]
+            },
+            "rating": null,
+            "review_count": 0,
+            "website": "https://mobilitystation.jiobp.com/jio-bp-pulse-electric-vehicle-charging-station-shivaji-nagar-pune-251913/Home",
+            "photo": "https://lh5.googleusercontent.com/p/AF1QipNGGNb-QzT3AoiRomOrSgdMHdj96n9EtBwh3H7f=w992-h558-k-no",
+            "google_place_id": "ChIJ46I78q-_wjsROfY77uBMKuc",
+            "google_cid": "16657210700736493113"
+        },
+        {
+            "id": "0x3bc295eb17fa2ea3:0x6a0d5a2cc28f0ba9",
+            "name": "Ather Grid Charging Station",
+            "connectors": [],
+            "formatted_address": "BRANCH 2, Sinhgad Rd, opp. of Brahma hotel R S SPORTS COMPLEX, near kudale baug, Manik Baug, baug, Pune, Maharashtra 411051",
+            "address_components": {
+                "district": "Manik Baug, baug",
+                "street_address": "BRANCH 2, Sinhgad Rd, opp. of Brahma hotel R S SPORTS COMPLEX, near kudale baug",
+                "city": "Pune",
+                "zipcode": "411051",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.4730003,
+            "longitude": 73.81873879999999,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc295eb17fa2ea3:0x6a0d5a2cc28f0ba9",
+            "phone_number": "+917676600900",
+            "opening_hours": {
+                "Sunday": [
+                    "10am-9pm"
+                ],
+                "Monday": [
+                    "10am-9pm"
+                ],
+                "Tuesday": [
+                    "10am-9pm"
+                ],
+                "Wednesday": [
+                    "10am-9pm"
+                ],
+                "Thursday": [
+                    "10am-9pm"
+                ],
+                "Friday": [
+                    "10am-9pm"
+                ],
+                "Saturday": [
+                    "10am-9pm"
+                ]
+            },
+            "rating": 3,
+            "review_count": 2,
+            "website": "https://atherenergy.com/grid",
+            "photo": "https://lh5.googleusercontent.com/p/AF1QipPa-009PzcQ5dmfbtE37Zlp0q6ThWyLfkb80-S_=w4540-h7342-k-no",
+            "google_place_id": "ChIJoy76F-uVwjsRqQuPwixaDWo",
+            "google_cid": "7641863291006815145"
+        },
+        {
+            "id": "0x3bc2c100138636d5:0x86c079b9d6aa5716",
+            "name": "EV DOCK Charging Station",
+            "connectors": [
+                {
+                    "type": "Type 2",
+                    "total": 2,
+                    "available": null,
+                    "kw": 14.8,
+                    "speed": "Medium"
+                }
+            ],
+            "formatted_address": "101, Sakore Nagar Rd, Sakore Nagar, Viman Nagar, Pune, Maharashtra 411014",
+            "address_components": {
+                "district": "Sakore Nagar, Viman Nagar",
+                "street_address": "101, Sakore Nagar Rd",
+                "city": "Pune",
+                "zipcode": "411014",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.562034399999998,
+            "longitude": 73.90802289999999,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2c100138636d5:0x86c079b9d6aa5716",
+            "phone_number": null,
+            "opening_hours": {
+                "Sunday": [
+                    "Open 24 hours"
+                ],
+                "Monday": [
+                    "Open 24 hours"
+                ],
+                "Tuesday": [
+                    "Open 24 hours"
+                ],
+                "Wednesday": [
+                    "Open 24 hours"
+                ],
+                "Thursday": [
+                    "Open 24 hours"
+                ],
+                "Friday": [
+                    "Open 24 hours"
+                ],
+                "Saturday": [
+                    "Open 24 hours"
+                ]
+            },
+            "rating": null,
+            "review_count": 0,
+            "website": "https://evdock.app",
+            "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ZY-u_ku-XwZ2Q-kpKT4-Aw&cb_client=search.gws-prod.gps&w=86&h=86&yaw=130.68488&pitch=0&thumbfov=100",
+            "google_place_id": "ChIJ1TaGEwDBwjsRFleq1rl5wIY",
+            "google_cid": "9709894635688187670"
+        },
+        {
+            "id": "0x3bc2bf8dc38684e3:0x70671a8a3bc17502",
+            "name": "Jio-bp pulse Charging Station",
+            "connectors": [],
+            "formatted_address": "WESTEND MALL, Nxt To Parihar Chowk, Opp Mcdonald,, Aundh, New Dp Road, Pune, Maharashtra 411007",
+            "address_components": {
+                "district": "Sanghvi Nagar, Ward No. 8, Aundh Gaon, Aundh",
+                "street_address": "WESTEND MALL, Nxt To Parihar Chowk, Opp Mcdonald,, Aundh, New Dp Road",
+                "city": "Pune",
+                "zipcode": "411007",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.5607105,
+            "longitude": 73.8091936,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2bf8dc38684e3:0x70671a8a3bc17502",
+            "phone_number": null,
+            "opening_hours": {
+                "Sunday": [
+                    "6am-11pm"
+                ],
+                "Monday": [
+                    "6am-11pm"
+                ],
+                "Tuesday": [
+                    "6am-11pm"
+                ],
+                "Wednesday": [
+                    "6am-11pm"
+                ],
+                "Thursday": [
+                    "6am-11pm"
+                ],
+                "Friday": [
+                    "6am-11pm"
+                ],
+                "Saturday": [
+                    "6am-11pm"
+                ]
+            },
+            "rating": 3,
+            "review_count": 3,
+            "website": "https://mobilitystation.jiobp.com/jio-bp-pulse-electric-vehicle-charging-station-aundh-pune-251895/Home",
+            "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=a-ihf-QB7K7mhCDC2jFwBg&cb_client=search.gws-prod.gps&w=86&h=86&yaw=14.849592&pitch=0&thumbfov=100",
+            "google_place_id": "ChIJ44SGw42_wjsRAnXBO4oaZ3A",
+            "google_cid": "8099471635859469570"
+        },
+        {
+            "id": "0x3bc2c194e4e9c88b:0xe81c23fc624022ae",
+            "name": "Pi EV Charging Station",
+            "connectors": [],
+            "formatted_address": "GRMV+332, Modibaug, Narveer Tanaji Wadi, Shivajinagar, Pune, Maharashtra 411005",
+            "address_components": {
+                "district": "Modibaug, Narveer Tanaji Wadi, Shivajinagar",
+                "street_address": "GRMV+332",
+                "city": "Pune",
+                "zipcode": "411005",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.532625799999998,
+            "longitude": 73.84263949999999,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2c194e4e9c88b:0xe81c23fc624022ae",
+            "phone_number": null,
+            "opening_hours": {},
+            "rating": null,
+            "review_count": 0,
+            "website": null,
+            "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mBtAP5WzK8_h-erIyJT83Q&cb_client=search.gws-prod.gps&w=86&h=86&yaw=22.83802&pitch=0&thumbfov=100",
+            "google_place_id": "ChIJi8jp5JTBwjsRriJAYvwjHOg",
+            "google_cid": "16725282683034280622"
+        },
+        {
+            "id": "0x3bc2eb35f67dad15:0x611d6835dce955a2",
+            "name": "Electric Vehicle Charging Station",
+            "connectors": [
+                {
+                    "type": "Type 2",
+                    "total": 4,
+                    "available": null,
+                    "kw": 3.7,
+                    "speed": "Slow"
+                }
+            ],
+            "formatted_address": "580/2A/1, Jijai complex co-op Soc., Opp Solitare world, 100m from Aie mata chowk ganga dham, Bibwewadi Kondhwa Rd, Bibwewadi, Pune, Maharashtra 411037",
+            "address_components": {
+                "district": "Hamal Nagar, Market Yard, Bibwewadi",
+                "street_address": "580/2A/1, Jijai complex co-op Soc., Opp Solitare world, 100m from Aie mata chowk ganga dham, Bibwewadi Kondhwa Rd",
+                "city": "Pune",
+                "zipcode": "411037",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.4806108,
+            "longitude": 73.8708383,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2eb35f67dad15:0x611d6835dce955a2",
+            "phone_number": null,
+            "opening_hours": {
+                "Sunday": [
+                    "Open 24 hours"
+                ],
+                "Monday": [
+                    "Open 24 hours"
+                ],
+                "Tuesday": [
+                    "Open 24 hours"
+                ],
+                "Wednesday": [
+                    "Open 24 hours"
+                ],
+                "Thursday": [
+                    "Open 24 hours"
+                ],
+                "Friday": [
+                    "Open 24 hours"
+                ],
+                "Saturday": [
+                    "Open 24 hours"
+                ]
+            },
+            "rating": null,
+            "review_count": 0,
+            "website": null,
+            "photo": "https://lh5.googleusercontent.com/p/AF1QipMIsbeINDHbWJ4yuH_fPmQu-yeocKlg1gzkaPjs=w3120-h4160-k-no",
+            "google_place_id": "ChIJFa199jXrwjsRolXp3DVoHWE",
+            "google_cid": "6997863976552453538"
+        },
+        {
+            "id": "0x3bc2956651816d67:0x92ae665568496d74",
+            "name": "Ather Grid Charging Station",
+            "connectors": [],
+            "formatted_address": "Shop no 3, Karan Pushp apt, Ather Grid 1 - Lodha's, Warje, Pune, Maharashtra 411052",
+            "address_components": {
+                "district": "Warje",
+                "street_address": "Shop no 3, Karan Pushp apt, Ather Grid 1 - Lodha's",
+                "city": "Pune",
+                "zipcode": "411052",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.4772984,
+            "longitude": 73.80397839999999,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2956651816d67:0x92ae665568496d74",
+            "phone_number": "+917676600900",
+            "opening_hours": {
+                "Sunday": [
+                    "10am-9pm"
+                ],
+                "Monday": [
+                    "10am-9pm"
+                ],
+                "Tuesday": [
+                    "10am-9pm"
+                ],
+                "Wednesday": [
+                    "10am-9pm"
+                ],
+                "Thursday": [
+                    "10am-9pm"
+                ],
+                "Friday": [
+                    "10am-9pm"
+                ],
+                "Saturday": [
+                    "10am-9pm"
+                ]
+            },
+            "rating": 5,
+            "review_count": 2,
+            "website": "https://atherenergy.com/grid",
+            "photo": "https://lh5.googleusercontent.com/p/AF1QipOvlNVhCuozYl0U6HOY9Hg-sWkkgpDhvyFNmjPO=w3024-h4032-k-no",
+            "google_place_id": "ChIJZ22BUWaVwjsRdG1JaFVmrpI",
+            "google_cid": "10569497892493028724"
+        },
+        {
+            "id": "0x3bc2c10baf4044b3:0xa7a729c7e1f5adf",
+            "name": "EV PLANET",
+            "connectors": [],
+            "formatted_address": "B15/16, B15/16, Lane No. 9, Vidyut Nagar, Meera Nagar, Koregaon Park, Pune, Maharashtra 411001",
+            "address_components": {
+                "district": "Vidyut Nagar, Meera Nagar, Koregaon Park",
+                "street_address": "B15/16, B15/16, Lane No. 9",
+                "city": "Pune",
+                "zipcode": "411001",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.5339939,
+            "longitude": 73.8981333,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2c10baf4044b3:0xa7a729c7e1f5adf",
+            "phone_number": "+917057012727",
+            "opening_hours": {
+                "Sunday": [
+                    "Closed"
+                ],
+                "Monday": [
+                    "10am-7pm"
+                ],
+                "Tuesday": [
+                    "10am-7pm"
+                ],
+                "Wednesday": [
+                    "10am-7pm"
+                ],
+                "Thursday": [
+                    "10am-7pm"
+                ],
+                "Friday": [
+                    "10am-7pm"
+                ],
+                "Saturday": [
+                    "10am-7pm"
+                ]
+            },
+            "rating": 4.8,
+            "review_count": 29,
+            "website": "http://evplanet.in",
+            "photo": "https://lh5.googleusercontent.com/p/AF1QipO746EqagauxR0eLxvDgvi_r_kTE_2SOajW9Uso=w1024-h768-k-no",
+            "google_place_id": "ChIJs0RArwvBwjsR31offpxyego",
+            "google_cid": "755041903994428127"
+        },
+        {
+            "id": "0x3bc2eaba6dc5c07d:0x2256f5b61667832",
+            "name": "EV Sunbeam Powwer Pvr Ltd",
+            "connectors": [],
+            "formatted_address": "SR No 10/10, Plot No.: 7/1, Shivandand Society, Chawan Nagar, Dhankawadi, Pune, Maharashtra 411043",
+            "address_components": {
+                "district": "Kundan Nagar, Gulab Nagar, Dhankawadi",
+                "street_address": "SR No 10/10, Plot No.: 7/1, Shivandand Society, Chawan Nagar",
+                "city": "Pune",
+                "zipcode": "411043",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.468029299999998,
+            "longitude": 73.8545348,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2eaba6dc5c07d:0x2256f5b61667832",
+            "phone_number": null,
+            "opening_hours": {},
+            "rating": null,
+            "review_count": 0,
+            "website": null,
+            "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0xt7TYAyZ8wXQl-nSsIYIQ&cb_client=search.gws-prod.gps&w=86&h=86&yaw=80.76777&pitch=0&thumbfov=100",
+            "google_place_id": "ChIJfcDFbbrqwjsRMnhmYVtvJQI",
+            "google_cid": "154652200480962610"
+        },
+        {
+            "id": "0x3bc2bf4dde7b670f:0xbd50efadcb875cec",
+            "name": "Electric Vehicle Charging Station",
+            "connectors": [],
+            "formatted_address": "GR57+RJP, Paud Rd, Sarvatra Society, Anand Nagar, Kothrud, Pune, Maharashtra 411038",
+            "address_components": {
+                "district": "Sarvatra Society, Anand Nagar, Kothrud",
+                "street_address": "GR57+RJP, Paud Rd",
+                "city": "Pune",
+                "zipcode": "411038",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.5095781,
+            "longitude": 73.8140816,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2bf4dde7b670f:0xbd50efadcb875cec",
+            "phone_number": null,
+            "opening_hours": {},
+            "rating": null,
+            "review_count": 0,
+            "website": null,
+            "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ng7EN30wNBoGe5n3AqEg1Q&cb_client=search.gws-prod.gps&w=86&h=86&yaw=42.118366&pitch=0&thumbfov=100",
+            "google_place_id": "ChIJD2d73k2_wjsR7FyHy63vUL0",
+            "google_cid": "13641666801028259052"
+        },
+        {
+            "id": "0x3bc2c05c56e13191:0xef97a5f7786bb0ec",
+            "name": "ZIZI GRID",
+            "connectors": [],
+            "formatted_address": "433/D, Saraswat Colony, Somwar Peth, Pune, Maharashtra 411001",
+            "address_components": {
+                "district": "Saraswat Colony, Somwar Peth",
+                "street_address": "433/D",
+                "city": "Pune",
+                "zipcode": "411001",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.522518299999998,
+            "longitude": 73.8688997,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2c05c56e13191:0xef97a5f7786bb0ec",
+            "phone_number": null,
+            "opening_hours": {},
+            "rating": null,
+            "review_count": 0,
+            "website": "http://ziziev.com",
+            "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=GLHn66VT-q3zeOIG74gvoA&cb_client=search.gws-prod.gps&w=86&h=86&yaw=233.70053&pitch=0&thumbfov=100",
+            "google_place_id": "ChIJkTHhVlzAwjsR7LBrePell-8",
+            "google_cid": "17264450178843914476"
+        },
+        {
+            "id": "0x3bc2c1c582966f13:0xe64d82e92c971d7d",
+            "name": "Charge Zone Charging Station",
+            "connectors": [
+                {
+                    "type": "CCS",
+                    "total": 2,
+                    "available": null,
+                    "kw": null,
+                    "speed": "Unknown"
+                }
+            ],
+            "formatted_address": "BLOCK-D, Novotel Hotel, 1F, Sakore Nagar, Viman Nagar, Pune, Maharashtra 411014",
+            "address_components": {
+                "district": "Sakore Nagar, Viman Nagar",
+                "street_address": "BLOCK-D, Novotel Hotel, 1F",
+                "city": "Pune",
+                "zipcode": "411014",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.5584259,
+            "longitude": 73.9105678,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2c1c582966f13:0xe64d82e92c971d7d",
+            "phone_number": null,
+            "opening_hours": {
+                "Sunday": [
+                    "Open 24 hours"
+                ],
+                "Monday": [
+                    "Open 24 hours"
+                ],
+                "Tuesday": [
+                    "Open 24 hours"
+                ],
+                "Wednesday": [
+                    "Open 24 hours"
+                ],
+                "Thursday": [
+                    "Open 24 hours"
+                ],
+                "Friday": [
+                    "Open 24 hours"
+                ],
+                "Saturday": [
+                    "Open 24 hours"
+                ]
+            },
+            "rating": null,
+            "review_count": 0,
+            "website": "https://chargezone.com",
+            "photo": "https://lh5.googleusercontent.com/p/AF1QipOkKBpxo6EoYoWUDQa4-kIQfSsIoXgd8LXB-NmW=w1080-h1080-k-no",
+            "google_place_id": "ChIJE2-WgsXBwjsRfR2XLOmCTeY",
+            "google_cid": "16595064139917237629"
+        },
+        {
+            "id": "0x3bc2bfd677494195:0x386c9a79483fe957",
+            "name": "Electric Vehicle Charging Station",
+            "connectors": [],
+            "formatted_address": "GaneshKripa Society, Ramkrishna Paramhans Nagar, Kothrud, Pune, Maharashtra 411038",
+            "address_components": {
+                "district": "GaneshKripa Society, Ramkrishna Paramhans Nagar, Kothrud",
+                "street_address": null,
+                "city": "Pune",
+                "zipcode": "411038",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.5111566,
+            "longitude": 73.8031398,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2bfd677494195:0x386c9a79483fe957",
+            "phone_number": null,
+            "opening_hours": {
+                "Sunday": [
+                    "Open 24 hours"
+                ],
+                "Monday": [
+                    "Open 24 hours"
+                ],
+                "Tuesday": [
+                    "Open 24 hours"
+                ],
+                "Wednesday": [
+                    "Open 24 hours"
+                ],
+                "Thursday": [
+                    "Open 24 hours"
+                ],
+                "Friday": [
+                    "Open 24 hours"
+                ],
+                "Saturday": [
+                    "Open 24 hours"
+                ]
+            },
+            "rating": null,
+            "review_count": 0,
+            "website": null,
+            "photo": "https://lh5.googleusercontent.com/p/AF1QipPOzHitfLDeJfvDS1RA0jLvBRx1mYZMHGB_TVXM=w1080-h1920-k-no",
+            "google_place_id": "ChIJlUFJd9a_wjsRV-k_SHmabDg",
+            "google_cid": "4065794409302583639"
+        },
+        {
+            "id": "0x3bc2eb00177c8ecb:0xf779858405194e32",
+            "name": "Electric Vehicle Charging Station",
+            "connectors": [],
+            "formatted_address": "FVG4+JG9, Vivek Society, Sahakar Nagar, Govardhan Society, Padmavati Nagar, Pune, Maharashtra 411009",
+            "address_components": {
+                "district": "Vivek Society, Sahakar Nagar, Govardhan Society, Padmavati Nagar",
+                "street_address": "FVG4+JG9",
+                "city": "Pune",
+                "zipcode": null,
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.476526,
+            "longitude": 73.8563446,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2eb00177c8ecb:0xf779858405194e32",
+            "phone_number": null,
+            "opening_hours": {
+                "Sunday": [
+                    "Open 24 hours"
+                ],
+                "Monday": [
+                    "Open 24 hours"
+                ],
+                "Tuesday": [
+                    "Open 24 hours"
+                ],
+                "Wednesday": [
+                    "Open 24 hours"
+                ],
+                "Thursday": [
+                    "Open 24 hours"
+                ],
+                "Friday": [
+                    "Open 24 hours"
+                ],
+                "Saturday": [
+                    "Open 24 hours"
+                ]
+            },
+            "rating": null,
+            "review_count": 0,
+            "website": null,
+            "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VPQ7KtX-RdMIlEE_omZhng&cb_client=search.gws-prod.gps&w=86&h=86&yaw=285.75754&pitch=0&thumbfov=100",
+            "google_place_id": "ChIJy458FwDrwjsRMk4ZBYSFefc",
+            "google_cid": "17832431001617911346"
+        },
+        {
+            "id": "0x3bc2c183dda17965:0xca04d5d52ebe0f52",
+            "name": "Charge Zone Charging Station",
+            "connectors": [],
+            "formatted_address": "The Ritz-Carlton, Golf Course Square, Airport Rd, Yerawada, Pune, Maharashtra 411006",
+            "address_components": {
+                "district": "Jayprakash Nagar, Yerawada",
+                "street_address": "The Ritz-Carlton, Golf Course Square, Airport Rd",
+                "city": "Pune",
+                "zipcode": "411006",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.55245,
+            "longitude": 73.89032,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2c183dda17965:0xca04d5d52ebe0f52",
+            "phone_number": null,
+            "opening_hours": {
+                "Sunday": [
+                    "Open 24 hours"
+                ],
+                "Monday": [
+                    "Open 24 hours"
+                ],
+                "Tuesday": [
+                    "Open 24 hours"
+                ],
+                "Wednesday": [
+                    "Open 24 hours"
+                ],
+                "Thursday": [
+                    "Open 24 hours"
+                ],
+                "Friday": [
+                    "Open 24 hours"
+                ],
+                "Saturday": [
+                    "Open 24 hours"
+                ]
+            },
+            "rating": null,
+            "review_count": 0,
+            "website": "https://chargezone.com",
+            "photo": "https://lh5.googleusercontent.com/p/AF1QipNf_IQ26evvGbzNH5UFF33WEkIikk_ypOfjqFGL=w1080-h1080-k-no",
+            "google_place_id": "ChIJZXmh3YPBwjsRUg--LtXVBMo",
+            "google_cid": "14556995007157243730"
+        },
+        {
+            "id": "0x3bc2c1495e8251cd:0x35128a8ea01ab261",
+            "name": "goEgo Charging Station",
+            "connectors": [],
+            "formatted_address": "Shop No-4, hospital, Golden East, 2/5, opposite Vitthal Rao Shivarkar Road, Wanowrie, Pune, Maharashtra 401140",
+            "address_components": {
+                "district": "Fatima Nagar, Wanowrie",
+                "street_address": "Shop No-4, hospital, Golden East, 2/5, opposite Vitthal Rao Shivarkar Road",
+                "city": "Pune",
+                "zipcode": "401140",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.5031665,
+            "longitude": 73.9010409,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2c1495e8251cd:0x35128a8ea01ab261",
+            "phone_number": null,
+            "opening_hours": {},
+            "rating": null,
+            "review_count": 0,
+            "website": "http://goegonetwork.com",
+            "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=go4chzp91tzevh1bnWvOCg&cb_client=search.gws-prod.gps&w=86&h=86&yaw=100.284515&pitch=0&thumbfov=100",
+            "google_place_id": "ChIJzVGCXknBwjsRYbIaoI6KEjU",
+            "google_cid": "3824271378767065697"
+        },
+        {
+            "id": "0x3bc2c0afa0262035:0x75c60a1853635dd2",
+            "name": "TATA Charging Station",
+            "connectors": [],
+            "formatted_address": "15, Maulodina Marg, Chikhalwadi, Khadki, Pune, Maharashtra 411003",
+            "address_components": {
+                "district": "Khadki Bazar, Khadki",
+                "street_address": "15, Maulodina Marg, Chikhalwadi",
+                "city": "Pune",
+                "zipcode": "411003",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.565352999999998,
+            "longitude": 73.850865,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2c0afa0262035:0x75c60a1853635dd2",
+            "phone_number": null,
+            "opening_hours": {},
+            "rating": null,
+            "review_count": 0,
+            "website": "https://nexonev.tatamotors.com/charging-locator",
+            "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=bMmy71vt6HDTODOXryboVQ&cb_client=search.gws-prod.gps&w=86&h=86&yaw=292.06204&pitch=0&thumbfov=100",
+            "google_place_id": "ChIJNSAmoK_AwjsR0l1jUxgKxnU",
+            "google_cid": "8486481647420792274"
+        },
+        {
+            "id": "0x3bc29554450c1bdb:0x73b48b79a3f09d27",
+            "name": "Electric Vehicle Charging Station",
+            "connectors": [],
+            "formatted_address": "FR9H+GQ3, Jadhav Nagar, Vadgaon Budruk, Pune, Maharashtra 411041",
+            "address_components": {
+                "district": "Jadhav Nagar, Vadgaon Budruk",
+                "street_address": "FR9H+GQ3",
+                "city": "Pune",
+                "zipcode": "411041",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.4687533,
+            "longitude": 73.8294322,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc29554450c1bdb:0x73b48b79a3f09d27",
+            "phone_number": null,
+            "opening_hours": {},
+            "rating": null,
+            "review_count": 0,
+            "website": null,
+            "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=oOiNBWbV-O7sB1yrl6jhrQ&cb_client=search.gws-prod.gps&w=86&h=86&yaw=218.12155&pitch=0&thumbfov=100",
+            "google_place_id": "ChIJ2xsMRVSVwjsRJ53wo3mLtHM",
+            "google_cid": "8337442164727389479"
+        },
+        {
+            "id": "0x3bc2bf2728a477bf:0xfbbfa64a89fd8ac9",
+            "name": "Ather Space - Electric Scooter Experience Center (Bhandari Auto)",
+            "connectors": [],
+            "formatted_address": "Bilvakunj Aparatment, Bhandarkar Rd, Deccan Gymkhana, Pune, Maharashtra 411004",
+            "address_components": {
+                "district": "Deccan Gymkhana",
+                "street_address": "Bilvakunj Aparatment, Bhandarkar Rd",
+                "city": "Pune",
+                "zipcode": "411004",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.5190262,
+            "longitude": 73.83047619999999,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2bf2728a477bf:0xfbbfa64a89fd8ac9",
+            "phone_number": "+918095221155",
+            "opening_hours": {
+                "Sunday": [
+                    "10am-8pm"
+                ],
+                "Monday": [
+                    "10am-8pm"
+                ],
+                "Tuesday": [
+                    "10am-8pm"
+                ],
+                "Wednesday": [
+                    "10am-8pm"
+                ],
+                "Thursday": [
+                    "10am-8pm"
+                ],
+                "Friday": [
+                    "10am-8pm"
+                ],
+                "Saturday": [
+                    "10am-8pm"
+                ]
+            },
+            "rating": 4,
+            "review_count": 1742,
+            "website": "https://www.bubhandariev.com/?fbclid=PAAab19syMzAnw6-u3YCj96OMuudr_OUQoOq77URtxy0QKA--nMrZR6rcNMxI",
+            "photo": "https://lh5.googleusercontent.com/p/AF1QipMR8ERkGyQkGDLtKA7-suG3ReeD9YCMzPx6HZgx=w3024-h4032-k-no",
+            "google_place_id": "ChIJv3ekKCe_wjsRyYr9iUqmv_s",
+            "google_cid": "18140400663144532681"
+        },
+        {
+            "id": "0x3bc2c115f51f8c09:0x868bafecf36908e0",
+            "name": "TATA Charging Station",
+            "connectors": [],
+            "formatted_address": "HW45+V5G, Sakore Nagar, Viman Nagar, Pune, Maharashtra 411014",
+            "address_components": {
+                "district": "Sakore Nagar, Viman Nagar",
+                "street_address": "HW45+V5G",
+                "city": "Pune",
+                "zipcode": "411014",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.5571795,
+            "longitude": 73.9079648,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2c115f51f8c09:0x868bafecf36908e0",
+            "phone_number": null,
+            "opening_hours": {},
+            "rating": null,
+            "review_count": 0,
+            "website": "https://nexonev.tatamotors.com/charging-locator",
+            "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=75VbmXjxNGM2bZu3K08vEQ&cb_client=search.gws-prod.gps&w=86&h=86&yaw=323.2783&pitch=0&thumbfov=100",
+            "google_place_id": "ChIJCYwf9RXBwjsR4Ahp8-yvi4Y",
+            "google_cid": "9695036055076014304"
+        },
+        {
+            "id": "0x3bc2c18ec5c0b1f9:0xb301f060b26254ff",
+            "name": "Bolt.Earth - Electric Vehicle Charging Station",
+            "connectors": [],
+            "formatted_address": "God Blessings Apartments, Koregaon Park Annexe, Mundhwa, Pune, Maharashtra 411001",
+            "address_components": {
+                "district": "Koregaon Park Annexe, Mundhwa",
+                "street_address": "God Blessings Apartments",
+                "city": "Pune",
+                "zipcode": "411001",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.5389429,
+            "longitude": 73.90715449999999,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2c18ec5c0b1f9:0xb301f060b26254ff",
+            "phone_number": null,
+            "opening_hours": {},
+            "rating": null,
+            "review_count": 0,
+            "website": "https://bolt.earth",
+            "photo": null,
+            "google_place_id": "ChIJ-bHAxY7BwjsR_1RismDwAbM",
+            "google_cid": "12898855105866126591"
+        },
+        {
+            "id": "0x3bc2c01ad8eaaaab:0x45ab04f6b4b39d53",
+            "name": "ELECTRO CHARGE PINPOINT",
+            "connectors": [],
+            "formatted_address": "PLNO 9, FLNO 2, JANSUNDAR APT, SNO 47/30, Parvati, Maharashtra 411009",
+            "address_components": {
+                "district": "Parvati, Parvati Industrial Estate, Parvati Paytha",
+                "street_address": "PLNO 9, FLNO 2, JANSUNDAR APT, SNO 47/30, Parvati",
+                "city": "Pune",
+                "zipcode": "411009",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.492312599999998,
+            "longitude": 73.85467899999999,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2c01ad8eaaaab:0x45ab04f6b4b39d53",
+            "phone_number": "+919209374570",
+            "opening_hours": {},
+            "rating": null,
+            "review_count": 0,
+            "website": "http://electrocharge.in",
+            "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=HLF1t_gQkYE4j7zihbO-iw&cb_client=search.gws-prod.gps&w=86&h=86&yaw=202.22267&pitch=0&thumbfov=100",
+            "google_place_id": "ChIJq6rq2BrAwjsRU52ztPYEq0U",
+            "google_cid": "5020111667274685779"
+        },
+        {
+            "id": "0x3bc2eb0016f07b37:0x6c21024bfe86a66e",
+            "name": "Electric Vehicle Charging Station",
+            "connectors": [],
+            "formatted_address": "28, Raghav Nagar, Chaitany Nagar, Dhankawadi, Pune, Maharashtra 411043",
+            "address_components": {
+                "district": "Raghav Nagar, Chaitany Nagar, Dhankawadi",
+                "street_address": "28",
+                "city": "Pune",
+                "zipcode": "411043",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.460413,
+            "longitude": 73.8562276,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2eb0016f07b37:0x6c21024bfe86a66e",
+            "phone_number": null,
+            "opening_hours": {
+                "Sunday": [
+                    "Open 24 hours"
+                ],
+                "Monday": [
+                    "Open 24 hours"
+                ],
+                "Tuesday": [
+                    "Open 24 hours"
+                ],
+                "Wednesday": [
+                    "Open 24 hours"
+                ],
+                "Thursday": [
+                    "Open 24 hours"
+                ],
+                "Friday": [
+                    "Open 24 hours"
+                ],
+                "Saturday": [
+                    "Open 24 hours"
+                ]
+            },
+            "rating": null,
+            "review_count": 0,
+            "website": null,
+            "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Qk5_ypZOb80CL-nvxsmzsA&cb_client=search.gws-prod.gps&w=86&h=86&yaw=105.80774&pitch=0&thumbfov=100",
+            "google_place_id": "ChIJN3vwFgDrwjsRbqaG_ksCIWw",
+            "google_cid": "7791511355743708782"
+        },
+        {
+            "id": "0x3bc2c181913251a5:0x732940a29f507ac4",
+            "name": "Charge Zone Charging Station",
+            "connectors": [],
+            "formatted_address": "Marriott Suites Pune, 81, Mundhwa Rd, Fatima Nagar, Koregaon Park Annexe, Mundhwa, Pune, Maharashtra 411036",
+            "address_components": {
+                "district": "Fatima Nagar, Koregaon Park Annexe, Mundhwa",
+                "street_address": "Marriott Suites Pune, 81, Mundhwa Rd",
+                "city": "Pune",
+                "zipcode": "411036",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.5328761,
+            "longitude": 73.91047499999999,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2c181913251a5:0x732940a29f507ac4",
+            "phone_number": null,
+            "opening_hours": {
+                "Sunday": [
+                    "Open 24 hours"
+                ],
+                "Monday": [
+                    "Open 24 hours"
+                ],
+                "Tuesday": [
+                    "Open 24 hours"
+                ],
+                "Wednesday": [
+                    "Open 24 hours"
+                ],
+                "Thursday": [
+                    "Open 24 hours"
+                ],
+                "Friday": [
+                    "Open 24 hours"
+                ],
+                "Saturday": [
+                    "Open 24 hours"
+                ]
+            },
+            "rating": null,
+            "review_count": 0,
+            "website": "https://chargezone.com",
+            "photo": "https://lh5.googleusercontent.com/p/AF1QipPrtuDT_-bwqyQOE5tnAwbw1AbSPWPaZ3f-6JI1=w1080-h1080-k-no",
+            "google_place_id": "ChIJpVEykYHBwjsRxHpQn6JAKXM",
+            "google_cid": "8298234855608580804"
+        },
+        {
+            "id": "0x3bc2c18963c9918f:0x6aa3d6546df66b6b",
+            "name": "SBTEK e Moto Pvt Ltd",
+            "connectors": [],
+            "formatted_address": "Bafna Archade , plot no. 58, ctc 994, Lokmanya Bal Gangadhar Tilak Rd, near Swargate, Pune, Maharashtra 411002",
+            "address_components": {
+                "district": "Dadawadi, Shukrawar Peth",
+                "street_address": "Bafna Archade , plot no. 58, ctc 994, Lokmanya Bal Gangadhar Tilak Rd, near Swargate",
+                "city": "Pune",
+                "zipcode": "411002",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.502486599999997,
+            "longitude": 73.8568027,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2c18963c9918f:0x6aa3d6546df66b6b",
+            "phone_number": null,
+            "opening_hours": {
+                "Sunday": [
+                    "9am-8pm"
+                ],
+                "Monday": [
+                    "9am-8pm"
+                ],
+                "Tuesday": [
+                    "9am-8pm"
+                ],
+                "Wednesday": [
+                    "9am-8pm"
+                ],
+                "Thursday": [
+                    "9am-8pm"
+                ],
+                "Friday": [
+                    "9am-8pm"
+                ],
+                "Saturday": [
+                    "9am-8pm"
+                ]
+            },
+            "rating": 4.9,
+            "review_count": 1353,
+            "website": null,
+            "photo": "https://lh5.googleusercontent.com/p/AF1QipP15CCO7l7Uw1ehGbE_r61BwVNN60_p7BZaLxs6=w3024-h4032-k-no",
+            "google_place_id": "ChIJj5HJY4nBwjsRa2v2bVTWo2o",
+            "google_cid": "7684221047334660971"
+        },
+        {
+            "id": "0x3bc2bf6976a4be51:0x59708b1ebda15a42",
+            "name": "Ather Grid Charging Station",
+            "connectors": [],
+            "formatted_address": "MontVert Avion, Pashan - Sus Rd, opp. SBI, Branch, Pashan, Pune, Maharashtra 411021",
+            "address_components": {
+                "district": "Branch, Pashan",
+                "street_address": "MontVert Avion, Pashan - Sus Rd, opp. SBI",
+                "city": "Pune",
+                "zipcode": "411021",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.541940399999998,
+            "longitude": 73.791618,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2bf6976a4be51:0x59708b1ebda15a42",
+            "phone_number": "+917676600900",
+            "opening_hours": {
+                "Sunday": [
+                    "10am-9pm"
+                ],
+                "Monday": [
+                    "10am-9pm"
+                ],
+                "Tuesday": [
+                    "10am-9pm"
+                ],
+                "Wednesday": [
+                    "10am-9pm"
+                ],
+                "Thursday": [
+                    "10am-9pm"
+                ],
+                "Friday": [
+                    "10am-9pm"
+                ],
+                "Saturday": [
+                    "10am-9pm"
+                ]
+            },
+            "rating": null,
+            "review_count": 0,
+            "website": "https://atherenergy.com/grid",
+            "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PEZfoAvxqA1vFyM-hReWNA&cb_client=search.gws-prod.gps&w=86&h=86&yaw=358.52808&pitch=0&thumbfov=100",
+            "google_place_id": "ChIJUb6kdmm_wjsRQlqhvR6LcFk",
+            "google_cid": "6444804030913927746"
+        },
+        {
+            "id": "0x3bc2bf4ab6a83215:0xbe0abeeb5b9febcb",
+            "name": "Jio-bp pulse Charging Station",
+            "connectors": [],
+            "formatted_address": "Ward No 8, Westend Mall, Harmony Society Mahadji Shhinde Rd, DP Rd, near Parihar, Wireless Col, Aundh, Pune, Maharashtra 411007",
+            "address_components": {
+                "district": "Harmony Society, Ward No. 8, Wireless Col, Aundh",
+                "street_address": "Ward No 8, Westend Mall, Harmony Society Mahadji Shhinde Rd, DP Rd, near Parihar",
+                "city": "Pune",
+                "zipcode": "411007",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.561617599999998,
+            "longitude": 73.8069184,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2bf4ab6a83215:0xbe0abeeb5b9febcb",
+            "phone_number": null,
+            "opening_hours": {
+                "Sunday": [
+                    "Open 24 hours"
+                ],
+                "Monday": [
+                    "Open 24 hours"
+                ],
+                "Tuesday": [
+                    "Open 24 hours"
+                ],
+                "Wednesday": [
+                    "Open 24 hours"
+                ],
+                "Thursday": [
+                    "Open 24 hours"
+                ],
+                "Friday": [
+                    "Open 24 hours"
+                ],
+                "Saturday": [
+                    "Open 24 hours"
+                ]
+            },
+            "rating": null,
+            "review_count": 0,
+            "website": "https://mobilitystation.jiobp.com/jio-bp-pulse-electric-vehicle-charging-station-aundh-pune-251895/Home",
+            "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=T277jUDSoFYFhVSllAU5uA&cb_client=search.gws-prod.gps&w=86&h=86&yaw=273.54953&pitch=0&thumbfov=100",
+            "google_place_id": "ChIJFTKotkq_wjsRy-ufW-u-Cr4",
+            "google_cid": "13693967535037213643"
+        },
+        {
+            "id": "0x3bc2bf329051182b:0x3b67727aaaebaa2c",
+            "name": "Bolt.Earth - Electric Vehicle Charging Station",
+            "connectors": [],
+            "formatted_address": "Rahul Park, AtulNagar Phase I, Atul Nagar, Warje, Pune, Maharashtra 411058",
+            "address_components": {
+                "district": "AtulNagar Phase I, Atul Nagar, Warje",
+                "street_address": "Rahul Park",
+                "city": "Pune",
+                "zipcode": "411058",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.485509399999998,
+            "longitude": 73.7958651,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2bf329051182b:0x3b67727aaaebaa2c",
+            "phone_number": "+918045688448",
+            "opening_hours": {},
+            "rating": null,
+            "review_count": 0,
+            "website": "https://bolt.earth",
+            "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uu6TxsF_ZNrldPRGU88Maw&cb_client=search.gws-prod.gps&w=86&h=86&yaw=291.60242&pitch=0&thumbfov=100",
+            "google_place_id": "ChIJKxhRkDK_wjsRLKrrqnpyZzs",
+            "google_cid": "4280515842018093612"
+        },
+        {
+            "id": "0x3bc2c1a241d86c9d:0x6ee354a89e92dfd4",
+            "name": "SunArth Charging Station",
+            "connectors": [],
+            "formatted_address": "Inner Circle, Cybercity, Magarpatta, Hadapsar, Pune, Maharashtra 411028",
+            "address_components": {
+                "district": "Cybercity, Magarpatta, Hadapsar",
+                "street_address": "Inner Circle",
+                "city": "Pune",
+                "zipcode": "411028",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.5150127,
+            "longitude": 73.9244626,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2c1a241d86c9d:0x6ee354a89e92dfd4",
+            "phone_number": null,
+            "opening_hours": {},
+            "rating": null,
+            "review_count": 0,
+            "website": "https://sunarth.com/home",
+            "photo": null,
+            "google_place_id": "ChIJnWzYQaLBwjsR1N-SnqhU424",
+            "google_cid": "7990323247077056468"
+        },
+        {
+            "id": "0x3bc2c152d70570fb:0xf58bc815c5eb28d7",
+            "name": "Jio-bp pulse Charging Station",
+            "connectors": [],
+            "formatted_address": "Level 3, Bny Mellon, Tower S3, Cybercity, Magarpatta, Hadapsar, Pune, Maharashtra 411013",
+            "address_components": {
+                "district": "Cybercity, Magarpatta, Hadapsar",
+                "street_address": "Level 3, Bny Mellon, Tower S3",
+                "city": "Pune",
+                "zipcode": "411013",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.515100099999998,
+            "longitude": 73.9232001,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2c152d70570fb:0xf58bc815c5eb28d7",
+            "phone_number": null,
+            "opening_hours": {
+                "Sunday": [
+                    "Open 24 hours"
+                ],
+                "Monday": [
+                    "Open 24 hours"
+                ],
+                "Tuesday": [
+                    "Open 24 hours"
+                ],
+                "Wednesday": [
+                    "Open 24 hours"
+                ],
+                "Thursday": [
+                    "Open 24 hours"
+                ],
+                "Friday": [
+                    "Open 24 hours"
+                ],
+                "Saturday": [
+                    "Open 24 hours"
+                ]
+            },
+            "rating": null,
+            "review_count": 0,
+            "website": "https://mobilitystation.jiobp.com/jio-bp-pulse-electric-vehicle-charging-station-hadapsar-pune-289760/Home",
+            "photo": null,
+            "google_place_id": "ChIJ-3AF11LBwjsR1yjrxRXIi_U",
+            "google_cid": "17693455556895516887"
+        },
+        {
+            "id": "0x3bc2b9e8ce2e399f:0xb24c67c2c260792e",
+            "name": "Bolt.Earth - Electric Vehicle Charging Station",
+            "connectors": [],
+            "formatted_address": "Shri Samatrh Auto Services, CME Rd, Jai Bhim Nagar, Dapodi, Pune, Pimpri-Chinchwad, Maharashtra 411003",
+            "address_components": {
+                "district": "Jai Bhim Nagar, Dapodi",
+                "street_address": "Shri Samatrh Auto Services, CME Rd",
+                "city": "Pune, Pimpri-Chinchwad",
+                "zipcode": "411003",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.5792286,
+            "longitude": 73.8347387,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2b9e8ce2e399f:0xb24c67c2c260792e",
+            "phone_number": null,
+            "opening_hours": {},
+            "rating": null,
+            "review_count": 0,
+            "website": "https://bolt.earth",
+            "photo": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Wsqx0Hu2qbOiTojgvwzocw&cb_client=search.gws-prod.gps&w=86&h=86&yaw=157.04579&pitch=0&thumbfov=100",
+            "google_place_id": "ChIJnzkuzui5wjsRLnlgwsJnTLI",
+            "google_cid": "12847757923163601198"
+        },
+        {
+            "id": "0x3bc2c169ec5a3649:0x9ee88baff59c44a7",
+            "name": "Ather Service Center",
+            "connectors": [],
+            "formatted_address": "98A, 18, behind kirloskar numatic company, Swami Vivekanand Nagar, Hadapsar Industrial Estate, Hadapsar, Pune, Maharashtra 411013",
+            "address_components": {
+                "district": "Swami Vivekanand Nagar, Hadapsar Industrial Estate, Hadapsar",
+                "street_address": "98A, 18, behind kirloskar numatic company",
+                "city": "Pune",
+                "zipcode": "411013",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.507301599999998,
+            "longitude": 73.9148477,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2c169ec5a3649:0x9ee88baff59c44a7",
+            "phone_number": "+917996900011",
+            "opening_hours": {
+                "Sunday": [
+                    "10am-6:30pm"
+                ],
+                "Monday": [
+                    "10am-6:30pm"
+                ],
+                "Tuesday": [
+                    "10am-6:30pm"
+                ],
+                "Wednesday": [
+                    "10am-6:30pm"
+                ],
+                "Thursday": [
+                    "10am-6:30pm"
+                ],
+                "Friday": [
+                    "10am-6:30pm"
+                ],
+                "Saturday": [
+                    "10am-6:30pm"
+                ]
+            },
+            "rating": 4.5,
+            "review_count": 178,
+            "website": "https://www.atherenergy.com",
+            "photo": "https://lh5.googleusercontent.com/p/AF1QipPBvAf0px66SAALpvmxysgmQ1l5alo4yYBcnyB9=w6016-h4016-k-no",
+            "google_place_id": "ChIJSTZa7GnBwjsRp0Sc9a-L6J4",
+            "google_cid": "11450555640445682855"
+        },
+        {
+            "id": "0x3bc2bf33f6c6aa3f:0x539d16ec7577a460",
+            "name": "TATA Charging Station",
+            "connectors": [],
+            "formatted_address": "Aundh, Ward No. 8, Aundh Gaon,, Aundh Gaon, Aundh, Maharashtra 411007",
+            "address_components": {
+                "district": "Phase 2, Aundh Gaon, Aundh",
+                "street_address": "Aundh, Ward No. 8, Aundh Gaon,",
+                "city": "Aundh",
+                "zipcode": "411007",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.5672501,
+            "longitude": 73.8121015,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2bf33f6c6aa3f:0x539d16ec7577a460",
+            "phone_number": null,
+            "opening_hours": {},
+            "rating": null,
+            "review_count": 0,
+            "website": "https://nexonev.tatamotors.com/charging-locator",
+            "photo": null,
+            "google_place_id": "ChIJP6rG9jO_wjsRYKR3dewWnVM",
+            "google_cid": "6024997081330459744"
+        },
+        {
+            "id": "0x3bc2c10e4254f345:0xf1b3f4b56cb097f2",
+            "name": "ACE EV - Ampere (Greaves) Electric Vehicles Dealership Pune Magnus",
+            "connectors": [],
+            "formatted_address": "Epicentre, Showroom no 3, S4, Ashwini Society Rd, near Shopper Stop, Corporation Colony, Shivajinagar, Pune, Maharashtra 411005",
+            "address_components": {
+                "district": "Corporation Colony, Shivajinagar",
+                "street_address": "Epicentre, Showroom no 3, S4, Ashwini Society Rd, near Shopper Stop",
+                "city": "Pune",
+                "zipcode": "411005",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.5354434,
+            "longitude": 73.8514242,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2c10e4254f345:0xf1b3f4b56cb097f2",
+            "phone_number": "+919028025111",
+            "opening_hours": {
+                "Sunday": [
+                    "10am-7pm"
+                ],
+                "Monday": [
+                    "10am-7pm"
+                ],
+                "Tuesday": [
+                    "10am-7pm"
+                ],
+                "Wednesday": [
+                    "10am-7pm"
+                ],
+                "Thursday": [
+                    "10am-7pm"
+                ],
+                "Friday": [
+                    "10am-7pm"
+                ],
+                "Saturday": [
+                    "10am-7pm"
+                ]
+            },
+            "rating": 4.5,
+            "review_count": 217,
+            "website": "https://amperevehicles.com",
+            "photo": "https://lh5.googleusercontent.com/p/AF1QipOarRRrS9wQsfmEv2V39dW-HqI4b88LRrQ8g6kA=w4624-h2604-k-no",
+            "google_place_id": "ChIJRfNUQg7BwjsR8pewbLX0s_E",
+            "google_cid": "17416533244021610482"
+        },
+        {
+            "id": "0x3bc2eab1b6aaaaab:0x9527d5f2d69cc4c1",
+            "name": "SSLI",
+            "connectors": [],
+            "formatted_address": "Flat No 11 Survey No 8, Jyoti Garden, No 2, Vivekananda Nagar, near Pmc Water Tank, Darshan Society, Talajai Pathar, Dhankawadi, Pune, Maharashtra 411043",
+            "address_components": {
+                "district": "Darshan Society, Talajai Pathar, Dhankawadi",
+                "street_address": "Flat No 11 Survey No 8, Jyoti Garden, No 2, Vivekananda Nagar, near Pmc Water Tank",
+                "city": "Pune",
+                "zipcode": "411043",
+                "state": "Maharashtra",
+                "country": "IN"
+            },
+            "latitude": 18.469887999999997,
+            "longitude": 73.85036029999999,
+            "place_link": "https://www.google.com/maps/place/data=!3m1!4b1!4m2!3m1!1s0x3bc2eab1b6aaaaab:0x9527d5f2d69cc4c1",
+            "phone_number": "+919355571111",
+            "opening_hours": {},
+            "rating": null,
+            "review_count": 0,
+            "website": "http://ssli.in",
+            "photo": null,
+            "google_place_id": "ChIJq6qqtrHqwjsRwcSc1vLVJ5U",
+            "google_cid": "10747794274702378177"
+        }
+    ]
+}

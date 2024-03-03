@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Book Slot</title>
+    <style>
+        .time-slot {
+            border: 1px solid #ccc;
+            padding: 5px;
+            margin: 5px;
+            width: calc(100% / 7);
+            /* Adjust the width to fit 7 slots per row */
+            display: inline-block;
+        }
+    </style>
+</head>
+
+<body>
+    <h2>Book Slot</h2>
+    <div id="slot-container"></div>
+
+    <script>
+        // Function to generate time slots from 10 am to 5 pm
+        function generateTimeSlots() {
+            var slotContainer = document.getElementById('slot-container');
+
+            // Loop from 10 am to 5 pm
+            for (var hour = 10; hour <= 17; hour++) {
+                // Loop through each minute (0 to 59)
+                for (var minute = 0; minute < 60; minute += 15) {
+                    // Format the time as HH:MM
+                    var time = `${hour < 10 ? '0' + hour : hour}:${minute === 0 ? '00' : minute}`;
+
+                    // Create a div for each time slot
+                    var div = document.createElement('div');
+                    div.className = 'time-slot';
+                    div.textContent = time;
+                    slotContainer.appendChild(div);
+                }
+            }
+        }
+
+        // Call the function to generate time slots
+        generateTimeSlots();
+    </script>
+</body>
+
+</html>

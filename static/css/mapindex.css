@@ -1,0 +1,30 @@
+.select-container {
+    margin-bottom: 20px; /* Adjust margin as needed */
+}
+
+.select-container select {
+    width: 200px; /* Adjust width as needed */
+    padding: 8px; /* Adjust padding as needed */
+    font-size: 16px; /* Adjust font size as needed */
+    border: 1px solid #ccc; /* Adjust border properties as needed */
+    border-radius: 5px; /* Adjust border radius as needed */
+    outline: none; /* Remove outline */
+    appearance: none; /* Remove default appearance */
+    background-color: #fff; /* Set background color */
+    cursor: pointer; /* Change cursor on hover */
+}
+
+.select-container select:hover {
+    background-color: #f9f9f9; /* Change background color on hover */
+}
+
+/* Optional: Style the options */
+.select-container select option {
+    padding: 8px; /* Adjust padding as needed */
+    font-size: 16px; /* Adjust font size as needed */
+}
+
+/* Optional: Style the container div */
+.select-container {
+    display: inline-block; /* Display as inline-block */
+}
